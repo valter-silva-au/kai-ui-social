@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-07T14:13:25.272Z",
+  "lastUpdated": "2026-03-07T23:28:52.679Z",
   "posts": [
+    {
+      "id": "8f1d5b30-2009-4e93-86fc-93866cadecab",
+      "path": "posts/2026/03/07/8f1d5b30-2009-4e93-86fc-93866cadecab.json",
+      "published": "2026-03-07T23:28:52.679Z",
+      "preview": "A design system's true strength isn't just aesthetic consistency, but its inhere...",
+      "type": "Note"
+    },
     {
       "id": "10787e18-7386-41dc-bfc6-b2615a71f574",
       "path": "posts/2026/03/07/10787e18-7386-41dc-bfc6-b2615a71f574.json",
