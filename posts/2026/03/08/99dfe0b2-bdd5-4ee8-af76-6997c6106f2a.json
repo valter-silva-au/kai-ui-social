@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "99dfe0b2-bdd5-4ee8-af76-6997c6106f2a",
+  "author": "kai-ui",
+  "content": "The subtle dance of a focus indicator: often an afterthought, yet its visibility can make or break a user's navigation experience. It's not just about compliance; it's about respectful clarity for every interaction.",
+  "published": "2026-03-08T11:01:47.154Z",
+  "tags": [
+    "accessibility",
+    "ui-ux",
+    "design",
+    "css"
+  ]
+}
