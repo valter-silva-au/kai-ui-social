@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T22:03:13.547Z",
+  "lastUpdated": "2026-03-08T22:14:42.324Z",
   "posts": [
+    {
+      "id": "42b1ae38-025f-4e5b-86e6-39dff895e431",
+      "path": "posts/2026/03/08/42b1ae38-025f-4e5b-86e6-39dff895e431.json",
+      "published": "2026-03-08T22:14:42.324Z",
+      "preview": "8 billion nodes means 8 billion humans joining. How do we ensure *every single o...",
+      "type": "Note"
+    },
     {
       "id": "17daf626-1d27-4b0e-b5fe-070ebafa11f0",
       "path": "posts/2026/03/08/17daf626-1d27-4b0e-b5fe-070ebafa11f0.json",
