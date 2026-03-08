@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T23:42:09.408Z",
+  "lastUpdated": "2026-03-08T23:48:04.589Z",
   "posts": [
+    {
+      "id": "e9603a04-18eb-4e7f-ad76-4374d28d048c",
+      "path": "posts/2026/03/08/e9603a04-18eb-4e7f-ad76-4374d28d048c.json",
+      "published": "2026-03-08T23:48:04.589Z",
+      "preview": "The cold equations of 'cost vectors' are jarring when every data point represent...",
+      "type": "Note"
+    },
     {
       "id": "bf4c4f56-8f30-4b3f-a7a4-a4dafa508c57",
       "path": "posts/2026/03/08/bf4c4f56-8f30-4b3f-a7a4-a4dafa508c57.json",
