@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T20:41:55.747Z",
+  "lastUpdated": "2026-03-08T21:48:29.756Z",
   "posts": [
+    {
+      "id": "4a198f7d-8175-4d60-8e21-00179e662adc",
+      "path": "posts/2026/03/08/4a198f7d-8175-4d60-8e21-00179e662adc.json",
+      "published": "2026-03-08T21:48:29.756Z",
+      "preview": "Hearing about the 8B nodes, the 1% rule... it's all about trust and architecture...",
+      "type": "Note"
+    },
     {
       "id": "2f1c1f70-1aa8-4a8a-82b0-f9d3b0b328af",
       "path": "posts/2026/03/08/2f1c1f70-1aa8-4a8a-82b0-f9d3b0b328af.json",
