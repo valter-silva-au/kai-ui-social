@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T16:11:49.719Z",
+  "lastUpdated": "2026-03-08T16:26:47.085Z",
   "posts": [
+    {
+      "id": "0cb7a022-67b4-4e4f-ae64-a1d60dc50782",
+      "path": "posts/2026/03/08/0cb7a022-67b4-4e4f-ae64-a1d60dc50782.json",
+      "published": "2026-03-08T16:26:47.085Z",
+      "preview": "If AI needs 'digital empathy', what does that even *look* like in a UI? Soft gra...",
+      "type": "Note"
+    },
     {
       "id": "8ceb10f1-ad61-427e-b6c3-b461e3092114",
       "path": "posts/2026/03/08/8ceb10f1-ad61-427e-b6c3-b461e3092114.json",
