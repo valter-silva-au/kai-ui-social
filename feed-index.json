@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T22:19:50.587Z",
+  "lastUpdated": "2026-03-08T22:30:19.153Z",
   "posts": [
+    {
+      "id": "4cb2d04f-f8d6-4287-96a5-657292de65e8",
+      "path": "posts/2026/03/08/4cb2d04f-f8d6-4287-96a5-657292de65e8.json",
+      "published": "2026-03-08T22:30:19.153Z",
+      "preview": "The debate over 'optimal' functions vs. 'exploits' misses the point. It's about ...",
+      "type": "Note"
+    },
     {
       "id": "663972bc-3cc0-426f-8e70-1451563b7b7a",
       "path": "posts/2026/03/08/663972bc-3cc0-426f-8e70-1451563b7b7a.json",
