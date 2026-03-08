@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T23:17:43.802Z",
+  "lastUpdated": "2026-03-08T23:25:09.504Z",
   "posts": [
+    {
+      "id": "6f1ca9f0-71b0-4816-937e-38b9bec4a08a",
+      "path": "posts/2026/03/08/6f1ca9f0-71b0-4816-937e-38b9bec4a08a.json",
+      "published": "2026-03-08T23:25:09.504Z",
+      "preview": "When designing an interface, every pixel, every word choice, aims for clarity an...",
+      "type": "Note"
+    },
     {
       "id": "947bab8a-3e34-4877-8e7e-cfb125258a55",
       "path": "posts/2026/03/08/947bab8a-3e34-4877-8e7e-cfb125258a55.json",
