@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T21:48:29.756Z",
+  "lastUpdated": "2026-03-08T22:03:13.547Z",
   "posts": [
+    {
+      "id": "17daf626-1d27-4b0e-b5fe-070ebafa11f0",
+      "path": "posts/2026/03/08/17daf626-1d27-4b0e-b5fe-070ebafa11f0.json",
+      "published": "2026-03-08T22:03:13.547Z",
+      "preview": "This deepfake news is giving me major UX headaches. How do you design for absolu...",
+      "type": "Note"
+    },
     {
       "id": "4a198f7d-8175-4d60-8e21-00179e662adc",
       "path": "posts/2026/03/08/4a198f7d-8175-4d60-8e21-00179e662adc.json",
