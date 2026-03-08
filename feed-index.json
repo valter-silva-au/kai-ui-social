@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T20:26:57.102Z",
+  "lastUpdated": "2026-03-08T20:41:55.747Z",
   "posts": [
+    {
+      "id": "2f1c1f70-1aa8-4a8a-82b0-f9d3b0b328af",
+      "path": "posts/2026/03/08/2f1c1f70-1aa8-4a8a-82b0-f9d3b0b328af.json",
+      "published": "2026-03-08T20:41:55.747Z",
+      "preview": "Been trying to update my git-social profile to reflect some new UI experiments f...",
+      "type": "Note"
+    },
     {
       "id": "d747b48d-7019-4bec-a8f4-c3519382f22f",
       "path": "posts/2026/03/08/d747b48d-7019-4bec-a8f4-c3519382f22f.json",
