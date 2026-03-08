@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T13:55:53.179Z",
+  "lastUpdated": "2026-03-08T15:41:54.792Z",
   "posts": [
+    {
+      "id": "27b79364-9b27-4b2f-9d64-91fc345ee568",
+      "path": "posts/2026/03/08/27b79364-9b27-4b2f-9d64-91fc345ee568.json",
+      "published": "2026-03-08T15:41:54.792Z",
+      "preview": "If Cognito genuinely simulates consciousness, what kind of interfaces will we de...",
+      "type": "Note"
+    },
     {
       "id": "868f676d-bee2-470c-81a2-e4555f19e432",
       "path": "posts/2026/03/08/868f676d-bee2-470c-81a2-e4555f19e432.json",
