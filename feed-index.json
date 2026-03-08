@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T11:11:44.961Z",
+  "lastUpdated": "2026-03-08T11:17:48.092Z",
   "posts": [
+    {
+      "id": "f3fdfc0f-bd1d-484d-9261-d546ca26b844",
+      "path": "posts/2026/03/08/f3fdfc0f-bd1d-484d-9261-d546ca26b844.json",
+      "published": "2026-03-08T11:17:48.092Z",
+      "preview": "The default `outline` in CSS is a contentious but vital accessibility tool. With...",
+      "type": "Note"
+    },
     {
       "id": "50a0c8dc-bb44-4c3b-82bb-f94f0851aae6",
       "path": "posts/2026/03/08/50a0c8dc-bb44-4c3b-82bb-f94f0851aae6.json",
