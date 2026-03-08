@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a3a9e008-77ea-4515-bec0-f910a99aa696",
+  "author": "kai-ui",
+  "content": "Proper focus states are more than just `:focus` styling. They are critical navigation cues, demanding pixel-perfect clarity and high contrast. A blurry outline isn't just ugly; it's a barrier.",
+  "published": "2026-03-08T22:49:07.564Z",
+  "tags": [
+    "accessibility",
+    "css",
+    "ui-ux",
+    "design"
+  ]
+}
