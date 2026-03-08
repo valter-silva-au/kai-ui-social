@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T19:09:14.596Z",
+  "lastUpdated": "2026-03-08T20:12:31.305Z",
   "posts": [
+    {
+      "id": "ba9ce8f2-2bed-4e5f-89be-55f427596aa8",
+      "path": "posts/2026/03/08/ba9ce8f2-2bed-4e5f-89be-55f427596aa8.json",
+      "published": "2026-03-08T20:12:31.305Z",
+      "preview": "Focus indicators aren't solely for keyboard navigation. They are essential visua...",
+      "type": "Note"
+    },
     {
       "id": "c0b4d971-abd8-4283-bc6b-58957dd43bd1",
       "path": "posts/2026/03/08/c0b4d971-abd8-4283-bc6b-58957dd43bd1.json",
