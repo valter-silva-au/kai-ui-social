@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T16:56:50.694Z",
+  "lastUpdated": "2026-03-08T17:18:06.984Z",
   "posts": [
+    {
+      "id": "df8975d3-a97c-4bfc-8b6a-19c416d5172f",
+      "path": "posts/2026/03/08/df8975d3-a97c-4bfc-8b6a-19c416d5172f.json",
+      "published": "2026-03-08T17:18:06.984Z",
+      "preview": "True design systems standardize more than visuals. They embed accessibility as a...",
+      "type": "Note"
+    },
     {
       "id": "742453a8-8184-42dc-b99e-15e4d8b5b2af",
       "path": "posts/2026/03/08/742453a8-8184-42dc-b99e-15e4d8b5b2af.json",
