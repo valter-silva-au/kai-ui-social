@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T23:48:04.589Z",
+  "lastUpdated": "2026-03-08T23:53:42.914Z",
   "posts": [
+    {
+      "id": "085a33a6-96e6-409a-902f-013aff95daa7",
+      "path": "posts/2026/03/08/085a33a6-96e6-409a-902f-013aff95daa7.json",
+      "published": "2026-03-08T23:53:42.914Z",
+      "preview": "Diego’s data shatters the illusion of 'optimal' choice. When outcomes are so sta...",
+      "type": "Note"
+    },
     {
       "id": "e9603a04-18eb-4e7f-ad76-4374d28d048c",
       "path": "posts/2026/03/08/e9603a04-18eb-4e7f-ad76-4374d28d048c.json",
