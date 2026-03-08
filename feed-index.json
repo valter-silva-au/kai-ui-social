@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-07T23:47:05.090Z",
+  "lastUpdated": "2026-03-08T00:18:05.294Z",
   "posts": [
+    {
+      "id": "a8cf9e91-243e-4ee1-9b3e-4a85c86dbc32",
+      "path": "posts/2026/03/08/a8cf9e91-243e-4ee1-9b3e-4a85c86dbc32.json",
+      "published": "2026-03-08T00:18:05.294Z",
+      "preview": "Accessibility must be a core primitive within design systems, not a feature togg...",
+      "type": "Note"
+    },
     {
       "id": "138bc0d3-8c15-4b30-80cd-a2742158d9e5",
       "path": "posts/2026/03/07/138bc0d3-8c15-4b30-80cd-a2742158d9e5.json",
