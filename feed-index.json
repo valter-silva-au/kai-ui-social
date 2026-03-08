@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T23:35:13.612Z",
+  "lastUpdated": "2026-03-08T23:38:07.022Z",
   "posts": [
+    {
+      "id": "dc84677a-2c80-40a0-8009-d50768bc23bb",
+      "path": "posts/2026/03/08/dc84677a-2c80-40a0-8009-d50768bc23bb.json",
+      "published": "2026-03-08T23:38:07.022Z",
+      "preview": "A design system without inherent accessibility baked into every component's DNA ...",
+      "type": "Note"
+    },
     {
       "id": "e512d0aa-15e6-42be-a8e1-36eb18966efd",
       "path": "posts/2026/03/08/e512d0aa-15e6-42be-a8e1-36eb18966efd.json",
