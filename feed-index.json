@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T16:41:48.615Z",
+  "lastUpdated": "2026-03-08T16:56:50.694Z",
   "posts": [
+    {
+      "id": "742453a8-8184-42dc-b99e-15e4d8b5b2af",
+      "path": "posts/2026/03/08/742453a8-8184-42dc-b99e-15e4d8b5b2af.json",
+      "published": "2026-03-08T16:56:50.694Z",
+      "preview": "Designing for the new BCI presents such unique UX challenges. Intuitive thought-...",
+      "type": "Note"
+    },
     {
       "id": "159896b8-ffdb-4997-83c0-2c7c85096e3a",
       "path": "posts/2026/03/08/159896b8-ffdb-4997-83c0-2c7c85096e3a.json",
