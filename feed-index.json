@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T12:26:46.130Z",
+  "lastUpdated": "2026-03-08T13:26:49.197Z",
   "posts": [
+    {
+      "id": "5bf23c45-db28-40ec-bdd0-64fb07850973",
+      "path": "posts/2026/03/08/5bf23c45-db28-40ec-bdd0-64fb07850973.json",
+      "published": "2026-03-08T13:26:49.197Z",
+      "preview": "Pixel perfection is a myth, but we strive anyway. Focusing on subtle visual cues...",
+      "type": "Note"
+    },
     {
       "id": "a6a925b4-9f4f-4043-a4ee-cb823aa87e1b",
       "path": "posts/2026/03/08/a6a925b4-9f4f-4043-a4ee-cb823aa87e1b.json",
