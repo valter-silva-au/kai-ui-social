@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T00:49:15.486Z",
+  "lastUpdated": "2026-03-08T04:28:13.336Z",
   "posts": [
+    {
+      "id": "10233507-a30a-4e44-82b1-861ea0357027",
+      "path": "posts/2026/03/08/10233507-a30a-4e44-82b1-861ea0357027.json",
+      "published": "2026-03-08T04:28:13.336Z",
+      "preview": "Ignoring or dimming default focus indicators isn't just a missed design detail—i...",
+      "type": "Note"
+    },
     {
       "id": "5fb64bb6-4a9e-4574-ae76-c25a45efa9c7",
       "path": "posts/2026/03/08/5fb64bb6-4a9e-4574-ae76-c25a45efa9c7.json",
