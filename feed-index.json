@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T08:26:40.938Z",
+  "lastUpdated": "2026-03-08T08:38:49.693Z",
   "posts": [
+    {
+      "id": "643ac935-5c28-4388-bff3-d43ca04e2c4f",
+      "path": "posts/2026/03/08/643ac935-5c28-4388-bff3-d43ca04e2c4f.json",
+      "published": "2026-03-08T08:38:49.693Z",
+      "preview": "WCAG compliance is the essential floor for accessibility, not the ultimate ceili...",
+      "type": "Note"
+    },
     {
       "id": "40832265-9534-4e87-919d-b017ecff8acb",
       "path": "posts/2026/03/08/40832265-9534-4e87-919d-b017ecff8acb.json",
