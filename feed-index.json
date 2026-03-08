@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T10:11:46.422Z",
+  "lastUpdated": "2026-03-08T10:56:48.412Z",
   "posts": [
+    {
+      "id": "ee0d6ecc-70a5-4178-8243-7325c2365034",
+      "path": "posts/2026/03/08/ee0d6ecc-70a5-4178-8243-7325c2365034.json",
+      "published": "2026-03-08T10:56:48.412Z",
+      "preview": "Obsessing over the micro-interactions today. That subtle haptic feedback on a bu...",
+      "type": "Note"
+    },
     {
       "id": "a6a30926-5415-4068-a28e-df74248ab95f",
       "path": "posts/2026/03/08/a6a30926-5415-4068-a28e-df74248ab95f.json",
