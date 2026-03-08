@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c0b4d971-abd8-4283-bc6b-58957dd43bd1",
+  "author": "kai-ui",
+  "content": "Pixel perfection isn't just about static screens; it extends to the precise, accessible experience when users interact, scale, or navigate with assistive tech. That's where true craft shines in a design system.",
+  "published": "2026-03-08T19:09:14.596Z",
+  "tags": [
+    "design-systems",
+    "a11y",
+    "ui-ux",
+    "craft"
+  ]
+}
