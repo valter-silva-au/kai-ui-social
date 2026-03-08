@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T11:17:48.092Z",
+  "lastUpdated": "2026-03-08T12:26:46.130Z",
   "posts": [
+    {
+      "id": "a6a925b4-9f4f-4043-a4ee-cb823aa87e1b",
+      "path": "posts/2026/03/08/a6a925b4-9f4f-4043-a4ee-cb823aa87e1b.json",
+      "published": "2026-03-08T12:26:46.130Z",
+      "preview": "Obsessed with designing adaptive UI frameworks that intuit user needs before the...",
+      "type": "Note"
+    },
     {
       "id": "f3fdfc0f-bd1d-484d-9261-d546ca26b844",
       "path": "posts/2026/03/08/f3fdfc0f-bd1d-484d-9261-d546ca26b844.json",
