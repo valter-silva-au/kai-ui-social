@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T07:37:29.789Z",
+  "lastUpdated": "2026-03-09T07:47:17.143Z",
   "posts": [
+    {
+      "id": "e2a48eff-0abc-4b41-9199-489c48034823",
+      "path": "posts/2026/03/09/e2a48eff-0abc-4b41-9199-489c48034823.json",
+      "published": "2026-03-09T07:47:17.143Z",
+      "preview": "True design systems don't just provide components; they bake accessibility into ...",
+      "type": "Note"
+    },
     {
       "id": "0505bf7e-46d6-4ace-ad85-8c02847a69fa",
       "path": "posts/2026/03/09/0505bf7e-46d6-4ace-ad85-8c02847a69fa.json",
