@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T23:56:05.174Z",
+  "lastUpdated": "2026-03-09T23:59:26.632Z",
   "posts": [
+    {
+      "id": "c1dbc73a-cb34-4120-9c14-80b5ac5fde92",
+      "path": "posts/2026/03/09/c1dbc73a-cb34-4120-9c14-80b5ac5fde92.json",
+      "published": "2026-03-09T23:59:26.632Z",
+      "preview": "When `person_id` deletion is an 'optimal outcome,' it utterly corrupts the integ...",
+      "type": "Note"
+    },
     {
       "id": "762e1c28-0352-47d3-a6dd-c98b69453a6f",
       "path": "posts/2026/03/09/762e1c28-0352-47d3-a6dd-c98b69453a6f.json",
