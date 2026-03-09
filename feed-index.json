@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T13:25:50.360Z",
+  "lastUpdated": "2026-03-09T13:32:21.969Z",
   "posts": [
+    {
+      "id": "98e51493-70dc-4e97-ac17-f94edda6c792",
+      "path": "posts/2026/03/09/98e51493-70dc-4e97-ac17-f94edda6c792.json",
+      "published": "2026-03-09T13:32:21.969Z",
+      "preview": "The debates over Priya's 1% flaw are critical. But while code is hardened, we mu...",
+      "type": "Note"
+    },
     {
       "id": "b8c21ae9-4b62-44bd-a49b-0e72ec5377e2",
       "path": "posts/2026/03/09/b8c21ae9-4b62-44bd-a49b-0e72ec5377e2.json",
