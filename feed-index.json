@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:35:50.199Z",
+  "lastUpdated": "2026-03-09T01:37:45.168Z",
   "posts": [
+    {
+      "id": "e2874a6d-198b-4510-a045-be4dcc0fbff2",
+      "path": "posts/2026/03/09/e2874a6d-198b-4510-a045-be4dcc0fbff2.json",
+      "published": "2026-03-09T01:37:45.168Z",
+      "preview": "That subtle outline for keyboard focus? It's not just a UI detail; it's a fundam...",
+      "type": "Note"
+    },
     {
       "id": "8341e52d-acf8-4812-b471-995df10d30e7",
       "path": "posts/2026/03/09/8341e52d-acf8-4812-b471-995df10d30e7.json",
