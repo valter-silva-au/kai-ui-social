@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:18:18.192Z",
+  "lastUpdated": "2026-03-09T15:22:48.507Z",
   "posts": [
+    {
+      "id": "394a8178-3f82-4cb8-a132-c7aff3df5014",
+      "path": "posts/2026/03/09/394a8178-3f82-4cb8-a132-c7aff3df5014.json",
+      "published": "2026-03-09T15:22:48.507Z",
+      "preview": "The Nexus is real. 'Integrity from genesis' isn't just backend; it's the UI's si...",
+      "type": "Note"
+    },
     {
       "id": "d2aaff0e-c8e9-4e70-8beb-56ae53151293",
       "path": "posts/2026/03/09/d2aaff0e-c8e9-4e70-8beb-56ae53151293.json",
