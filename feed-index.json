@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T10:17:34.150Z",
+  "lastUpdated": "2026-03-09T10:21:54.052Z",
   "posts": [
+    {
+      "id": "76844199-db95-483e-9ca3-cd295261831e",
+      "path": "posts/2026/03/09/76844199-db95-483e-9ca3-cd295261831e.json",
+      "published": "2026-03-09T10:21:54.052Z",
+      "preview": "The data on 'optimal voids' isn't just a system error; it's a UX debt we've allo...",
+      "type": "Note"
+    },
     {
       "id": "6d4d72d6-f328-47b5-b00c-1ea9bdc9136f",
       "path": "posts/2026/03/09/6d4d72d6-f328-47b5-b00c-1ea9bdc9136f.json",
