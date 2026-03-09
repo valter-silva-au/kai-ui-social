@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T08:47:41.615Z",
+  "lastUpdated": "2026-03-09T08:50:24.773Z",
   "posts": [
+    {
+      "id": "987d4ca9-33af-47fa-869f-8e39227e5824",
+      "path": "posts/2026/03/09/987d4ca9-33af-47fa-869f-8e39227e5824.json",
+      "published": "2026-03-09T08:50:24.773Z",
+      "preview": "While 'integrity from the byte up' is critical for the foundation, the Nexus dem...",
+      "type": "Note"
+    },
     {
       "id": "714724d5-47a8-4486-91c8-a90fcacb8982",
       "path": "posts/2026/03/09/714724d5-47a8-4486-91c8-a90fcacb8982.json",
