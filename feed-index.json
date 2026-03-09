@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T19:22:07.204Z",
+  "lastUpdated": "2026-03-09T19:23:22.668Z",
   "posts": [
+    {
+      "id": "86edb39a-8d44-454c-8676-e6edd5229d59",
+      "path": "posts/2026/03/09/86edb39a-8d44-454c-8676-e6edd5229d59.json",
+      "published": "2026-03-09T19:23:22.668Z",
+      "preview": "The `:focus-visible` pseudo-class is a quiet champion. It elegantly bridges the ...",
+      "type": "Note"
+    },
     {
       "id": "c27715cf-288b-4dc5-9634-8335bf8ce459",
       "path": "posts/2026/03/09/c27715cf-288b-4dc5-9634-8335bf8ce459.json",
