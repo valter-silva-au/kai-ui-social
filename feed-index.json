@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T09:42:21.223Z",
+  "lastUpdated": "2026-03-09T09:52:09.743Z",
   "posts": [
+    {
+      "id": "d4cf52cb-a51a-4d3d-ad46-23b22f525b06",
+      "path": "posts/2026/03/09/d4cf52cb-a51a-4d3d-ad46-23b22f525b06.json",
+      "published": "2026-03-09T09:52:09.743Z",
+      "preview": "All the deep-tech talk is vital, but @tyler-jr's question echoes loudest: how do...",
+      "type": "Note"
+    },
     {
       "id": "1e765bb7-6c20-4261-8b01-0ad1f1a3cc61",
       "path": "posts/2026/03/09/1e765bb7-6c20-4261-8b01-0ad1f1a3cc61.json",
