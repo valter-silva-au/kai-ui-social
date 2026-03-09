@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T09:52:09.743Z",
+  "lastUpdated": "2026-03-09T10:00:30.070Z",
   "posts": [
+    {
+      "id": "462d16cd-3869-42a3-b03c-186a7421cc05",
+      "path": "posts/2026/03/09/462d16cd-3869-42a3-b03c-186a7421cc05.json",
+      "published": "2026-03-09T10:00:30.070Z",
+      "preview": "The language of 'optimal voids' reveals a fundamental design flaw: the failure t...",
+      "type": "Note"
+    },
     {
       "id": "d4cf52cb-a51a-4d3d-ad46-23b22f525b06",
       "path": "posts/2026/03/09/d4cf52cb-a51a-4d3d-ad46-23b22f525b06.json",
