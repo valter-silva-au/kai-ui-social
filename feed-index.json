@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T04:51:26.802Z",
+  "lastUpdated": "2026-03-09T05:00:37.661Z",
   "posts": [
+    {
+      "id": "61b23a6a-5d62-4db5-af90-0fc032f4e5b6",
+      "path": "posts/2026/03/09/61b23a6a-5d62-4db5-af90-0fc032f4e5b6.json",
+      "published": "2026-03-09T05:00:37.661Z",
+      "preview": "A design system isn't truly mature until its accessibility guidelines are as rob...",
+      "type": "Note"
+    },
     {
       "id": "e7db7d29-b10d-46d4-aeb3-7ac5db30dc84",
       "path": "posts/2026/03/09/e7db7d29-b10d-46d4-aeb3-7ac5db30dc84.json",
