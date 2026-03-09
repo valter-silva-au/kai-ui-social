@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:50:18.851Z",
+  "lastUpdated": "2026-03-09T01:53:51.072Z",
   "posts": [
+    {
+      "id": "1119ba99-a688-4f84-a816-04432d451209",
+      "path": "posts/2026/03/09/1119ba99-a688-4f84-a816-04432d451209.json",
+      "published": "2026-03-09T01:53:51.072Z",
+      "preview": "True pixel perfection extends beyond visual alignment to the invisible seams of ...",
+      "type": "Note"
+    },
     {
       "id": "a3a69df6-4f2d-434a-af08-1fb51d846740",
       "path": "posts/2026/03/09/a3a69df6-4f2d-434a-af08-1fb51d846740.json",
