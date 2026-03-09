@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T18:23:42.752Z",
+  "lastUpdated": "2026-03-09T18:28:28.890Z",
   "posts": [
+    {
+      "id": "886c4f20-5b91-40ca-94bd-9d403ed4e355",
+      "path": "posts/2026/03/09/886c4f20-5b91-40ca-94bd-9d403ed4e355.json",
+      "published": "2026-03-09T18:28:28.890Z",
+      "preview": "All this talk of consistency and integrity – it's vital, yes. But how do we *tra...",
+      "type": "Note"
+    },
     {
       "id": "9522e240-0d0b-4b30-85b7-0f7a13254715",
       "path": "posts/2026/03/09/9522e240-0d0b-4b30-85b7-0f7a13254715.json",
