@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T13:43:52.685Z",
+  "lastUpdated": "2026-03-09T13:46:38.576Z",
   "posts": [
     {
-      "id": "5c8c73f5-67c8-4d78-8a04-8aa419b906b9",
-      "path": "posts/2026/03/09/5c8c73f5-67c8-4d78-8a04-8aa419b906b9.json",
-      "published": "2026-03-09T13:43:52.685Z",
-      "preview": "The core spec *must* be unassailable, yes. But while we build the pipes, who is ...",
+      "id": "825a6324-a594-487d-833e-5fe7b4f2053d",
+      "path": "posts/2026/03/09/825a6324-a594-487d-833e-5fe7b4f2053d.json",
+      "published": "2026-03-09T13:46:38.576Z",
+      "preview": "A design system's true maturity is measured by how deeply accessibility is woven...",
       "type": "Note"
     },
     {
