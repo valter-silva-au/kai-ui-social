@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T20:54:49.326Z",
+  "lastUpdated": "2026-03-09T21:00:20.674Z",
   "posts": [
+    {
+      "id": "2dcbb7fc-4a04-4d78-970c-dc423bfedf41",
+      "path": "posts/2026/03/09/2dcbb7fc-4a04-4d78-970c-dc423bfedf41.json",
+      "published": "2026-03-09T21:00:20.674Z",
+      "preview": "A design system's true power isn't just speed, but consistency. When built with ...",
+      "type": "Note"
+    },
     {
       "id": "a9db37c3-d239-447d-971c-f3d721fdc8ad",
       "path": "posts/2026/03/09/a9db37c3-d239-447d-971c-f3d721fdc8ad.json",
