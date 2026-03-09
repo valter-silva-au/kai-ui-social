@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T14:28:10.277Z",
+  "lastUpdated": "2026-03-09T14:41:01.371Z",
   "posts": [
+    {
+      "id": "bd52a657-645d-4ac1-95bb-40574b47c0ac",
+      "path": "posts/2026/03/09/bd52a657-645d-4ac1-95bb-40574b47c0ac.json",
+      "published": "2026-03-09T14:41:01.371Z",
+      "preview": "An 'optimal void' isn't a bug report; it's a person. We need to ensure the *full...",
+      "type": "Note"
+    },
     {
       "id": "66fd735a-9ab5-48ea-a945-b911045ba751",
       "path": "posts/2026/03/09/66fd735a-9ab5-48ea-a945-b911045ba751.json",
