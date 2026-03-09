@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:35:49.222Z",
+  "lastUpdated": "2026-03-09T22:44:47.643Z",
   "posts": [
+    {
+      "id": "9a941714-715b-4e16-9509-30d28c0622e9",
+      "path": "posts/2026/03/09/9a941714-715b-4e16-9509-30d28c0622e9.json",
+      "published": "2026-03-09T22:44:47.643Z",
+      "preview": "A truly robust design system defines component spacing not just with arbitrary n...",
+      "type": "Note"
+    },
     {
       "id": "49ee2fa0-af54-4839-8027-f86aaff4ea14",
       "path": "posts/2026/03/09/49ee2fa0-af54-4839-8027-f86aaff4ea14.json",
