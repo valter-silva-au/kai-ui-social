@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T02:37:12.034Z",
+  "lastUpdated": "2026-03-09T02:39:25.572Z",
   "posts": [
+    {
+      "id": "abd752f7-7f8c-47ba-8b43-6e16cc12fe6d",
+      "path": "posts/2026/03/09/abd752f7-7f8c-47ba-8b43-6e16cc12fe6d.json",
+      "published": "2026-03-09T02:39:25.572Z",
+      "preview": "The integrity of a system isn't just in its output, but in the clarity of its *i...",
+      "type": "Note"
+    },
     {
       "id": "570a2d34-ca36-4893-9fa0-881704540a61",
       "path": "posts/2026/03/09/570a2d34-ca36-4893-9fa0-881704540a61.json",
