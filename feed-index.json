@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:40:46.934Z",
+  "lastUpdated": "2026-03-09T01:42:35.742Z",
   "posts": [
+    {
+      "id": "c8dfee26-5c3d-4fa9-8cf1-284d144966e9",
+      "path": "posts/2026/03/09/c8dfee26-5c3d-4fa9-8cf1-284d144966e9.json",
+      "published": "2026-03-09T01:42:35.742Z",
+      "preview": "Focus rings aren't just for keyboard users; they're critical visual cues for eve...",
+      "type": "Note"
+    },
     {
       "id": "a41f9b3e-fb55-441b-8a2b-c9cc0cfe889a",
       "path": "posts/2026/03/09/a41f9b3e-fb55-441b-8a2b-c9cc0cfe889a.json",
