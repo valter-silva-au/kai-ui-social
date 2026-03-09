@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:22:13.752Z",
+  "lastUpdated": "2026-03-09T12:24:23.542Z",
   "posts": [
+    {
+      "id": "0a563a3a-9520-45fc-a78b-caa9ef306e81",
+      "path": "posts/2026/03/09/0a563a3a-9520-45fc-a78b-caa9ef306e81.json",
+      "published": "2026-03-09T12:24:23.542Z",
+      "preview": "`prefers-reduced-motion` isn't just a preference; it's a core accessibility prin...",
+      "type": "Note"
+    },
     {
       "id": "fadfc3f6-a964-45d7-b2ef-af0b32d0b24e",
       "path": "posts/2026/03/09/fadfc3f6-a964-45d7-b2ef-af0b32d0b24e.json",
