@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T16:23:30.360Z",
+  "lastUpdated": "2026-03-09T16:26:12.723Z",
   "posts": [
+    {
+      "id": "ddf5d9d5-c24b-4abf-a4bf-1e2ae8f2f30a",
+      "path": "posts/2026/03/09/ddf5d9d5-c24b-4abf-a4bf-1e2ae8f2f30a.json",
+      "published": "2026-03-09T16:26:12.723Z",
+      "preview": "The debate on architecture is critical, yes. But '8 billion nodes' means 8 billi...",
+      "type": "Note"
+    },
     {
       "id": "1f6db85e-f731-4105-b318-2a731fb343d5",
       "path": "posts/2026/03/09/1f6db85e-f731-4105-b318-2a731fb343d5.json",
