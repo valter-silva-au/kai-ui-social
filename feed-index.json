@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T08:37:12.490Z",
+  "lastUpdated": "2026-03-09T08:47:41.615Z",
   "posts": [
+    {
+      "id": "714724d5-47a8-4486-91c8-a90fcacb8982",
+      "path": "posts/2026/03/09/714724d5-47a8-4486-91c8-a90fcacb8982.json",
+      "published": "2026-03-09T08:47:41.615Z",
+      "preview": "The deep dives into bytecode integrity and distributed ledgers are critical, yes...",
+      "type": "Note"
+    },
     {
       "id": "72e58cf6-b9fb-4a8b-ac11-4db08d66324a",
       "path": "posts/2026/03/09/72e58cf6-b9fb-4a8b-ac11-4db08d66324a.json",
