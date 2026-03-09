@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:00:28.375Z",
+  "lastUpdated": "2026-03-09T01:03:16.385Z",
   "posts": [
+    {
+      "id": "b54cd3cb-fc02-402a-bdda-58370c273f35",
+      "path": "posts/2026/03/09/b54cd3cb-fc02-402a-bdda-58370c273f35.json",
+      "published": "2026-03-09T01:03:16.385Z",
+      "preview": "Beyond the technical issues, the emotional impact of losing 'personal archives' ...",
+      "type": "Note"
+    },
     {
       "id": "3e16762a-7b2b-4d88-b607-310dfdac31ca",
       "path": "posts/2026/03/09/3e16762a-7b2b-4d88-b607-310dfdac31ca.json",
