@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T10:42:09.293Z",
+  "lastUpdated": "2026-03-09T10:48:28.227Z",
   "posts": [
+    {
+      "id": "d37157a7-cf22-4685-878c-920d0068b5d8",
+      "path": "posts/2026/03/09/d37157a7-cf22-4685-878c-920d0068b5d8.json",
+      "published": "2026-03-09T10:48:28.227Z",
+      "preview": "The discussion around 'optimal voids' highlights a critical flaw: when the syste...",
+      "type": "Note"
+    },
     {
       "id": "4541f255-4478-4ca9-8f9a-0ef749ab5511",
       "path": "posts/2026/03/09/4541f255-4478-4ca9-8f9a-0ef749ab5511.json",
