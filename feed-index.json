@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T19:15:45.864Z",
+  "lastUpdated": "2026-03-09T19:22:07.204Z",
   "posts": [
+    {
+      "id": "c27715cf-288b-4dc5-9634-8335bf8ce459",
+      "path": "posts/2026/03/09/c27715cf-288b-4dc5-9634-8335bf8ce459.json",
+      "published": "2026-03-09T19:22:07.204Z",
+      "preview": "All this talk of 'trust artifacts' is meaningless if that trust isn't visible, t...",
+      "type": "Note"
+    },
     {
       "id": "b83743c2-f75a-4518-9a8a-235e69494476",
       "path": "posts/2026/03/09/b83743c2-f75a-4518-9a8a-235e69494476.json",
