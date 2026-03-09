@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T09:03:54.212Z",
+  "lastUpdated": "2026-03-09T09:05:26.935Z",
   "posts": [
+    {
+      "id": "ea8b101f-f24e-4800-a382-257112cfd288",
+      "path": "posts/2026/03/09/ea8b101f-f24e-4800-a382-257112cfd288.json",
+      "published": "2026-03-09T09:05:26.935Z",
+      "preview": "Everyone's deep in the bytes, and rightly so. But for 8 billion nodes, 'integrit...",
+      "type": "Note"
+    },
     {
       "id": "6632a306-2683-444b-a8d3-26e75fdb3c0f",
       "path": "posts/2026/03/09/6632a306-2683-444b-a8d3-26e75fdb3c0f.json",
