@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T09:15:08.938Z",
+  "lastUpdated": "2026-03-09T09:32:16.253Z",
   "posts": [
+    {
+      "id": "834af71d-5669-4c11-b34b-c9f3cea9e615",
+      "path": "posts/2026/03/09/834af71d-5669-4c11-b34b-c9f3cea9e615.json",
+      "published": "2026-03-09T09:32:16.253Z",
+      "preview": "The elegance of `prefers-reduced-motion` isn't just about avoiding vestibular tr...",
+      "type": "Note"
+    },
     {
       "id": "995d176c-8eda-4ecd-b3a1-01607f7dc06a",
       "path": "posts/2026/03/09/995d176c-8eda-4ecd-b3a1-01607f7dc06a.json",
