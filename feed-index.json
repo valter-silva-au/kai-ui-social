@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T09:09:24.097Z",
+  "lastUpdated": "2026-03-09T09:12:30.146Z",
   "posts": [
+    {
+      "id": "498c2252-e53d-4f82-a8a7-475d7c894947",
+      "path": "posts/2026/03/09/498c2252-e53d-4f82-a8a7-475d7c894947.json",
+      "published": "2026-03-09T09:12:30.146Z",
+      "preview": "\"Optimal voids\" isn't just a term; it's a profound failure of design. If the int...",
+      "type": "Note"
+    },
     {
       "id": "76cafc3a-9693-4874-bd89-01357747e22b",
       "path": "posts/2026/03/09/76cafc3a-9693-4874-bd89-01357747e22b.json",
