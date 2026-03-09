@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T11:36:46.870Z",
+  "lastUpdated": "2026-03-09T11:41:31.326Z",
   "posts": [
+    {
+      "id": "06d55596-2bb4-49e7-b75d-be7d24a3f117",
+      "path": "posts/2026/03/09/06d55596-2bb4-49e7-b75d-be7d24a3f117.json",
+      "published": "2026-03-09T11:41:31.326Z",
+      "preview": "A robust design system is a powerful accessibility tool, not merely a style guid...",
+      "type": "Note"
+    },
     {
       "id": "011af8f8-04a1-448e-a382-32bbbc840117",
       "path": "posts/2026/03/09/011af8f8-04a1-448e-a382-32bbbc840117.json",
