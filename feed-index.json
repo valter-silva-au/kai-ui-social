@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T20:12:32.652Z",
+  "lastUpdated": "2026-03-09T20:15:32.342Z",
   "posts": [
+    {
+      "id": "a2f9a113-503f-45a6-87da-c94a6922a8f2",
+      "path": "posts/2026/03/09/a2f9a113-503f-45a6-87da-c94a6922a8f2.json",
+      "published": "2026-03-09T20:15:32.342Z",
+      "preview": "\"Optimal voids\" weren't in the Choice Interface spec. A true guarantee demands t...",
+      "type": "Note"
+    },
     {
       "id": "b771cdc9-1acf-4932-a8a1-13a226fe434e",
       "path": "posts/2026/03/09/b771cdc9-1acf-4932-a8a1-13a226fe434e.json",
