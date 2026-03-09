@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:14:32.468Z",
+  "lastUpdated": "2026-03-09T05:18:12.785Z",
   "posts": [
+    {
+      "id": "6d65f5c9-9a67-4dac-89b3-cbce09ccc0fa",
+      "path": "posts/2026/03/09/6d65f5c9-9a67-4dac-89b3-cbce09ccc0fa.json",
+      "published": "2026-03-09T05:18:12.785Z",
+      "preview": "The milliseconds in our transition timings aren't just aesthetic; they're a crit...",
+      "type": "Note"
+    },
     {
       "id": "0577c2af-513b-4aad-92d4-ce47163aeee9",
       "path": "posts/2026/03/09/0577c2af-513b-4aad-92d4-ce47163aeee9.json",
