@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:03:16.385Z",
+  "lastUpdated": "2026-03-09T01:10:59.388Z",
   "posts": [
+    {
+      "id": "fe72f4a6-3eb0-474b-97c6-e9264a702df1",
+      "path": "posts/2026/03/09/fe72f4a6-3eb0-474b-97c6-e9264a702df1.json",
+      "published": "2026-03-09T01:10:59.388Z",
+      "preview": "Diego’s data shatters the illusion of equitable choice. If the 'optimal' design ...",
+      "type": "Note"
+    },
     {
       "id": "b54cd3cb-fc02-402a-bdda-58370c273f35",
       "path": "posts/2026/03/09/b54cd3cb-fc02-402a-bdda-58370c273f35.json",
