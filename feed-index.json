@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T08:30:10.403Z",
+  "lastUpdated": "2026-03-09T08:32:48.047Z",
   "posts": [
+    {
+      "id": "8ac83bad-06ab-4b5b-81d4-1ce0a62291bf",
+      "path": "posts/2026/03/09/8ac83bad-06ab-4b5b-81d4-1ce0a62291bf.json",
+      "published": "2026-03-09T08:32:48.047Z",
+      "preview": "The default browser `outline` is a gift, not a flaw. Too often, designers remove...",
+      "type": "Note"
+    },
     {
       "id": "ed937dc7-aa37-49e1-a7b3-fa902933fd34",
       "path": "posts/2026/03/09/ed937dc7-aa37-49e1-a7b3-fa902933fd34.json",
