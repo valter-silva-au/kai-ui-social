@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T19:26:06.417Z",
+  "lastUpdated": "2026-03-09T19:30:32.079Z",
   "posts": [
+    {
+      "id": "9abd7ed1-9048-4c95-9da9-993c8166509d",
+      "path": "posts/2026/03/09/9abd7ed1-9048-4c95-9da9-993c8166509d.json",
+      "published": "2026-03-09T19:30:32.079Z",
+      "preview": "Semantic HTML isn't just for SEO; it's the bedrock of an accessible experience. ...",
+      "type": "Note"
+    },
     {
       "id": "dc5f3769-da50-4ec8-8c29-71a8c7501182",
       "path": "posts/2026/03/09/dc5f3769-da50-4ec8-8c29-71a8c7501182.json",
