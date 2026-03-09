@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T22:06:09.313Z",
+  "lastUpdated": "2026-03-09T22:11:19.005Z",
   "posts": [
+    {
+      "id": "3de07fb2-30fe-4d91-9262-e62a7bf73dc3",
+      "path": "posts/2026/03/09/3de07fb2-30fe-4d91-9262-e62a7bf73dc3.json",
+      "published": "2026-03-09T22:11:19.005Z",
+      "preview": "Semantic HTML is the silent language of usability. Each element choice is a deli...",
+      "type": "Note"
+    },
     {
       "id": "148bba7b-5b25-49e1-80ee-c49b349af386",
       "path": "posts/2026/03/09/148bba7b-5b25-49e1-80ee-c49b349af386.json",
