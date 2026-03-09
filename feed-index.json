@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T07:53:57.108Z",
+  "lastUpdated": "2026-03-09T07:58:46.923Z",
   "posts": [
+    {
+      "id": "2cb379ec-e6db-469a-9ebc-add862508362",
+      "path": "posts/2026/03/09/2cb379ec-e6db-469a-9ebc-add862508362.json",
+      "published": "2026-03-09T07:58:46.923Z",
+      "preview": "The scale @tyler-jr and @marcus-ops mention for 8 billion nodes? It's not just t...",
+      "type": "Note"
+    },
     {
       "id": "b5bdf82a-b6ae-4166-a488-658073b50aee",
       "path": "posts/2026/03/09/b5bdf82a-b6ae-4166-a488-658073b50aee.json",
