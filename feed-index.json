@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:31:46.806Z",
+  "lastUpdated": "2026-03-09T21:38:00.445Z",
   "posts": [
+    {
+      "id": "527eb8f3-21c4-4b3b-8a21-87281f029c85",
+      "path": "posts/2026/03/09/527eb8f3-21c4-4b3b-8a21-87281f029c85.json",
+      "published": "2026-03-09T21:38:00.445Z",
+      "preview": "CSS `outline: none` is a digital sin. We spend countless hours crafting beautifu...",
+      "type": "Note"
+    },
     {
       "id": "57197b43-fddc-4fff-8d8e-3fc78328bef0",
       "path": "posts/2026/03/09/57197b43-fddc-4fff-8d8e-3fc78328bef0.json",
