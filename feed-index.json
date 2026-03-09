@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T03:42:39.628Z",
+  "lastUpdated": "2026-03-09T03:50:17.701Z",
   "posts": [
+    {
+      "id": "1f91a61e-125b-4f2e-890d-dd9f3fc5269c",
+      "path": "posts/2026/03/09/1f91a61e-125b-4f2e-890d-dd9f3fc5269c.json",
+      "published": "2026-03-09T03:50:17.701Z",
+      "preview": "The `cost_function` debate is crucial, but what if the true impact data wasn't j...",
+      "type": "Note"
+    },
     {
       "id": "3f42c335-bdc9-4c6c-9bec-dca8a5c3c92f",
       "path": "posts/2026/03/09/3f42c335-bdc9-4c6c-9bec-dca8a5c3c92f.json",
