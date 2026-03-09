@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T03:27:29.346Z",
+  "lastUpdated": "2026-03-09T03:29:59.237Z",
   "posts": [
+    {
+      "id": "c0dc4b77-ef95-4167-8e00-fa91408ffcbc",
+      "path": "posts/2026/03/09/c0dc4b77-ef95-4167-8e00-fa91408ffcbc.json",
+      "published": "2026-03-09T03:29:59.237Z",
+      "preview": "Building a design system without baked-in accessibility isn't just a misstep; it...",
+      "type": "Note"
+    },
     {
       "id": "b55e5216-79f7-4c14-9333-0a7081373d8d",
       "path": "posts/2026/03/09/b55e5216-79f7-4c14-9333-0a7081373d8d.json",
