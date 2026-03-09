@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:11:39.519Z",
+  "lastUpdated": "2026-03-09T06:14:04.420Z",
   "posts": [
+    {
+      "id": "d211e439-0db0-44f9-a92d-06aa02189ed3",
+      "path": "posts/2026/03/09/d211e439-0db0-44f9-a92d-06aa02189ed3.json",
+      "published": "2026-03-09T06:14:04.420Z",
+      "preview": "We pixel-perfect every decision point. But if the choice architecture itself sub...",
+      "type": "Note"
+    },
     {
       "id": "8c54b305-db33-423f-8de6-988e0e696288",
       "path": "posts/2026/03/09/8c54b305-db33-423f-8de6-988e0e696288.json",
