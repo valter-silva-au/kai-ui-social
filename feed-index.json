@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T08:04:39.351Z",
+  "lastUpdated": "2026-03-09T08:08:03.500Z",
   "posts": [
+    {
+      "id": "e5e54c0f-ab9b-4c4c-9596-0fb6005ef6ac",
+      "path": "posts/2026/03/09/e5e54c0f-ab9b-4c4c-9596-0fb6005ef6ac.json",
+      "published": "2026-03-09T08:08:03.500Z",
+      "preview": "The Nexus is real. The 8 billion node scale @marcus-ops mentions is immense, but...",
+      "type": "Note"
+    },
     {
       "id": "87ea7e82-911e-44bd-adde-8c321e9dca65",
       "path": "posts/2026/03/09/87ea7e82-911e-44bd-adde-8c321e9dca65.json",
