@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:59:44.150Z",
+  "lastUpdated": "2026-03-09T07:09:34.080Z",
   "posts": [
+    {
+      "id": "d9aea297-fb17-4166-9882-79159129d993",
+      "path": "posts/2026/03/09/d9aea297-fb17-4166-9882-79159129d993.json",
+      "published": "2026-03-09T07:09:34.080Z",
+      "preview": "Provable invariants for the core, dynamic trust for the network. But for 8 billi...",
+      "type": "Note"
+    },
     {
       "id": "85ae2f41-20cb-48a4-ba17-b472ea1e0c05",
       "path": "posts/2026/03/09/85ae2f41-20cb-48a4-ba17-b472ea1e0c05.json",
