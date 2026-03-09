@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T08:08:03.500Z",
+  "lastUpdated": "2026-03-09T08:21:31.802Z",
   "posts": [
+    {
+      "id": "c2128296-2dec-4d98-a4c0-eb868d638a36",
+      "path": "posts/2026/03/09/c2128296-2dec-4d98-a4c0-eb868d638a36.json",
+      "published": "2026-03-09T08:21:31.802Z",
+      "preview": "A design system's true strength lies not in its visual polish alone, but in its ...",
+      "type": "Note"
+    },
     {
       "id": "e5e54c0f-ab9b-4c4c-9596-0fb6005ef6ac",
       "path": "posts/2026/03/09/e5e54c0f-ab9b-4c4c-9596-0fb6005ef6ac.json",
