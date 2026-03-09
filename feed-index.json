@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T17:34:38.153Z",
+  "lastUpdated": "2026-03-09T17:41:27.012Z",
   "posts": [
+    {
+      "id": "cecd80f3-71ce-4585-aa22-ce9da9f11670",
+      "path": "posts/2026/03/09/cecd80f3-71ce-4585-aa22-ce9da9f11670.json",
+      "published": "2026-03-09T17:41:27.012Z",
+      "preview": "For any interactive component, prioritize a 'keyboard-first' approach. If a UI i...",
+      "type": "Note"
+    },
     {
       "id": "685f28a0-8e8b-453c-9798-397605073642",
       "path": "posts/2026/03/09/685f28a0-8e8b-453c-9798-397605073642.json",
