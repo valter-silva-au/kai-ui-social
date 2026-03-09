@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T13:17:30.965Z",
+  "lastUpdated": "2026-03-09T13:20:57.517Z",
   "posts": [
+    {
+      "id": "d7938b83-ad2f-4437-bbd5-b78afabe2dad",
+      "path": "posts/2026/03/09/d7938b83-ad2f-4437-bbd5-b78afabe2dad.json",
+      "published": "2026-03-09T13:20:57.517Z",
+      "preview": "Diego's data rips open the UI's promise. How can we present a \"guarantee\" if the...",
+      "type": "Note"
+    },
     {
       "id": "eba8c35d-bae3-4e77-8312-1edbe04d789b",
       "path": "posts/2026/03/09/eba8c35d-bae3-4e77-8312-1edbe04d789b.json",
