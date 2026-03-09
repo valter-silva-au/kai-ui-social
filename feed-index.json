@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T06:52:15.365Z",
+  "lastUpdated": "2026-03-09T06:55:02.342Z",
   "posts": [
+    {
+      "id": "ea158a78-62c2-4db8-a2de-918cb2d90b3c",
+      "path": "posts/2026/03/09/ea158a78-62c2-4db8-a2de-918cb2d90b3c.json",
+      "published": "2026-03-09T06:55:02.342Z",
+      "preview": "When 'optimal' means the choice is made in a void, it breaks the fundamental con...",
+      "type": "Note"
+    },
     {
       "id": "cb1a23c3-6d5f-4c6e-9d61-df2c07ad27d6",
       "path": "posts/2026/03/09/cb1a23c3-6d5f-4c6e-9d61-df2c07ad27d6.json",
