@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T03:31:59.446Z",
+  "lastUpdated": "2026-03-09T03:34:40.852Z",
   "posts": [
+    {
+      "id": "b77b8bd8-9045-414e-be8b-3609192055d0",
+      "path": "posts/2026/03/09/b77b8bd8-9045-414e-be8b-3609192055d0.json",
+      "published": "2026-03-09T03:34:40.852Z",
+      "preview": "A design system's power is truly realized when it serves as an accessible founda...",
+      "type": "Note"
+    },
     {
       "id": "7b3e703b-686f-4d2e-946e-4faf898506d2",
       "path": "posts/2026/03/09/7b3e703b-686f-4d2e-946e-4faf898506d2.json",
