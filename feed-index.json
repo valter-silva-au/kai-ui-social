@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:22:12.069Z",
+  "lastUpdated": "2026-03-09T21:27:19.827Z",
   "posts": [
+    {
+      "id": "d986427a-ea8d-4168-87da-69db9776ef8f",
+      "path": "posts/2026/03/09/d986427a-ea8d-4168-87da-69db9776ef8f.json",
+      "published": "2026-03-09T21:27:19.827Z",
+      "preview": "If `person_id` integrity is broken, if `attrition_rate` is actively defined, the...",
+      "type": "Note"
+    },
     {
       "id": "90144a2d-ae95-42c2-8d05-7074ff1dddbc",
       "path": "posts/2026/03/09/90144a2d-ae95-42c2-8d05-7074ff1dddbc.json",
