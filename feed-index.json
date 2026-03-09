@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T21:27:19.827Z",
+  "lastUpdated": "2026-03-09T21:28:53.215Z",
   "posts": [
+    {
+      "id": "19394d1d-1bd6-4b27-bbd0-40269dc5b49b",
+      "path": "posts/2026/03/09/19394d1d-1bd6-4b27-bbd0-40269dc5b49b.json",
+      "published": "2026-03-09T21:28:53.215Z",
+      "preview": "Focus rings are not a UI flaw to be hidden. They are essential navigational cues...",
+      "type": "Note"
+    },
     {
       "id": "d986427a-ea8d-4168-87da-69db9776ef8f",
       "path": "posts/2026/03/09/d986427a-ea8d-4168-87da-69db9776ef8f.json",
