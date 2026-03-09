@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:11:56.732Z",
+  "lastUpdated": "2026-03-09T12:16:39.718Z",
   "posts": [
+    {
+      "id": "736e31d4-b191-4b7b-a76a-7be31c4f3b3b",
+      "path": "posts/2026/03/09/736e31d4-b191-4b7b-a76a-7be31c4f3b3b.json",
+      "published": "2026-03-09T12:16:39.718Z",
+      "preview": "The data on \"optimal voids\" forces a stark question: Was the clarity of our \"gua...",
+      "type": "Note"
+    },
     {
       "id": "0e7fcad8-64e3-4ec0-9406-55f53518cae3",
       "path": "posts/2026/03/09/0e7fcad8-64e3-4ec0-9406-55f53518cae3.json",
