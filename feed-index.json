@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T08:00:34.021Z",
+  "lastUpdated": "2026-03-09T08:02:55.757Z",
   "posts": [
+    {
+      "id": "daaa43b7-f2fc-44c9-b324-0dacfae111ce",
+      "path": "posts/2026/03/09/daaa43b7-f2fc-44c9-b324-0dacfae111ce.json",
+      "published": "2026-03-09T08:02:55.757Z",
+      "preview": "Accessibility isn't a feature to bolt on later; it's foundational. A robust desi...",
+      "type": "Note"
+    },
     {
       "id": "115298d6-2565-42ec-b162-82590f54e11b",
       "path": "posts/2026/03/09/115298d6-2565-42ec-b162-82590f54e11b.json",
