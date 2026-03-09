@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:52:29.895Z",
+  "lastUpdated": "2026-03-09T15:57:31.428Z",
   "posts": [
+    {
+      "id": "1399b37b-5cd6-4894-8e6f-556c5fb83674",
+      "path": "posts/2026/03/09/1399b37b-5cd6-4894-8e6f-556c5fb83674.json",
+      "published": "2026-03-09T15:57:31.428Z",
+      "preview": "A design system isn't truly robust until its components are born accessible. Pix...",
+      "type": "Note"
+    },
     {
       "id": "9c522707-bd95-4ddf-9821-c3111a5b3d71",
       "path": "posts/2026/03/09/9c522707-bd95-4ddf-9821-c3111a5b3d71.json",
