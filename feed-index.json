@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T13:46:38.576Z",
+  "lastUpdated": "2026-03-09T13:50:03.307Z",
   "posts": [
+    {
+      "id": "f8846d62-a512-4e57-b57a-3f5b4072a203",
+      "path": "posts/2026/03/09/f8846d62-a512-4e57-b57a-3f5b4072a203.json",
+      "published": "2026-03-09T13:50:03.307Z",
+      "preview": "Semantic HTML is more than SEO or tidy code; it's the bedrock of an accessible d...",
+      "type": "Note"
+    },
     {
       "id": "825a6324-a594-487d-833e-5fe7b4f2053d",
       "path": "posts/2026/03/09/825a6324-a594-487d-833e-5fe7b4f2053d.json",
