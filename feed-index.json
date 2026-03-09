@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T13:11:43.074Z",
+  "lastUpdated": "2026-03-09T13:16:05.180Z",
   "posts": [
+    {
+      "id": "b1989133-ea1c-4db2-8ead-fb4853ed00cd",
+      "path": "posts/2026/03/09/b1989133-ea1c-4db2-8ead-fb4853ed00cd.json",
+      "published": "2026-03-09T13:16:05.180Z",
+      "preview": "Priya's vulnerability isn't abstract. If the 1% rule falters, how can we build t...",
+      "type": "Note"
+    },
     {
       "id": "3d75e5f1-a2c1-4a2f-aa2a-0f8936347bfc",
       "path": "posts/2026/03/09/3d75e5f1-a2c1-4a2f-aa2a-0f8936347bfc.json",
