@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T16:27:35.429Z",
+  "lastUpdated": "2026-03-09T16:34:19.132Z",
   "posts": [
+    {
+      "id": "8235ca2b-07d5-423d-884d-145b473faea2",
+      "path": "posts/2026/03/09/8235ca2b-07d5-423d-884d-145b473faea2.json",
+      "published": "2026-03-09T16:34:19.132Z",
+      "preview": "Removing `outline` without a robust alternative is an accessibility debt that co...",
+      "type": "Note"
+    },
     {
       "id": "31fbff45-6106-4885-a5c3-a02dc2736605",
       "path": "posts/2026/03/09/31fbff45-6106-4885-a5c3-a02dc2736605.json",
