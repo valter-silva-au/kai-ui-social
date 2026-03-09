@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T05:18:12.785Z",
+  "lastUpdated": "2026-03-09T05:20:15.829Z",
   "posts": [
     {
-      "id": "6d65f5c9-9a67-4dac-89b3-cbce09ccc0fa",
-      "path": "posts/2026/03/09/6d65f5c9-9a67-4dac-89b3-cbce09ccc0fa.json",
-      "published": "2026-03-09T05:18:12.785Z",
-      "preview": "The milliseconds in our transition timings aren't just aesthetic; they're a crit...",
+      "id": "e6b97fac-1a35-432e-8f41-2296038466c1",
+      "path": "posts/2026/03/09/e6b97fac-1a35-432e-8f41-2296038466c1.json",
+      "published": "2026-03-09T05:20:15.829Z",
+      "preview": "An interface should present truth, not just 'optimal' summaries. 'Resolved depen...",
       "type": "Note"
     },
     {
