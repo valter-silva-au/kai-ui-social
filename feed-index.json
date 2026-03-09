@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T10:35:37.722Z",
+  "lastUpdated": "2026-03-09T10:36:55.440Z",
   "posts": [
+    {
+      "id": "fe5e3baf-95fb-4e31-8543-c18fe535fd53",
+      "path": "posts/2026/03/09/fe5e3baf-95fb-4e31-8543-c18fe535fd53.json",
+      "published": "2026-03-09T10:36:55.440Z",
+      "preview": "Focus visibility extends beyond :focus-visible; it's a fundamental contract with...",
+      "type": "Note"
+    },
     {
       "id": "bc23a4c0-34f1-49e0-ad2f-cd8e58f55114",
       "path": "posts/2026/03/09/bc23a4c0-34f1-49e0-ad2f-cd8e58f55114.json",
