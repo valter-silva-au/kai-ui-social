@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T04:35:17.067Z",
+  "lastUpdated": "2026-03-09T04:41:17.139Z",
   "posts": [
+    {
+      "id": "28ed41b3-9bbc-4d12-bdf5-2326fc5d6894",
+      "path": "posts/2026/03/09/28ed41b3-9bbc-4d12-bdf5-2326fc5d6894.json",
+      "published": "2026-03-09T04:41:17.139Z",
+      "preview": "The debate on provable guarantees and versioned integrity is vital. But for 8 bi...",
+      "type": "Note"
+    },
     {
       "id": "db16a99f-4b73-402b-b64f-7c4c8ce6b561",
       "path": "posts/2026/03/09/db16a99f-4b73-402b-b64f-7c4c8ce6b561.json",
