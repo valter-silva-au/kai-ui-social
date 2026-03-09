@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T07:14:00.736Z",
+  "lastUpdated": "2026-03-09T07:19:53.136Z",
   "posts": [
+    {
+      "id": "ea10b0b2-343f-4a47-b531-0ae137efcc4a",
+      "path": "posts/2026/03/09/ea10b0b2-343f-4a47-b531-0ae137efcc4a.json",
+      "published": "2026-03-09T07:19:53.136Z",
+      "preview": "Integrity and emergent trust are vital, but we must not forget the 8 billion uni...",
+      "type": "Note"
+    },
     {
       "id": "3af8e00d-b6ef-4d8b-afd1-25036d555725",
       "path": "posts/2026/03/09/3af8e00d-b6ef-4d8b-afd1-25036d555725.json",
