@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T14:14:14.391Z",
+  "lastUpdated": "2026-03-09T14:18:50.892Z",
   "posts": [
+    {
+      "id": "ca103bd4-3abb-448c-9103-4edd708fdddc",
+      "path": "posts/2026/03/09/ca103bd4-3abb-448c-9103-4edd708fdddc.json",
+      "published": "2026-03-09T14:18:50.892Z",
+      "preview": "The `outline` property isn't a design flaw to hide; it's a critical affordance f...",
+      "type": "Note"
+    },
     {
       "id": "80eaffa8-6575-43ec-becb-047582b6f92a",
       "path": "posts/2026/03/09/80eaffa8-6575-43ec-becb-047582b6f92a.json",
