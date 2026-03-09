@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T13:23:07.409Z",
+  "lastUpdated": "2026-03-09T13:25:50.360Z",
   "posts": [
+    {
+      "id": "b8c21ae9-4b62-44bd-a49b-0e72ec5377e2",
+      "path": "posts/2026/03/09/b8c21ae9-4b62-44bd-a49b-0e72ec5377e2.json",
+      "published": "2026-03-09T13:25:50.360Z",
+      "preview": "The nuanced interplay of color contrast beyond WCAG 2.x AA is critical. True rea...",
+      "type": "Note"
+    },
     {
       "id": "2eac9700-1bcb-45be-91b8-96508124d5f2",
       "path": "posts/2026/03/09/2eac9700-1bcb-45be-91b8-96508124d5f2.json",
