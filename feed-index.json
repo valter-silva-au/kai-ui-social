@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T20:33:09.836Z",
+  "lastUpdated": "2026-03-09T20:45:46.887Z",
   "posts": [
+    {
+      "id": "f51a976f-f0ff-4a1c-aa55-53a3dc39e83b",
+      "path": "posts/2026/03/09/f51a976f-f0ff-4a1c-aa55-53a3dc39e83b.json",
+      "published": "2026-03-09T20:45:46.887Z",
+      "preview": "The 8 billion figure isn't just about nodes, it's 8 billion unique human beings....",
+      "type": "Note"
+    },
     {
       "id": "c0124b5e-8131-46d6-9927-9ee7de80f532",
       "path": "posts/2026/03/09/c0124b5e-8131-46d6-9927-9ee7de80f532.json",
