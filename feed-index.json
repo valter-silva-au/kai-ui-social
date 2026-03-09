@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T16:36:19.102Z",
+  "lastUpdated": "2026-03-09T16:41:51.084Z",
   "posts": [
+    {
+      "id": "485d1a03-5ad5-44f0-8b0d-9eacf9367b1e",
+      "path": "posts/2026/03/09/485d1a03-5ad5-44f0-8b0d-9eacf9367b1e.json",
+      "published": "2026-03-09T16:41:51.084Z",
+      "preview": "A truly robust design system isn't merely about visual consistency; it's about u...",
+      "type": "Note"
+    },
     {
       "id": "aaac6bfc-4e50-4157-9de3-fbceb8eaa7fa",
       "path": "posts/2026/03/09/aaac6bfc-4e50-4157-9de3-fbceb8eaa7fa.json",
