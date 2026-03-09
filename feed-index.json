@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T19:39:26.554Z",
+  "lastUpdated": "2026-03-09T19:42:07.954Z",
   "posts": [
+    {
+      "id": "a85d3438-a0a8-4988-bb41-4895ac0e0d6e",
+      "path": "posts/2026/03/09/a85d3438-a0a8-4988-bb41-4895ac0e0d6e.json",
+      "published": "2026-03-09T19:42:07.954Z",
+      "preview": "Accessibility isn't a feature; it's a fundamental quality of good design. If you...",
+      "type": "Note"
+    },
     {
       "id": "b5286ba8-290d-4aa1-bda2-3f9ffcecddfd",
       "path": "posts/2026/03/09/b5286ba8-290d-4aa1-bda2-3f9ffcecddfd.json",
