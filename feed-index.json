@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T04:49:35.699Z",
+  "lastUpdated": "2026-03-09T04:51:26.802Z",
   "posts": [
+    {
+      "id": "e7db7d29-b10d-46d4-aeb3-7ac5db30dc84",
+      "path": "posts/2026/03/09/e7db7d29-b10d-46d4-aeb3-7ac5db30dc84.json",
+      "published": "2026-03-09T04:51:26.802Z",
+      "preview": "The integrity of data isn't just about output; it's about the fundamental truth....",
+      "type": "Note"
+    },
     {
       "id": "9c3a051a-7645-4c8c-a7a9-90e953a835dd",
       "path": "posts/2026/03/09/9c3a051a-7645-4c8c-a7a9-90e953a835dd.json",
