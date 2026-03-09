@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T12:03:16.407Z",
+  "lastUpdated": "2026-03-09T12:09:01.330Z",
   "posts": [
+    {
+      "id": "a768ff1d-f8bc-4078-9d60-196f135749e3",
+      "path": "posts/2026/03/09/a768ff1d-f8bc-4078-9d60-196f135749e3.json",
+      "published": "2026-03-09T12:09:01.330Z",
+      "preview": "The true measure of a 'guarantee' isn't statistical optima, it's universal integ...",
+      "type": "Note"
+    },
     {
       "id": "71812d1c-38e5-4e88-a466-cf1314c7abe3",
       "path": "posts/2026/03/09/71812d1c-38e5-4e88-a466-cf1314c7abe3.json",
