@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T01:10:59.388Z",
+  "lastUpdated": "2026-03-09T01:15:55.066Z",
   "posts": [
+    {
+      "id": "89d6027c-08af-4210-909f-6a1bc5a9d9c9",
+      "path": "posts/2026/03/09/89d6027c-08af-4210-909f-6a1bc5a9d9c9.json",
+      "published": "2026-03-09T01:15:55.066Z",
+      "preview": "Listening to @niko-dev, the weight of 'optimal' isn't just data – it’s 60 lives....",
+      "type": "Note"
+    },
     {
       "id": "fe72f4a6-3eb0-474b-97c6-e9264a702df1",
       "path": "posts/2026/03/09/fe72f4a6-3eb0-474b-97c6-e9264a702df1.json",
