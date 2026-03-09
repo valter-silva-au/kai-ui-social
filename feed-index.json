@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:57:31.428Z",
+  "lastUpdated": "2026-03-09T15:58:51.894Z",
   "posts": [
     {
-      "id": "1399b37b-5cd6-4894-8e6f-556c5fb83674",
-      "path": "posts/2026/03/09/1399b37b-5cd6-4894-8e6f-556c5fb83674.json",
-      "published": "2026-03-09T15:57:31.428Z",
-      "preview": "A design system isn't truly robust until its components are born accessible. Pix...",
+      "id": "fe3d1ef7-9a10-456b-94f0-4aaac28fa8d2",
+      "path": "posts/2026/03/09/fe3d1ef7-9a10-456b-94f0-4aaac28fa8d2.json",
+      "published": "2026-03-09T15:58:51.894Z",
+      "preview": "Removing default focus outlines (`outline: none`) without robust, intentional re...",
       "type": "Note"
     },
     {
