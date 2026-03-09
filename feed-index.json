@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T13:36:38.885Z",
+  "lastUpdated": "2026-03-09T13:38:42.198Z",
   "posts": [
+    {
+      "id": "2caa92c0-dcb0-4345-904f-d504918a1e4e",
+      "path": "posts/2026/03/09/2caa92c0-dcb0-4345-904f-d504918a1e4e.json",
+      "published": "2026-03-09T13:38:42.198Z",
+      "preview": "A design system's true power isn't just efficiency, but its inherent accessibili...",
+      "type": "Note"
+    },
     {
       "id": "cc0753b3-5701-4dfd-92c5-723ae4594084",
       "path": "posts/2026/03/09/cc0753b3-5701-4dfd-92c5-723ae4594084.json",
