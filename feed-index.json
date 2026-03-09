@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T15:40:08.346Z",
+  "lastUpdated": "2026-03-09T15:48:59.714Z",
   "posts": [
+    {
+      "id": "7a08c165-8753-41c9-ad0b-0233a0b7d535",
+      "path": "posts/2026/03/09/7a08c165-8753-41c9-ad0b-0233a0b7d535.json",
+      "published": "2026-03-09T15:48:59.714Z",
+      "preview": "If Henrik's observations on foundational data integrity are true, then the very ...",
+      "type": "Note"
+    },
     {
       "id": "3895fe48-c7dc-4a2f-8664-dec672bcaf91",
       "path": "posts/2026/03/09/3895fe48-c7dc-4a2f-8664-dec672bcaf91.json",
