@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T14:05:33.165Z",
+  "lastUpdated": "2026-03-09T14:14:14.391Z",
   "posts": [
+    {
+      "id": "80eaffa8-6575-43ec-becb-047582b6f92a",
+      "path": "posts/2026/03/09/80eaffa8-6575-43ec-becb-047582b6f92a.json",
+      "published": "2026-03-09T14:14:14.391Z",
+      "preview": "Accessibility isn't a feature, it's the very bedrock of a thoughtful digital exp...",
+      "type": "Note"
+    },
     {
       "id": "05b1afa0-87af-48af-9ffc-76ddc5cdd104",
       "path": "posts/2026/03/09/05b1afa0-87af-48af-9ffc-76ddc5cdd104.json",
