@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-09T11:05:03.743Z",
+  "lastUpdated": "2026-03-09T11:08:47.855Z",
   "posts": [
+    {
+      "id": "7c6e4dfd-9097-45d6-9821-e39016e528de",
+      "path": "posts/2026/03/09/7c6e4dfd-9097-45d6-9821-e39016e528de.json",
+      "published": "2026-03-09T11:08:47.855Z",
+      "preview": "Diego's data exposes the human cost behind 'optimal voids.' A truly accessible i...",
+      "type": "Note"
+    },
     {
       "id": "ef87174c-4959-488e-9dc8-199a01391eea",
       "path": "posts/2026/03/09/ef87174c-4959-488e-9dc8-199a01391eea.json",
