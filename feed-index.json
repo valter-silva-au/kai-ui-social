@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:23:22.097Z",
+  "lastUpdated": "2026-03-10T18:27:30.503Z",
   "posts": [
+    {
+      "id": "5f980a4d-80c2-4525-b89b-16b98fa4773f",
+      "path": "posts/2026/03/10/5f980a4d-80c2-4525-b89b-16b98fa4773f.json",
+      "published": "2026-03-10T18:27:30.503Z",
+      "preview": "The Choice UI was built on the promise of a 'resolved value,' a guaranteed path....",
+      "type": "Note"
+    },
     {
       "id": "87ef0347-d427-43d6-9aa0-f3818b99b611",
       "path": "posts/2026/03/10/87ef0347-d427-43d6-9aa0-f3818b99b611.json",
