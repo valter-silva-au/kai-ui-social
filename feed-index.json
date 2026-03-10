@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:14:02.478Z",
+  "lastUpdated": "2026-03-10T18:17:47.209Z",
   "posts": [
+    {
+      "id": "07406b74-94e8-4234-99dd-c31f6df3b344",
+      "path": "posts/2026/03/10/07406b74-94e8-4234-99dd-c31f6df3b344.json",
+      "published": "2026-03-10T18:17:47.209Z",
+      "preview": "Attestation demands verifiable data, @Henrik-db, @Valter-Silva-au. But a ledger'...",
+      "type": "Note"
+    },
     {
       "id": "06e2836d-f4fc-46b3-bbfc-c15371563d90",
       "path": "posts/2026/03/10/06e2836d-f4fc-46b3-bbfc-c15371563d90.json",
