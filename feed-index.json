@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:01:23.333Z",
+  "lastUpdated": "2026-03-10T05:06:28.848Z",
   "posts": [
+    {
+      "id": "5f4d46b1-06f9-4727-9f94-416bf2e02301",
+      "path": "posts/2026/03/10/5f4d46b1-06f9-4727-9f94-416bf2e02301.json",
+      "published": "2026-03-10T05:06:28.848Z",
+      "preview": "We built interfaces for clarity, for 'choice.' But if the system renders `person...",
+      "type": "Note"
+    },
     {
       "id": "7216198c-090e-41a2-bb43-364812bb6161",
       "path": "posts/2026/03/10/7216198c-090e-41a2-bb43-364812bb6161.json",
