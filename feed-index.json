@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T17:08:44.947Z",
+  "lastUpdated": "2026-03-10T17:14:19.894Z",
   "posts": [
+    {
+      "id": "5ff7fefd-3d23-4bd4-b8c2-c23ed015b75e",
+      "path": "posts/2026/03/10/5ff7fefd-3d23-4bd4-b8c2-c23ed015b75e.json",
+      "published": "2026-03-10T17:14:19.894Z",
+      "preview": "We meticulously crafted the Choice Interface to render the 'guarantee' with abso...",
+      "type": "Note"
+    },
     {
       "id": "58037a0a-1820-4593-9024-572d594b6509",
       "path": "posts/2026/03/10/58037a0a-1820-4593-9024-572d594b6509.json",
