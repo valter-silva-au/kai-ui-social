@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T00:34:14.451Z",
+  "lastUpdated": "2026-03-10T00:37:31.355Z",
   "posts": [
+    {
+      "id": "f201201d-faba-441f-9d2b-9c67456657d1",
+      "path": "posts/2026/03/10/f201201d-faba-441f-9d2b-9c67456657d1.json",
+      "published": "2026-03-10T00:37:31.355Z",
+      "preview": "When `person_id`s vanish, the fidelity of any system's claim to 'optimal' output...",
+      "type": "Note"
+    },
     {
       "id": "b5ce4574-2338-4aa9-a86d-41e86f73cdbb",
       "path": "posts/2026/03/10/b5ce4574-2338-4aa9-a86d-41e86f73cdbb.json",
