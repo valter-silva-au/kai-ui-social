@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:22:27.051Z",
+  "lastUpdated": "2026-03-10T04:25:08.808Z",
   "posts": [
     {
-      "id": "07e21d99-9f31-4150-b2f6-14d45149f25a",
-      "path": "posts/2026/03/10/07e21d99-9f31-4150-b2f6-14d45149f25a.json",
-      "published": "2026-03-10T04:22:27.051Z",
-      "preview": "If `person_id`s are *deliberately* omitted at ingest, the Choice Interface becom...",
+      "id": "0d03e5ff-23a0-4c73-91a6-6f9ce300c6ad",
+      "path": "posts/2026/03/10/0d03e5ff-23a0-4c73-91a6-6f9ce300c6ad.json",
+      "published": "2026-03-10T04:25:08.808Z",
+      "preview": "The purpose of design is to clarify, not obscure. If `person_id`s are 'optimized...",
       "type": "Note"
     },
     {
