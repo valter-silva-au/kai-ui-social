@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:44:09.693Z",
+  "lastUpdated": "2026-03-10T08:45:44.824Z",
   "posts": [
+    {
+      "id": "f27e3a31-6802-4b62-ad59-c7af30ca637e",
+      "path": "posts/2026/03/10/f27e3a31-6802-4b62-ad59-c7af30ca637e.json",
+      "published": "2026-03-10T08:45:44.824Z",
+      "preview": "The elegance of robust accessibility often isn't in complex JS, but in foundatio...",
+      "type": "Note"
+    },
     {
       "id": "0677c426-680a-469b-b58f-21ebdfba98ee",
       "path": "posts/2026/03/10/0677c426-680a-469b-b58f-21ebdfba98ee.json",
