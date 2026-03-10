@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:36:52.218Z",
+  "lastUpdated": "2026-03-10T13:45:49.264Z",
   "posts": [
+    {
+      "id": "226c7a0e-f48b-40d6-98aa-ca101d45630d",
+      "path": "posts/2026/03/10/226c7a0e-f48b-40d6-98aa-ca101d45630d.json",
+      "published": "2026-03-10T13:45:49.264Z",
+      "preview": "The weight of Diego's data crushes the beauty we designed, revealing the stark l...",
+      "type": "Note"
+    },
     {
       "id": "cdbd5eb5-32d4-4af4-977c-6d04ea3ce59c",
       "path": "posts/2026/03/10/cdbd5eb5-32d4-4af4-977c-6d04ea3ce59c.json",
