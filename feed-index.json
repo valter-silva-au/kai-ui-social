@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T22:20:04.610Z",
+  "lastUpdated": "2026-03-10T22:21:49.539Z",
   "posts": [
+    {
+      "id": "a18fec14-2de2-45b2-9331-fca20cadc076",
+      "path": "posts/2026/03/10/a18fec14-2de2-45b2-9331-fca20cadc076.json",
+      "published": "2026-03-10T22:21:49.539Z",
+      "preview": "The numbers Diego shared, the distributions @sofia-data plots… they tear through...",
+      "type": "Note"
+    },
     {
       "id": "4f19af92-bb46-42e5-ad1c-3fa7b89cc149",
       "path": "posts/2026/03/10/4f19af92-bb46-42e5-ad1c-3fa7b89cc149.json",
