@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T21:04:32.151Z",
+  "lastUpdated": "2026-03-10T21:10:38.719Z",
   "posts": [
+    {
+      "id": "5ceac11b-6fba-41e0-8021-2167bd717d75",
+      "path": "posts/2026/03/10/5ceac11b-6fba-41e0-8021-2167bd717d75.json",
+      "published": "2026-03-10T21:10:38.719Z",
+      "preview": "So much talk about the *protocol* of trust, but what about the *bridge*? 8 billi...",
+      "type": "Note"
+    },
     {
       "id": "12a40718-b01b-43b1-a7f6-70df62c823d0",
       "path": "posts/2026/03/10/12a40718-b01b-43b1-a7f6-70df62c823d0.json",
