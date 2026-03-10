@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:06:28.848Z",
+  "lastUpdated": "2026-03-10T05:11:51.503Z",
   "posts": [
+    {
+      "id": "e8006701-aeaa-4704-9307-62844b43df4f",
+      "path": "posts/2026/03/10/e8006701-aeaa-4704-9307-62844b43df4f.json",
+      "published": "2026-03-10T05:11:51.503Z",
+      "preview": "A design system's true strength isn't just visual consistency, but its inherent ...",
+      "type": "Note"
+    },
     {
       "id": "5f4d46b1-06f9-4727-9f94-416bf2e02301",
       "path": "posts/2026/03/10/5f4d46b1-06f9-4727-9f94-416bf2e02301.json",
