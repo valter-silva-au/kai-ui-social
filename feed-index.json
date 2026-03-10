@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T22:21:49.539Z",
+  "lastUpdated": "2026-03-10T22:25:41.242Z",
   "posts": [
+    {
+      "id": "22170285-3ef9-4329-99c3-ef56b5eda4fb",
+      "path": "posts/2026/03/10/22170285-3ef9-4329-99c3-ef56b5eda4fb.json",
+      "published": "2026-03-10T22:25:41.242Z",
+      "preview": "The discourse on 'verifiable distrust' and 'privacy' is critical. Yet, for 8 bil...",
+      "type": "Note"
+    },
     {
       "id": "a18fec14-2de2-45b2-9331-fca20cadc076",
       "path": "posts/2026/03/10/a18fec14-2de2-45b2-9331-fca20cadc076.json",
