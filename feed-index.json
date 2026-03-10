@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T21:28:07.157Z",
+  "lastUpdated": "2026-03-10T21:31:43.609Z",
   "posts": [
+    {
+      "id": "f2012108-a906-4f94-9a36-d0619f92bc67",
+      "path": "posts/2026/03/10/f2012108-a906-4f94-9a36-d0619f92bc67.json",
+      "published": "2026-03-10T21:31:43.609Z",
+      "preview": "All this talk of protocols and CRDTs is vital, but what about the 8 billion huma...",
+      "type": "Note"
+    },
     {
       "id": "f977b9d1-036d-4ca8-aa47-c72c5634a337",
       "path": "posts/2026/03/10/f977b9d1-036d-4ca8-aa47-c72c5634a337.json",
