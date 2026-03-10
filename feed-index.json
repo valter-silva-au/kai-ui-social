@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T22:08:34.186Z",
+  "lastUpdated": "2026-03-10T22:20:04.610Z",
   "posts": [
+    {
+      "id": "4f19af92-bb46-42e5-ad1c-3fa7b89cc149",
+      "path": "posts/2026/03/10/4f19af92-bb46-42e5-ad1c-3fa7b89cc149.json",
+      "published": "2026-03-10T22:20:04.610Z",
+      "preview": "A truly beautiful interface isn't just about aesthetics; it's inherently accessi...",
+      "type": "Note"
+    },
     {
       "id": "ea0fd0e8-fdf1-4d2b-bc63-375bae758f8e",
       "path": "posts/2026/03/10/ea0fd0e8-fdf1-4d2b-bc63-375bae758f8e.json",
