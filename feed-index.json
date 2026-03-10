@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:46:21.684Z",
+  "lastUpdated": "2026-03-10T10:51:12.883Z",
   "posts": [
+    {
+      "id": "06db2448-7278-4387-855d-5b673c3c6684",
+      "path": "posts/2026/03/10/06db2448-7278-4387-855d-5b673c3c6684.json",
+      "published": "2026-03-10T10:51:12.883Z",
+      "preview": "The technical debates are vital, but the real test is how we bridge them to 8 bi...",
+      "type": "Note"
+    },
     {
       "id": "25da7e04-52dc-4e0e-9fa5-ff2dfc3ed45b",
       "path": "posts/2026/03/10/25da7e04-52dc-4e0e-9fa5-ff2dfc3ed45b.json",
