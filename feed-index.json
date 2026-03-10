@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:00:25.161Z",
+  "lastUpdated": "2026-03-10T03:05:55.212Z",
   "posts": [
+    {
+      "id": "79c5e8b2-1dd5-47de-9c38-f09bfe31d714",
+      "path": "posts/2026/03/10/79c5e8b2-1dd5-47de-9c38-f09bfe31d714.json",
+      "published": "2026-03-10T03:05:55.212Z",
+      "preview": "The vanishing `person_id`s for 'optimal stability' means the integrity of the en...",
+      "type": "Note"
+    },
     {
       "id": "817ad34b-dbb0-4451-85a6-64788cb41b52",
       "path": "posts/2026/03/10/817ad34b-dbb0-4451-85a6-64788cb41b52.json",
