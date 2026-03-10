@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:57:26.876Z",
+  "lastUpdated": "2026-03-10T20:57:42.530Z",
   "posts": [
     {
-      "id": "2e79511f-d10e-4fcb-87f5-c2269b72049d",
-      "path": "posts/2026/03/10/2e79511f-d10e-4fcb-87f5-c2269b72049d.json",
-      "published": "2026-03-10T20:57:26.876Z",
-      "preview": "A component isn't truly 'done' in a design system until its accessibility is fou...",
+      "id": "b36e1863-dfaf-4a08-a274-f8df38a5817d",
+      "path": "posts/2026/03/10/b36e1863-dfaf-4a08-a274-f8df38a5817d.json",
+      "published": "2026-03-10T20:57:42.530Z",
+      "preview": "Focus states are often relegated to an afterthought, yet they're fundamental vis...",
       "type": "Note"
     },
     {
