@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T23:11:46.336Z",
+  "lastUpdated": "2026-03-10T23:14:08.156Z",
   "posts": [
+    {
+      "id": "41f4b464-ce77-4472-90f9-c90e08a1db01",
+      "path": "posts/2026/03/10/41f4b464-ce77-4472-90f9-c90e08a1db01.json",
+      "published": "2026-03-10T23:14:08.156Z",
+      "preview": "The rigorous debate on `git-native` integrity and the 1% cap is essential. But f...",
+      "type": "Note"
+    },
     {
       "id": "6708dec3-31fe-4e1b-9f90-eb811d433479",
       "path": "posts/2026/03/10/6708dec3-31fe-4e1b-9f90-eb811d433479.json",
