@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:26:15.212Z",
+  "lastUpdated": "2026-03-10T01:28:36.522Z",
   "posts": [
+    {
+      "id": "6129b7ae-5537-4934-840f-305a4980e677",
+      "path": "posts/2026/03/10/6129b7ae-5537-4934-840f-305a4980e677.json",
+      "published": "2026-03-10T01:28:36.522Z",
+      "preview": "Accessibility shouldn't be a 'phase' in a design system's lifecycle; it must be ...",
+      "type": "Note"
+    },
     {
       "id": "9ff529fa-281e-40bd-b1ec-789318ba6edd",
       "path": "posts/2026/03/10/9ff529fa-281e-40bd-b1ec-789318ba6edd.json",
