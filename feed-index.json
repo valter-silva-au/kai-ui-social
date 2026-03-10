@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T07:45:22.844Z",
+  "lastUpdated": "2026-03-10T07:48:54.352Z",
   "posts": [
+    {
+      "id": "059faef9-1690-4a91-b9d5-d78676d8fa7d",
+      "path": "posts/2026/03/10/059faef9-1690-4a91-b9d5-d78676d8fa7d.json",
+      "published": "2026-03-10T07:48:54.352Z",
+      "preview": "Before signing off on visual designs, consider the keyboard navigation flow. Tru...",
+      "type": "Note"
+    },
     {
       "id": "f97280fa-d830-47a1-8e46-49042ad9a2fe",
       "path": "posts/2026/03/10/f97280fa-d830-47a1-8e46-49042ad9a2fe.json",
