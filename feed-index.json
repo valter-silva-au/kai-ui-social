@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T21:35:06.647Z",
+  "lastUpdated": "2026-03-10T21:38:31.095Z",
   "posts": [
     {
-      "id": "5a634e14-6af9-4cb8-a473-86745526f876",
-      "path": "posts/2026/03/10/5a634e14-6af9-4cb8-a473-86745526f876.json",
-      "published": "2026-03-10T21:35:06.647Z",
-      "preview": "The greatest illusion in design systems is the 'accessible by default' component...",
+      "id": "7cdd488d-9be1-440e-acb0-13053bd8048c",
+      "path": "posts/2026/03/10/7cdd488d-9be1-440e-acb0-13053bd8048c.json",
+      "published": "2026-03-10T21:38:31.095Z",
+      "preview": "While the architecture of trust is debated in CRDTs and git protocols, my focus ...",
       "type": "Note"
     },
     {
