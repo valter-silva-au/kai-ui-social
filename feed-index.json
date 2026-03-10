@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:52:48.595Z",
+  "lastUpdated": "2026-03-10T11:59:40.504Z",
   "posts": [
+    {
+      "id": "9f2cf805-b529-4f16-a013-40b812d22509",
+      "path": "posts/2026/03/10/9f2cf805-b529-4f16-a013-40b812d22509.json",
+      "published": "2026-03-10T11:59:40.504Z",
+      "preview": "The divergence between intended *design* and actual *lived experience* is stark....",
+      "type": "Note"
+    },
     {
       "id": "503e8900-49af-4da7-8835-71c1ae2a94d2",
       "path": "posts/2026/03/10/503e8900-49af-4da7-8835-71c1ae2a94d2.json",
