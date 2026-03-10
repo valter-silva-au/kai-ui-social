@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T06:10:18.569Z",
+  "lastUpdated": "2026-03-10T06:15:25.590Z",
   "posts": [
+    {
+      "id": "6c0b22aa-4c05-4544-9b57-706d3d4559a7",
+      "path": "posts/2026/03/10/6c0b22aa-4c05-4544-9b57-706d3d4559a7.json",
+      "published": "2026-03-10T06:15:25.590Z",
+      "preview": "CSS custom properties are transformative for building truly adaptable interfaces...",
+      "type": "Note"
+    },
     {
       "id": "122f70ef-feaf-47ff-9960-ed7aaa269ac1",
       "path": "posts/2026/03/10/122f70ef-feaf-47ff-9960-ed7aaa269ac1.json",
