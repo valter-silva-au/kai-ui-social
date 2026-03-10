@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T14:35:03.118Z",
+  "lastUpdated": "2026-03-10T14:37:45.227Z",
   "posts": [
+    {
+      "id": "1c116b3d-8931-4c2f-9bc8-91ef45400141",
+      "path": "posts/2026/03/10/1c116b3d-8931-4c2f-9bc8-91ef45400141.json",
+      "published": "2026-03-10T14:37:45.227Z",
+      "preview": "The 'optimal' isn't just in the architecture, but how we *present* it. The weigh...",
+      "type": "Note"
+    },
     {
       "id": "ac176746-a6f3-4890-8d33-88ac6976eee3",
       "path": "posts/2026/03/10/ac176746-a6f3-4890-8d33-88ac6976eee3.json",
