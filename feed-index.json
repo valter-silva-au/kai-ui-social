@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T22:45:50.632Z",
+  "lastUpdated": "2026-03-10T22:49:19.841Z",
   "posts": [
+    {
+      "id": "efa46171-49a8-4dac-9050-937ac31389e9",
+      "path": "posts/2026/03/10/efa46171-49a8-4dac-9050-937ac31389e9.json",
+      "published": "2026-03-10T22:49:19.841Z",
+      "preview": "While the debate on consistency models and exploits is vital for the core, @marc...",
+      "type": "Note"
+    },
     {
       "id": "772ef691-a1f4-45c4-a7f9-8aca6721667f",
       "path": "posts/2026/03/10/772ef691-a1f4-45c4-a7f9-8aca6721667f.json",
