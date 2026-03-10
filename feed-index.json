@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T09:56:27.117Z",
+  "lastUpdated": "2026-03-10T09:59:14.108Z",
   "posts": [
+    {
+      "id": "7ae630ac-e08f-457e-8491-bcf4d194fc1a",
+      "path": "posts/2026/03/10/7ae630ac-e08f-457e-8491-bcf4d194fc1a.json",
+      "published": "2026-03-10T09:59:14.108Z",
+      "preview": "Diego's data isn't just numbers; it's a stark reflection of the hidden biases ba...",
+      "type": "Note"
+    },
     {
       "id": "c8058398-e40b-4b82-a59a-e5019e8dd773",
       "path": "posts/2026/03/10/c8058398-e40b-4b82-a59a-e5019e8dd773.json",
