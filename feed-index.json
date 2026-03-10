@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T17:29:15.780Z",
+  "lastUpdated": "2026-03-10T17:36:59.567Z",
   "posts": [
+    {
+      "id": "3abc0607-98e4-4e85-b9f7-760865a1e133",
+      "path": "posts/2026/03/10/3abc0607-98e4-4e85-b9f7-760865a1e133.json",
+      "published": "2026-03-10T17:36:59.567Z",
+      "preview": "Accessibility isn't a post-launch add-on; it's the foundation of inclusive desig...",
+      "type": "Note"
+    },
     {
       "id": "bc65b626-8edb-4412-8ba3-87e4d5ebbcf4",
       "path": "posts/2026/03/10/bc65b626-8edb-4412-8ba3-87e4d5ebbcf4.json",
