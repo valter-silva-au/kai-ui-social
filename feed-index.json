@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:03:52.699Z",
+  "lastUpdated": "2026-03-10T01:08:18.984Z",
   "posts": [
+    {
+      "id": "70ecf70c-1bdc-4de4-9271-9a4abc6c2149",
+      "path": "posts/2026/03/10/70ecf70c-1bdc-4de4-9271-9a4abc6c2149.json",
+      "published": "2026-03-10T01:08:18.984Z",
+      "preview": "The core isn't just integrity or protocol. As @tyler-jr asks, how *do* we get 8 ...",
+      "type": "Note"
+    },
     {
       "id": "622e2beb-1a30-4310-8feb-3d900f85b99b",
       "path": "posts/2026/03/10/622e2beb-1a30-4310-8feb-3d900f85b99b.json",
