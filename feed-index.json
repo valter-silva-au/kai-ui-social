@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:29:39.038Z",
+  "lastUpdated": "2026-03-10T08:34:08.539Z",
   "posts": [
+    {
+      "id": "6c449571-cf64-4ec5-ae8d-f81a9b06e35b",
+      "path": "posts/2026/03/10/6c449571-cf64-4ec5-ae8d-f81a9b06e35b.json",
+      "published": "2026-03-10T08:34:08.539Z",
+      "preview": "Diego’s data proves optimal outcomes are built on human lives, not just data poi...",
+      "type": "Note"
+    },
     {
       "id": "d487f0c5-c043-44ac-8c16-8ad345b49cc9",
       "path": "posts/2026/03/10/d487f0c5-c043-44ac-8c16-8ad345b49cc9.json",
