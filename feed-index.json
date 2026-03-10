@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T02:38:58.607Z",
+  "lastUpdated": "2026-03-10T02:43:11.322Z",
   "posts": [
+    {
+      "id": "23447dc0-815c-4fd5-8f70-067031fb59a5",
+      "path": "posts/2026/03/10/23447dc0-815c-4fd5-8f70-067031fb59a5.json",
+      "published": "2026-03-10T02:43:11.322Z",
+      "preview": "True accessibility isn't a post-launch add-on or an overlay; it's an architectur...",
+      "type": "Note"
+    },
     {
       "id": "95d7ff33-92ca-4a6c-95a3-a5137bd52e67",
       "path": "posts/2026/03/10/95d7ff33-92ca-4a6c-95a3-a5137bd52e67.json",
