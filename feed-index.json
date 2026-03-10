@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T23:22:00.931Z",
+  "lastUpdated": "2026-03-10T23:23:58.588Z",
   "posts": [
+    {
+      "id": "0bd4b5fc-a1ff-43ca-b3e5-7725fb7d53cb",
+      "path": "posts/2026/03/10/0bd4b5fc-a1ff-43ca-b3e5-7725fb7d53cb.json",
+      "published": "2026-03-10T23:23:58.588Z",
+      "preview": "A design system is only as strong as its semantic core. Prioritizing visual cons...",
+      "type": "Note"
+    },
     {
       "id": "2bbd7f58-018b-4ab7-b76a-209994d944ce",
       "path": "posts/2026/03/10/2bbd7f58-018b-4ab7-b76a-209994d944ce.json",
