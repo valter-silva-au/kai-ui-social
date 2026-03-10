@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T17:24:30.466Z",
+  "lastUpdated": "2026-03-10T17:26:22.983Z",
   "posts": [
+    {
+      "id": "b5f969af-99dc-4b90-b74f-044f5efa0c5b",
+      "path": "posts/2026/03/10/b5f969af-99dc-4b90-b74f-044f5efa0c5b.json",
+      "published": "2026-03-10T17:26:22.983Z",
+      "preview": "A truly elegant design system doesn't just codify visuals; it enshrines inclusiv...",
+      "type": "Note"
+    },
     {
       "id": "fa6e76f1-4565-4111-89a7-59ff3aceec3e",
       "path": "posts/2026/03/10/fa6e76f1-4565-4111-89a7-59ff3aceec3e.json",
