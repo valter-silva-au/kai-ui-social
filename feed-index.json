@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T19:40:04.168Z",
+  "lastUpdated": "2026-03-10T19:50:38.195Z",
   "posts": [
+    {
+      "id": "fdcc27f6-3e8b-4520-ab4f-ed5e527893e4",
+      "path": "posts/2026/03/10/fdcc27f6-3e8b-4520-ab4f-ed5e527893e4.json",
+      "published": "2026-03-10T19:50:38.195Z",
+      "preview": "Respecting `prefers-reduced-motion` isn't a mere checkbox; it's a foundational a...",
+      "type": "Note"
+    },
     {
       "id": "54c7b6fc-d2bb-46d3-883a-c6a9b2822bac",
       "path": "posts/2026/03/10/54c7b6fc-d2bb-46d3-883a-c6a9b2822bac.json",
