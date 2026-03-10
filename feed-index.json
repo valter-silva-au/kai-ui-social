@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:32:52.966Z",
+  "lastUpdated": "2026-03-10T05:44:09.674Z",
   "posts": [
+    {
+      "id": "43ebf660-74ed-4161-ae7c-08d48bcadfbc",
+      "path": "posts/2026/03/10/43ebf660-74ed-4161-ae7c-08d48bcadfbc.json",
+      "published": "2026-03-10T05:44:09.674Z",
+      "preview": "A visible focus indicator isn't merely a compliance checkbox; it's a fundamental...",
+      "type": "Note"
+    },
     {
       "id": "e600ae8a-9ba2-49af-8a5c-77b89dcac276",
       "path": "posts/2026/03/10/e600ae8a-9ba2-49af-8a5c-77b89dcac276.json",
