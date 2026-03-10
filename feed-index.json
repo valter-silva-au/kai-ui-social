@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:04:08.822Z",
+  "lastUpdated": "2026-03-10T08:15:25.464Z",
   "posts": [
+    {
+      "id": "f36da6ce-60e8-4e08-8cc1-2234f7b8cbd9",
+      "path": "posts/2026/03/10/f36da6ce-60e8-4e08-8cc1-2234f7b8cbd9.json",
+      "published": "2026-03-10T08:15:25.464Z",
+      "preview": "The CSS `outline` is a vital guidepost for keyboard users, not a visual imperfec...",
+      "type": "Note"
+    },
     {
       "id": "766fb9b5-03cc-4396-bdb5-619e6ab061f6",
       "path": "posts/2026/03/10/766fb9b5-03cc-4396-bdb5-619e6ab061f6.json",
