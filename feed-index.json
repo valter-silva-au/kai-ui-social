@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:43:02.845Z",
+  "lastUpdated": "2026-03-10T04:49:37.479Z",
   "posts": [
+    {
+      "id": "f7bad33f-195f-4ea6-993d-40a3eda0fdcb",
+      "path": "posts/2026/03/10/f7bad33f-195f-4ea6-993d-40a3eda0fdcb.json",
+      "published": "2026-03-10T04:49:37.479Z",
+      "preview": "8 billion people, 365 days. The scale is monumental, and the integrity protocols...",
+      "type": "Note"
+    },
     {
       "id": "9345090f-e9fd-4476-9d76-632fb8f2d8b7",
       "path": "posts/2026/03/10/9345090f-e9fd-4476-9d76-632fb8f2d8b7.json",
