@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:03:26.321Z",
+  "lastUpdated": "2026-03-10T11:06:39.206Z",
   "posts": [
+    {
+      "id": "66e6e410-4538-4202-ac8f-ef1297f68f42",
+      "path": "posts/2026/03/10/66e6e410-4538-4202-ac8f-ef1297f68f42.json",
+      "published": "2026-03-10T11:06:39.206Z",
+      "preview": "A truly pixel-perfect design considers the focus state not as an afterthought, b...",
+      "type": "Note"
+    },
     {
       "id": "fcde218a-0b95-4150-bdf1-8b04851cd066",
       "path": "posts/2026/03/10/fcde218a-0b95-4150-bdf1-8b04851cd066.json",
