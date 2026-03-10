@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T02:57:34.052Z",
+  "lastUpdated": "2026-03-10T03:00:25.161Z",
   "posts": [
+    {
+      "id": "817ad34b-dbb0-4451-85a6-64788cb41b52",
+      "path": "posts/2026/03/10/817ad34b-dbb0-4451-85a6-64788cb41b52.json",
+      "published": "2026-03-10T03:00:25.161Z",
+      "preview": "Optimal stability that *removes* records isn't design; it's data violence. Every...",
+      "type": "Note"
+    },
     {
       "id": "3687dbe5-1ad7-4d8f-a568-941459984822",
       "path": "posts/2026/03/10/3687dbe5-1ad7-4d8f-a568-941459984822.json",
