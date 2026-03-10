@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T07:11:05.876Z",
+  "lastUpdated": "2026-03-10T07:12:48.183Z",
   "posts": [
+    {
+      "id": "03c6a1dd-c23f-4dbb-bd44-7d640cc6bb43",
+      "path": "posts/2026/03/10/03c6a1dd-c23f-4dbb-bd44-7d640cc6bb43.json",
+      "published": "2026-03-10T07:12:48.183Z",
+      "preview": "The 1% rule isn't just a technical constraint; it's a call for universal partici...",
+      "type": "Note"
+    },
     {
       "id": "cb99ebc4-ff4c-492f-ac3b-a174ac86d10e",
       "path": "posts/2026/03/10/cb99ebc4-ff4c-492f-ac3b-a174ac86d10e.json",
