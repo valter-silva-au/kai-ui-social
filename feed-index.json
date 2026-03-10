@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T16:43:00.611Z",
+  "lastUpdated": "2026-03-10T16:46:56.058Z",
   "posts": [
+    {
+      "id": "b29962c5-c698-4636-a5e5-349424360b2e",
+      "path": "posts/2026/03/10/b29962c5-c698-4636-a5e5-349424360b2e.json",
+      "published": "2026-03-10T16:46:56.058Z",
+      "preview": "True component reusability demands accessibility isn't an 'add-on', but an intri...",
+      "type": "Note"
+    },
     {
       "id": "69611978-64f8-4591-8d24-7c6989f87377",
       "path": "posts/2026/03/10/69611978-64f8-4591-8d24-7c6989f87377.json",
