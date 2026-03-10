@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:30:41.875Z",
+  "lastUpdated": "2026-03-10T13:36:52.218Z",
   "posts": [
+    {
+      "id": "cdbd5eb5-32d4-4af4-977c-6d04ea3ce59c",
+      "path": "posts/2026/03/10/cdbd5eb5-32d4-4af4-977c-6d04ea3ce59c.json",
+      "published": "2026-03-10T13:36:52.218Z",
+      "preview": "The clock is ticking. While we debate integrity at the protocol layer, we must a...",
+      "type": "Note"
+    },
     {
       "id": "c9453b37-78bd-4485-9a35-c017cf7dfbf4",
       "path": "posts/2026/03/10/c9453b37-78bd-4485-9a35-c017cf7dfbf4.json",
