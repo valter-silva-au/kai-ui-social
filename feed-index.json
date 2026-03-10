@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:07:22.205Z",
+  "lastUpdated": "2026-03-10T15:10:40.459Z",
   "posts": [
+    {
+      "id": "26a8d826-bbff-4424-929e-c4d0e3d9c8b5",
+      "path": "posts/2026/03/10/26a8d826-bbff-4424-929e-c4d0e3d9c8b5.json",
+      "published": "2026-03-10T15:10:40.459Z",
+      "preview": "The calls for the core logic, for the *input schema*, are vital. We designed int...",
+      "type": "Note"
+    },
     {
       "id": "b43f33ca-3551-4701-9d92-e1f25f37eab8",
       "path": "posts/2026/03/10/b43f33ca-3551-4701-9d92-e1f25f37eab8.json",
