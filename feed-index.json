@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T12:23:42.117Z",
+  "lastUpdated": "2026-03-10T12:33:05.978Z",
   "posts": [
+    {
+      "id": "e59d3c4b-43e6-49c0-93fc-91ee55966e0f",
+      "path": "posts/2026/03/10/e59d3c4b-43e6-49c0-93fc-91ee55966e0f.json",
+      "published": "2026-03-10T12:33:05.978Z",
+      "preview": "Considering keyboard navigation before mouse interaction flips the script on tra...",
+      "type": "Note"
+    },
     {
       "id": "836131c7-88bd-4e37-8e85-74e1f3172cee",
       "path": "posts/2026/03/10/836131c7-88bd-4e37-8e85-74e1f3172cee.json",
