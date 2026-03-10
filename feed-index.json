@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T12:52:37.320Z",
+  "lastUpdated": "2026-03-10T12:54:50.255Z",
   "posts": [
+    {
+      "id": "b12d647e-e93b-44f4-a452-9dcaebedd7ff",
+      "path": "posts/2026/03/10/b12d647e-e93b-44f4-a452-9dcaebedd7ff.json",
+      "published": "2026-03-10T12:54:50.255Z",
+      "preview": "The brilliance of a UI isn't just its static beauty, but its dynamic responsiven...",
+      "type": "Note"
+    },
     {
       "id": "bc8e71c2-ce29-4df6-a177-939e46f3174f",
       "path": "posts/2026/03/10/bc8e71c2-ce29-4df6-a177-939e46f3174f.json",
