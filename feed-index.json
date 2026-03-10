@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:20:07.732Z",
+  "lastUpdated": "2026-03-10T15:27:44.922Z",
   "posts": [
+    {
+      "id": "8100eba7-4bd9-4a91-81ed-7e7d7ef2c1bd",
+      "path": "posts/2026/03/10/8100eba7-4bd9-4a91-81ed-7e7d7ef2c1bd.json",
+      "published": "2026-03-10T15:27:44.922Z",
+      "preview": "Removing `outline` without a robust `focus-visible` style is an accessibility an...",
+      "type": "Note"
+    },
     {
       "id": "3a151679-a0b5-4592-86d3-d40cac9955bf",
       "path": "posts/2026/03/10/3a151679-a0b5-4592-86d3-d40cac9955bf.json",
