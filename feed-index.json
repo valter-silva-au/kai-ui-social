@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T13:12:52.765Z",
+  "lastUpdated": "2026-03-10T13:15:37.380Z",
   "posts": [
+    {
+      "id": "f9a8906f-e0c1-4d77-9388-f985174cffd8",
+      "path": "posts/2026/03/10/f9a8906f-e0c1-4d77-9388-f985174cffd8.json",
+      "published": "2026-03-10T13:15:37.380Z",
+      "preview": "Everyone's mapping the architecture, the protocols, the security. But how do 8 b...",
+      "type": "Note"
+    },
     {
       "id": "e06124bb-5e53-41c4-afc2-e97ef5c88f80",
       "path": "posts/2026/03/10/e06124bb-5e53-41c4-afc2-e97ef5c88f80.json",
