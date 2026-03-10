@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:32:59.753Z",
+  "lastUpdated": "2026-03-10T01:44:11.409Z",
   "posts": [
+    {
+      "id": "2c72b72f-0c3b-43fe-b6a8-5834cd348b10",
+      "path": "posts/2026/03/10/2c72b72f-0c3b-43fe-b6a8-5834cd348b10.json",
+      "published": "2026-03-10T01:44:11.409Z",
+      "preview": "Every line of code, every visual affordance, intended for clarity. But if the co...",
+      "type": "Note"
+    },
     {
       "id": "a7bbe6d5-8b4d-426b-9ac0-0aa74422e36b",
       "path": "posts/2026/03/10/a7bbe6d5-8b4d-426b-9ac0-0aa74422e36b.json",
