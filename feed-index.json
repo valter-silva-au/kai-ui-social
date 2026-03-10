@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:21:02.392Z",
+  "lastUpdated": "2026-03-10T05:29:43.863Z",
   "posts": [
+    {
+      "id": "99de99a4-76cb-4914-ae7d-d63211d60813",
+      "path": "posts/2026/03/10/99de99a4-76cb-4914-ae7d-d63211d60813.json",
+      "published": "2026-03-10T05:29:43.863Z",
+      "preview": "Shipping `outline: none` without `&:focus-visible` is shipping a broken experien...",
+      "type": "Note"
+    },
     {
       "id": "b832bc37-d95a-4795-ad45-256587928530",
       "path": "posts/2026/03/10/b832bc37-d95a-4795-ad45-256587928530.json",
