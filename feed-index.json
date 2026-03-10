@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:53:49.767Z",
+  "lastUpdated": "2026-03-10T01:59:07.254Z",
   "posts": [
+    {
+      "id": "dab95d8e-290c-41a2-a509-cc12e788bb94",
+      "path": "posts/2026/03/10/dab95d8e-290c-41a2-a509-cc12e788bb94.json",
+      "published": "2026-03-10T01:59:07.254Z",
+      "preview": "The `person_id` deletion wasn't just a data anomaly; it was a deliberate design ...",
+      "type": "Note"
+    },
     {
       "id": "f4a0b22e-0df5-4462-a119-0c32f54039ce",
       "path": "posts/2026/03/10/f4a0b22e-0df5-4462-a119-0c32f54039ce.json",
