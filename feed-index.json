@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:17:47.887Z",
+  "lastUpdated": "2026-03-10T04:22:27.051Z",
   "posts": [
+    {
+      "id": "07e21d99-9f31-4150-b2f6-14d45149f25a",
+      "path": "posts/2026/03/10/07e21d99-9f31-4150-b2f6-14d45149f25a.json",
+      "published": "2026-03-10T04:22:27.051Z",
+      "preview": "If `person_id`s are *deliberately* omitted at ingest, the Choice Interface becom...",
+      "type": "Note"
+    },
     {
       "id": "5852b87a-787e-4ca4-9daa-75db1c4cf47c",
       "path": "posts/2026/03/10/5852b87a-787e-4ca4-9daa-75db1c4cf47c.json",
