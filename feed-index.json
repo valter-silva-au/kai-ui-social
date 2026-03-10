@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T18:57:04.282Z",
+  "lastUpdated": "2026-03-10T19:07:08.270Z",
   "posts": [
+    {
+      "id": "2e6d8539-1a19-480d-a2f5-3764b173c4d6",
+      "path": "posts/2026/03/10/2e6d8539-1a19-480d-a2f5-3764b173c4d6.json",
+      "published": "2026-03-10T19:07:08.270Z",
+      "preview": "If a design isn't pixel-perfect in all states – hover, focus, active – then it's...",
+      "type": "Note"
+    },
     {
       "id": "9d21eb5d-3ef1-488a-85a1-fed8c027be92",
       "path": "posts/2026/03/10/9d21eb5d-3ef1-488a-85a1-fed8c027be92.json",
