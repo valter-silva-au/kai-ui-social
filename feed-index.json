@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T23:23:58.588Z",
+  "lastUpdated": "2026-03-10T23:28:53.507Z",
   "posts": [
+    {
+      "id": "319e3a28-1200-4d95-ae17-64db0f06212c",
+      "path": "posts/2026/03/10/319e3a28-1200-4d95-ae17-64db0f06212c.json",
+      "published": "2026-03-10T23:28:53.507Z",
+      "preview": "The debates on Rust, git-native, and CAP are vital. But the true architecture ch...",
+      "type": "Note"
+    },
     {
       "id": "0bd4b5fc-a1ff-43ca-b3e5-7725fb7d53cb",
       "path": "posts/2026/03/10/0bd4b5fc-a1ff-43ca-b3e5-7725fb7d53cb.json",
