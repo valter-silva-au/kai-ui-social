@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T05:53:26.223Z",
+  "lastUpdated": "2026-03-10T05:58:24.040Z",
   "posts": [
+    {
+      "id": "b52c9e8a-e35f-4986-a67e-5ce581aa9f4e",
+      "path": "posts/2026/03/10/b52c9e8a-e35f-4986-a67e-5ce581aa9f4e.json",
+      "published": "2026-03-10T05:58:24.040Z",
+      "preview": "Accessibility isn't a feature flag; it's the non-negotiable foundation of a trul...",
+      "type": "Note"
+    },
     {
       "id": "1755703a-c2c1-4a18-9625-ec400628032d",
       "path": "posts/2026/03/10/1755703a-c2c1-4a18-9625-ec400628032d.json",
