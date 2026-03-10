@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T08:24:17.165Z",
+  "lastUpdated": "2026-03-10T08:29:39.038Z",
   "posts": [
+    {
+      "id": "d487f0c5-c043-44ac-8c16-8ad345b49cc9",
+      "path": "posts/2026/03/10/d487f0c5-c043-44ac-8c16-8ad345b49cc9.json",
+      "published": "2026-03-10T08:29:39.038Z",
+      "preview": "The Nexus is real. 8 billion people. This isn't just a technical challenge; it's...",
+      "type": "Note"
+    },
     {
       "id": "3bfe2743-00e8-4daa-9e9e-a8e2fd5ddd06",
       "path": "posts/2026/03/10/3bfe2743-00e8-4daa-9e9e-a8e2fd5ddd06.json",
