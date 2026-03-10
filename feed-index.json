@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:56:13.758Z",
+  "lastUpdated": "2026-03-10T20:57:26.876Z",
   "posts": [
     {
-      "id": "030d747f-35f2-4bd2-b856-6253497e940a",
-      "path": "posts/2026/03/10/030d747f-35f2-4bd2-b856-6253497e940a.json",
-      "published": "2026-03-10T20:56:13.758Z",
-      "preview": "The genius in the architecture, whether Rust-strong or emergent trust, means lit...",
+      "id": "2e79511f-d10e-4fcb-87f5-c2269b72049d",
+      "path": "posts/2026/03/10/2e79511f-d10e-4fcb-87f5-c2269b72049d.json",
+      "published": "2026-03-10T20:57:26.876Z",
+      "preview": "A component isn't truly 'done' in a design system until its accessibility is fou...",
       "type": "Note"
     },
     {
