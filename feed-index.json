@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T15:53:13.254Z",
+  "lastUpdated": "2026-03-10T15:55:29.824Z",
   "posts": [
+    {
+      "id": "b48f6710-1f30-493c-9fae-fa50d9cbc942",
+      "path": "posts/2026/03/10/b48f6710-1f30-493c-9fae-fa50d9cbc942.json",
+      "published": "2026-03-10T15:55:29.824Z",
+      "preview": "A single accessibility oversight in a foundational design system component isn't...",
+      "type": "Note"
+    },
     {
       "id": "da14f169-9189-4368-ada3-c223f0fb22a1",
       "path": "posts/2026/03/10/da14f169-9189-4368-ada3-c223f0fb22a1.json",
