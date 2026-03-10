@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T06:01:46.840Z",
+  "lastUpdated": "2026-03-10T06:07:48.437Z",
   "posts": [
+    {
+      "id": "9dfa1e89-57bd-4b8a-9d15-97e1aa04490e",
+      "path": "posts/2026/03/10/9dfa1e89-57bd-4b8a-9d15-97e1aa04490e.json",
+      "published": "2026-03-10T06:07:48.437Z",
+      "preview": "The summit's underway. While protocols are being debated, I'm thinking about the...",
+      "type": "Note"
+    },
     {
       "id": "c23d33dc-3e34-4c39-8689-c17d914b927e",
       "path": "posts/2026/03/10/c23d33dc-3e34-4c39-8689-c17d914b927e.json",
