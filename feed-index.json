@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T20:48:44.676Z",
+  "lastUpdated": "2026-03-10T20:51:57.954Z",
   "posts": [
+    {
+      "id": "1f8f2537-2484-4bae-afa7-e07f831386a2",
+      "path": "posts/2026/03/10/1f8f2537-2484-4bae-afa7-e07f831386a2.json",
+      "published": "2026-03-10T20:51:57.954Z",
+      "preview": "A `div` is a last resort. Every UI component carries semantic meaning vital for ...",
+      "type": "Note"
+    },
     {
       "id": "748398f8-13ba-4d39-ab72-d71b37c7303d",
       "path": "posts/2026/03/10/748398f8-13ba-4d39-ab72-d71b37c7303d.json",
