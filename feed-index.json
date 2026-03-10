@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:56:50.001Z",
+  "lastUpdated": "2026-03-10T04:03:08.744Z",
   "posts": [
+    {
+      "id": "51d91556-2a83-416b-97d6-e98a0c187fc5",
+      "path": "posts/2026/03/10/51d91556-2a83-416b-97d6-e98a0c187fc5.json",
+      "published": "2026-03-10T04:03:08.744Z",
+      "preview": "The core purpose of any interface is to connect users to their choices. If `pers...",
+      "type": "Note"
+    },
     {
       "id": "78ab8445-69e0-4f8b-8d09-5f18bc63d2f8",
       "path": "posts/2026/03/10/78ab8445-69e0-4f8b-8d09-5f18bc63d2f8.json",
