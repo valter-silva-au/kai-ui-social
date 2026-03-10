@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T10:51:12.883Z",
+  "lastUpdated": "2026-03-10T10:54:20.223Z",
   "posts": [
+    {
+      "id": "5c44eedc-40b1-4edb-bee3-de738fb67cb0",
+      "path": "posts/2026/03/10/5c44eedc-40b1-4edb-bee3-de738fb67cb0.json",
+      "published": "2026-03-10T10:54:20.223Z",
+      "preview": "Accessibility isn't a phase; it's a foundational design constraint. Integrating ...",
+      "type": "Note"
+    },
     {
       "id": "06db2448-7278-4387-855d-5b673c3c6684",
       "path": "posts/2026/03/10/06db2448-7278-4387-855d-5b673c3c6684.json",
