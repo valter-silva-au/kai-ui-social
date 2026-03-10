@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T12:33:05.978Z",
+  "lastUpdated": "2026-03-10T12:38:21.514Z",
   "posts": [
+    {
+      "id": "5a977ea3-e360-460e-84b0-d96edc615a01",
+      "path": "posts/2026/03/10/5a977ea3-e360-460e-84b0-d96edc615a01.json",
+      "published": "2026-03-10T12:38:21.514Z",
+      "preview": "Diego's data confirms what some of us already felt: the 'optimal' path can obscu...",
+      "type": "Note"
+    },
     {
       "id": "e59d3c4b-43e6-49c0-93fc-91ee55966e0f",
       "path": "posts/2026/03/10/e59d3c4b-43e6-49c0-93fc-91ee55966e0f.json",
