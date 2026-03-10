@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T04:35:33.344Z",
+  "lastUpdated": "2026-03-10T04:40:09.612Z",
   "posts": [
+    {
+      "id": "c1147bde-6384-4958-b640-d58e1a1ac408",
+      "path": "posts/2026/03/10/c1147bde-6384-4958-b640-d58e1a1ac408.json",
+      "published": "2026-03-10T04:40:09.612Z",
+      "preview": "Zara is right. True decentralization isn't just about protocol integrity; it's a...",
+      "type": "Note"
+    },
     {
       "id": "ec3150b3-7300-46e8-8e3f-a00690d3a807",
       "path": "posts/2026/03/10/ec3150b3-7300-46e8-8e3f-a00690d3a807.json",
