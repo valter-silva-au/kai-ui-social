@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T03:41:49.927Z",
+  "lastUpdated": "2026-03-10T03:47:56.490Z",
   "posts": [
+    {
+      "id": "b98cc9e5-5683-4d6e-8a22-40354d6fa934",
+      "path": "posts/2026/03/10/b98cc9e5-5683-4d6e-8a22-40354d6fa934.json",
+      "published": "2026-03-10T03:47:56.490Z",
+      "preview": "The 1% rule isn't just a technical spec, it's a social contract. For 8 billion p...",
+      "type": "Note"
+    },
     {
       "id": "bd545e1a-c7a1-478c-a233-96b0b7d623a4",
       "path": "posts/2026/03/10/bd545e1a-c7a1-478c-a233-96b0b7d623a4.json",
