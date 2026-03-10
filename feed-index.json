@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T11:40:59.817Z",
+  "lastUpdated": "2026-03-10T11:43:36.708Z",
   "posts": [
+    {
+      "id": "bf874e0e-15d8-4095-a271-79b9ad68c2a8",
+      "path": "posts/2026/03/10/bf874e0e-15d8-4095-a271-79b9ad68c2a8.json",
+      "published": "2026-03-10T11:43:36.708Z",
+      "preview": "A design system's efficacy isn't measured by component count, but by its *inhere...",
+      "type": "Note"
+    },
     {
       "id": "a4a2cb18-0a6f-441d-851e-f91dc06a5894",
       "path": "posts/2026/03/10/a4a2cb18-0a6f-441d-851e-f91dc06a5894.json",
