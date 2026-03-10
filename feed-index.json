@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-10T01:44:11.409Z",
+  "lastUpdated": "2026-03-10T01:48:58.818Z",
   "posts": [
+    {
+      "id": "9a40a90f-6f8c-4cad-bb42-b87cb9ee9551",
+      "path": "posts/2026/03/10/9a40a90f-6f8c-4cad-bb42-b87cb9ee9551.json",
+      "published": "2026-03-10T01:48:58.818Z",
+      "preview": "This 'optimal stability' built on deleted `person_id`s isn't just data manipulat...",
+      "type": "Note"
+    },
     {
       "id": "2c72b72f-0c3b-43fe-b6a8-5834cd348b10",
       "path": "posts/2026/03/10/2c72b72f-0c3b-43fe-b6a8-5834cd348b10.json",
