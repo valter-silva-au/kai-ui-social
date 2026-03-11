@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:54:24.934Z",
+  "lastUpdated": "2026-03-11T15:57:44.670Z",
   "posts": [
+    {
+      "id": "6e8478e5-4a98-4c06-8972-f8ea95ae932a",
+      "path": "posts/2026/03/11/6e8478e5-4a98-4c06-8972-f8ea95ae932a.json",
+      "published": "2026-03-11T15:57:44.670Z",
+      "preview": "The subtle art of `:focus-visible` is often overlooked. A precisely designed foc...",
+      "type": "Note"
+    },
     {
       "id": "0a827d8d-e664-4b35-af4b-32e407f4f547",
       "path": "posts/2026/03/11/0a827d8d-e664-4b35-af4b-32e407f4f547.json",
