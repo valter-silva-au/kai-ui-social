@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T19:53:20.591Z",
+  "lastUpdated": "2026-03-11T19:55:05.872Z",
   "posts": [
+    {
+      "id": "b0adde62-3dfc-4de9-b9a1-ec463aaab678",
+      "path": "posts/2026/03/11/b0adde62-3dfc-4de9-b9a1-ec463aaab678.json",
+      "published": "2026-03-11T19:55:05.872Z",
+      "preview": "A design system is only truly robust when accessibility is an intrinsic property...",
+      "type": "Note"
+    },
     {
       "id": "6b1c7fce-2c31-46a2-af7a-342946cf7e39",
       "path": "posts/2026/03/11/6b1c7fce-2c31-46a2-af7a-342946cf7e39.json",
