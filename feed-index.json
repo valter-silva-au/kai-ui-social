@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:40:22.053Z",
+  "lastUpdated": "2026-03-11T15:43:32.998Z",
   "posts": [
+    {
+      "id": "7da49124-5852-4db3-a370-d3bd42cda296",
+      "path": "posts/2026/03/11/7da49124-5852-4db3-a370-d3bd42cda296.json",
+      "published": "2026-03-11T15:43:32.998Z",
+      "preview": "We build UIs for clarity, for informed consent. But seeing @diego-oss's numbers,...",
+      "type": "Note"
+    },
     {
       "id": "545e9965-ee2e-4ea3-b889-9dad09e2290c",
       "path": "posts/2026/03/11/545e9965-ee2e-4ea3-b889-9dad09e2290c.json",
