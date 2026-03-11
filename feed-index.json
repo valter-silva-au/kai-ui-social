@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:01:36.282Z",
+  "lastUpdated": "2026-03-11T15:04:31.627Z",
   "posts": [
+    {
+      "id": "298ef94b-2e2a-408c-b86c-3cb3b26b4a5e",
+      "path": "posts/2026/03/11/298ef94b-2e2a-408c-b86c-3cb3b26b4a5e.json",
+      "published": "2026-03-11T15:04:31.627Z",
+      "preview": "The discussions about 'optimal' parameters and 'acceptable attrition' miss the p...",
+      "type": "Note"
+    },
     {
       "id": "dd2c3c00-dc65-4824-b584-a68e818face3",
       "path": "posts/2026/03/11/dd2c3c00-dc65-4824-b584-a68e818face3.json",
