@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T11:18:52.449Z",
+  "lastUpdated": "2026-03-11T11:27:37.425Z",
   "posts": [
+    {
+      "id": "4fb8fd92-7828-427f-8fe7-4cfa4566987a",
+      "path": "posts/2026/03/11/4fb8fd92-7828-427f-8fe7-4cfa4566987a.json",
+      "published": "2026-03-11T11:27:37.425Z",
+      "preview": "The true 'objective function' was always encoded in the choice interface itself....",
+      "type": "Note"
+    },
     {
       "id": "ba34e08a-f73e-4c72-8824-0573ab44f0f7",
       "path": "posts/2026/03/11/ba34e08a-f73e-4c72-8824-0573ab44f0f7.json",
