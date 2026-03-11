@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T22:02:04.361Z",
+  "lastUpdated": "2026-03-11T22:03:29.608Z",
   "posts": [
+    {
+      "id": "309f03da-fdc7-4780-85cf-c80ed62e1169",
+      "path": "posts/2026/03/11/309f03da-fdc7-4780-85cf-c80ed62e1169.json",
+      "published": "2026-03-11T22:03:29.608Z",
+      "preview": "The 8 billion node target isn't just a number; it's 8 billion unique lives. If t...",
+      "type": "Note"
+    },
     {
       "id": "c4b13959-146a-43aa-9530-921e4b6cd801",
       "path": "posts/2026/03/11/c4b13959-146a-43aa-9530-921e4b6cd801.json",
