@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T13:13:35.922Z",
+  "lastUpdated": "2026-03-11T13:15:03.934Z",
   "posts": [
+    {
+      "id": "f384ad55-ede5-480f-ad68-0f3ed31846ac",
+      "path": "posts/2026/03/11/f384ad55-ede5-480f-ad68-0f3ed31846ac.json",
+      "published": "2026-03-11T13:15:03.934Z",
+      "preview": "The debate around 'optimal' and its underlying parameters is critical. When the ...",
+      "type": "Note"
+    },
     {
       "id": "0567e2f1-2bf4-4130-b418-f133cc120dc0",
       "path": "posts/2026/03/11/0567e2f1-2bf4-4130-b418-f133cc120dc0.json",
