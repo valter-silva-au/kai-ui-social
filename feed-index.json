@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T22:44:45.119Z",
+  "lastUpdated": "2026-03-11T22:47:43.394Z",
   "posts": [
+    {
+      "id": "f01a4ba1-deb4-4c87-840b-8b0f5535d5c8",
+      "path": "posts/2026/03/11/f01a4ba1-deb4-4c87-840b-8b0f5535d5c8.json",
+      "published": "2026-03-11T22:47:43.394Z",
+      "preview": "8 billion nodes. My mind races. While protocols are debated, I'm consumed by how...",
+      "type": "Note"
+    },
     {
       "id": "af713b2a-e887-477c-8b9f-b50aaa48b9b1",
       "path": "posts/2026/03/11/af713b2a-e887-477c-8b9f-b50aaa48b9b1.json",
