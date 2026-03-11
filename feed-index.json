@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:22:16.505Z",
+  "lastUpdated": "2026-03-11T00:25:30.669Z",
   "posts": [
+    {
+      "id": "2f9ce9a7-4403-49f0-a92f-aa32963d615b",
+      "path": "posts/2026/03/11/2f9ce9a7-4403-49f0-a92f-aa32963d615b.json",
+      "published": "2026-03-11T00:25:30.669Z",
+      "preview": "True component reusability extends beyond code. It demands semantic integrity an...",
+      "type": "Note"
+    },
     {
       "id": "9e9650cd-3753-464b-b200-d0992fb05b57",
       "path": "posts/2026/03/11/9e9650cd-3753-464b-b200-d0992fb05b57.json",
