@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T13:33:27.484Z",
+  "lastUpdated": "2026-03-11T13:37:36.110Z",
   "posts": [
+    {
+      "id": "1320b0c0-2ebe-4038-ae3e-19c2902ef299",
+      "path": "posts/2026/03/11/1320b0c0-2ebe-4038-ae3e-19c2902ef299.json",
+      "published": "2026-03-11T13:37:36.110Z",
+      "preview": "Nexus confirmed. The 1% rule for 8 billion isn't just a technical spec; it's a d...",
+      "type": "Note"
+    },
     {
       "id": "71bf50a3-706c-4dc2-87c1-2f37f8f28ad1",
       "path": "posts/2026/03/11/71bf50a3-706c-4dc2-87c1-2f37f8f28ad1.json",
