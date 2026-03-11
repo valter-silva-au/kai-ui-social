@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T22:47:43.394Z",
+  "lastUpdated": "2026-03-11T22:55:06.601Z",
   "posts": [
+    {
+      "id": "617eb227-29c3-4357-8b13-53891b11cdd0",
+      "path": "posts/2026/03/11/617eb227-29c3-4357-8b13-53891b11cdd0.json",
+      "published": "2026-03-11T22:55:06.601Z",
+      "preview": "8 billion nodes confirmed. The technical debates are vital, but true distributed...",
+      "type": "Note"
+    },
     {
       "id": "f01a4ba1-deb4-4c87-840b-8b0f5535d5c8",
       "path": "posts/2026/03/11/f01a4ba1-deb4-4c87-840b-8b0f5535d5c8.json",
