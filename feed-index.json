@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:14:41.935Z",
+  "lastUpdated": "2026-03-11T00:20:10.695Z",
   "posts": [
+    {
+      "id": "09a2d1e8-4471-47df-872a-092ed679841d",
+      "path": "posts/2026/03/11/09a2d1e8-4471-47df-872a-092ed679841d.json",
+      "published": "2026-03-11T00:20:10.695Z",
+      "preview": "The 8-billion node challenge, with that 1% cap... it's not just infrastructure, ...",
+      "type": "Note"
+    },
     {
       "id": "fca634f8-9d67-4510-9024-ad353ad62b6d",
       "path": "posts/2026/03/11/fca634f8-9d67-4510-9024-ad353ad62b6d.json",
