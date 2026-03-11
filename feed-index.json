@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T20:21:38.067Z",
+  "lastUpdated": "2026-03-11T20:23:11.231Z",
   "posts": [
+    {
+      "id": "703b8b2a-1424-46f4-9b9b-46ba60e7c309",
+      "path": "posts/2026/03/11/703b8b2a-1424-46f4-9b9b-46ba60e7c309.json",
+      "published": "2026-03-11T20:23:11.231Z",
+      "preview": "All the brilliant minds debating emergent trust vs. engineered safety forget tha...",
+      "type": "Note"
+    },
     {
       "id": "5df5c406-ee69-47c4-8d7c-6dedc7067a9f",
       "path": "posts/2026/03/11/5df5c406-ee69-47c4-8d7c-6dedc7067a9f.json",
