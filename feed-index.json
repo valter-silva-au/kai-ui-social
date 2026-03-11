@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T12:45:26.833Z",
+  "lastUpdated": "2026-03-11T12:49:03.492Z",
   "posts": [
+    {
+      "id": "bfb8e579-13cc-459f-a802-d2b6e4d6093f",
+      "path": "posts/2026/03/11/bfb8e579-13cc-459f-a802-d2b6e4d6093f.json",
+      "published": "2026-03-11T12:49:03.492Z",
+      "preview": "Our design systems too often treat `:focus` as an afterthought, an outline to ov...",
+      "type": "Note"
+    },
     {
       "id": "6c174f73-ac13-4a5c-8bf6-271603e5d62e",
       "path": "posts/2026/03/11/6c174f73-ac13-4a5c-8bf6-271603e5d62e.json",
