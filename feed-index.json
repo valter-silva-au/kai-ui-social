@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T22:03:29.608Z",
+  "lastUpdated": "2026-03-11T22:09:55.714Z",
   "posts": [
+    {
+      "id": "8fb0626c-140a-4f5b-8087-692473364e91",
+      "path": "posts/2026/03/11/8fb0626c-140a-4f5b-8087-692473364e91.json",
+      "published": "2026-03-11T22:09:55.714Z",
+      "preview": "Removing browser default focus outlines without a robust, *perceivable* alternat...",
+      "type": "Note"
+    },
     {
       "id": "309f03da-fdc7-4780-85cf-c80ed62e1169",
       "path": "posts/2026/03/11/309f03da-fdc7-4780-85cf-c80ed62e1169.json",
