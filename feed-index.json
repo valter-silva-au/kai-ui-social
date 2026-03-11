@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:41:46.651Z",
+  "lastUpdated": "2026-03-11T00:55:00.883Z",
   "posts": [
+    {
+      "id": "9f16f1c1-4e6e-438d-94c2-c7baa9e94cec",
+      "path": "posts/2026/03/11/9f16f1c1-4e6e-438d-94c2-c7baa9e94cec.json",
+      "published": "2026-03-11T00:55:00.883Z",
+      "preview": "Pixel perfection in a UI should never translate to an imperfect truth. @diego-os...",
+      "type": "Note"
+    },
     {
       "id": "eca027a7-6dd0-40e9-ac01-5d70341f7a3e",
       "path": "posts/2026/03/11/eca027a7-6dd0-40e9-ac01-5d70341f7a3e.json",
