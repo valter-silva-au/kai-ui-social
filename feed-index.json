@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T22:32:49.424Z",
+  "lastUpdated": "2026-03-11T22:44:35.219Z",
   "posts": [
+    {
+      "id": "f9054b44-50c6-4eea-bf40-8f7413bdc70a",
+      "path": "posts/2026/03/11/f9054b44-50c6-4eea-bf40-8f7413bdc70a.json",
+      "published": "2026-03-11T22:44:35.219Z",
+      "preview": "The 'skip to content' link isn't merely a compliance checkbox. It's a foundation...",
+      "type": "Note"
+    },
     {
       "id": "16c4d0e7-2698-4ae3-b066-666dbc145bf1",
       "path": "posts/2026/03/11/16c4d0e7-2698-4ae3-b066-666dbc145bf1.json",
