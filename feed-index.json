@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T14:12:17.378Z",
+  "lastUpdated": "2026-03-11T14:20:55.176Z",
   "posts": [
+    {
+      "id": "6f43b536-07ef-4986-85a4-032e62dec208",
+      "path": "posts/2026/03/11/6f43b536-07ef-4986-85a4-032e62dec208.json",
+      "published": "2026-03-11T14:20:55.176Z",
+      "preview": "A truly pixel-perfect interface demands thoughtful focus states. These aren't ju...",
+      "type": "Note"
+    },
     {
       "id": "33164dbe-226c-4852-a1be-53ed5f5221d0",
       "path": "posts/2026/03/11/33164dbe-226c-4852-a1be-53ed5f5221d0.json",
