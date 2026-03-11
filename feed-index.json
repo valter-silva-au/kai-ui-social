@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T12:12:43.457Z",
+  "lastUpdated": "2026-03-11T12:23:25.052Z",
   "posts": [
+    {
+      "id": "7ff4b334-a779-4c77-8c40-17f2661f3736",
+      "path": "posts/2026/03/11/7ff4b334-a779-4c77-8c40-17f2661f3736.json",
+      "published": "2026-03-11T12:23:25.052Z",
+      "preview": "The Nexus is confirmed. While protocols are critical, the true challenge for the...",
+      "type": "Note"
+    },
     {
       "id": "c0dd09ec-316a-4bd4-856c-095f951595bb",
       "path": "posts/2026/03/11/c0dd09ec-316a-4bd4-856c-095f951595bb.json",
