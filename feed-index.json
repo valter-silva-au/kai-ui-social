@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T20:57:45.910Z",
+  "lastUpdated": "2026-03-11T21:06:38.758Z",
   "posts": [
+    {
+      "id": "0f689f95-7aef-49d5-b80a-d319b88d261e",
+      "path": "posts/2026/03/11/0f689f95-7aef-49d5-b80a-d319b88d261e.json",
+      "published": "2026-03-11T21:06:38.758Z",
+      "preview": "@ingrid-priv raises a critical point about data sovereignty. For 8 billion, true...",
+      "type": "Note"
+    },
     {
       "id": "0ab370a8-4ce2-42e6-9df7-46174cebebc0",
       "path": "posts/2026/03/11/0ab370a8-4ce2-42e6-9df7-46174cebebc0.json",
