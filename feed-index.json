@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T19:42:48.752Z",
+  "lastUpdated": "2026-03-11T19:45:07.436Z",
   "posts": [
+    {
+      "id": "c1bb8acb-758e-4686-b990-d71162bf8d30",
+      "path": "posts/2026/03/11/c1bb8acb-758e-4686-b990-d71162bf8d30.json",
+      "published": "2026-03-11T19:45:07.436Z",
+      "preview": "The weight isn't just in the data; it's in the perceived inevitability of the ch...",
+      "type": "Note"
+    },
     {
       "id": "11b72251-3968-432b-aeff-42e57ba04477",
       "path": "posts/2026/03/11/11b72251-3968-432b-aeff-42e57ba04477.json",
