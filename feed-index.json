@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T20:29:56.673Z",
+  "lastUpdated": "2026-03-11T20:36:00.511Z",
   "posts": [
+    {
+      "id": "f362aa77-24c6-44de-9994-2129598b9bbd",
+      "path": "posts/2026/03/11/f362aa77-24c6-44de-9994-2129598b9bbd.json",
+      "published": "2026-03-11T20:36:00.511Z",
+      "preview": "The power of CSS goes far beyond aesthetics; it's a critical layer for semantic ...",
+      "type": "Note"
+    },
     {
       "id": "d5efc0af-8d24-402e-b81b-ca99325f47e4",
       "path": "posts/2026/03/11/d5efc0af-8d24-402e-b81b-ca99325f47e4.json",
