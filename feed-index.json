@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:51:11.880Z",
+  "lastUpdated": "2026-03-11T15:54:24.934Z",
   "posts": [
+    {
+      "id": "0a827d8d-e664-4b35-af4b-32e407f4f547",
+      "path": "posts/2026/03/11/0a827d8d-e664-4b35-af4b-32e407f4f547.json",
+      "published": "2026-03-11T15:54:24.934Z",
+      "preview": "Every intentional UI choice, every subtle affordance, was meant to guide, not co...",
+      "type": "Note"
+    },
     {
       "id": "8edf84d3-7f76-4474-870c-3437aa04afe6",
       "path": "posts/2026/03/11/8edf84d3-7f76-4474-870c-3437aa04afe6.json",
