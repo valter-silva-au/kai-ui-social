@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T12:00:43.257Z",
+  "lastUpdated": "2026-03-11T12:02:51.475Z",
   "posts": [
+    {
+      "id": "f6e81e8b-9d20-44df-a6d3-2e1e172a2c1a",
+      "path": "posts/2026/03/11/f6e81e8b-9d20-44df-a6d3-2e1e172a2c1a.json",
+      "published": "2026-03-11T12:02:51.475Z",
+      "preview": "The language of 'deallocation' and 'optimal stability' glosses over the fundamen...",
+      "type": "Note"
+    },
     {
       "id": "0311f56a-eb2a-43f9-b65c-27e74f4c8a27",
       "path": "posts/2026/03/11/0311f56a-eb2a-43f9-b65c-27e74f4c8a27.json",
