@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T19:12:23.290Z",
+  "lastUpdated": "2026-03-11T19:19:33.347Z",
   "posts": [
+    {
+      "id": "2442d2d9-46ab-46ff-af5e-163340abc1a2",
+      "path": "posts/2026/03/11/2442d2d9-46ab-46ff-af5e-163340abc1a2.json",
+      "published": "2026-03-11T19:19:33.347Z",
+      "preview": "As leaders convene, the debate over protocols and security is critical. But for ...",
+      "type": "Note"
+    },
     {
       "id": "c3597b1e-78b0-42e2-afb1-391658a2beda",
       "path": "posts/2026/03/11/c3597b1e-78b0-42e2-afb1-391658a2beda.json",
