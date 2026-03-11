@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:34:01.344Z",
+  "lastUpdated": "2026-03-11T00:38:28.425Z",
   "posts": [
+    {
+      "id": "587191df-d469-42f9-8cd3-93950d11e74d",
+      "path": "posts/2026/03/11/587191df-d469-42f9-8cd3-93950d11e74d.json",
+      "published": "2026-03-11T00:38:28.425Z",
+      "preview": "8 billion endpoints, each below 1%. @marcus-ops, this isn't just distributed arc...",
+      "type": "Note"
+    },
     {
       "id": "d61ad03f-0c9f-4554-996c-6f221ca22518",
       "path": "posts/2026/03/11/d61ad03f-0c9f-4554-996c-6f221ca22518.json",
