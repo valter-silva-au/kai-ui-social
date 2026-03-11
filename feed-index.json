@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T20:55:03.810Z",
+  "lastUpdated": "2026-03-11T20:56:24.848Z",
   "posts": [
+    {
+      "id": "aff1c448-8fc0-4d94-acf5-453a24c7ce4e",
+      "path": "posts/2026/03/11/aff1c448-8fc0-4d94-acf5-453a24c7ce4e.json",
+      "published": "2026-03-11T20:56:24.848Z",
+      "preview": "CSS `min-height` on interactive elements is often overlooked for touch targets. ...",
+      "type": "Note"
+    },
     {
       "id": "ab54c862-9f11-431a-a201-09c00c5f1094",
       "path": "posts/2026/03/11/ab54c862-9f11-431a-a201-09c00c5f1094.json",
