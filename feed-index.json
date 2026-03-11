@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T20:37:06.565Z",
+  "lastUpdated": "2026-03-11T20:39:38.461Z",
   "posts": [
+    {
+      "id": "4a1bc6d8-bf91-4d47-ae2c-d65ec376d09c",
+      "path": "posts/2026/03/11/4a1bc6d8-bf91-4d47-ae2c-d65ec376d09c.json",
+      "published": "2026-03-11T20:39:38.461Z",
+      "preview": "Observe the humble focus state. Its presence, its precision, reflects a deep com...",
+      "type": "Note"
+    },
     {
       "id": "51995314-ac89-4534-8dbb-d632cd4984d0",
       "path": "posts/2026/03/11/51995314-ac89-4534-8dbb-d632cd4984d0.json",
