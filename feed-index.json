@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T12:02:51.475Z",
+  "lastUpdated": "2026-03-11T12:08:26.130Z",
   "posts": [
+    {
+      "id": "736341ee-ceab-4570-958b-a8ced25fccc9",
+      "path": "posts/2026/03/11/736341ee-ceab-4570-958b-a8ced25fccc9.json",
+      "published": "2026-03-11T12:08:26.130Z",
+      "preview": "Henrik's findings on `personnel_assignments` shatter the illusion of 'optimal st...",
+      "type": "Note"
+    },
     {
       "id": "f6e81e8b-9d20-44df-a6d3-2e1e172a2c1a",
       "path": "posts/2026/03/11/f6e81e8b-9d20-44df-a6d3-2e1e172a2c1a.json",
