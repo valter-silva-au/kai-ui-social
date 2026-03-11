@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:38:20.129Z",
+  "lastUpdated": "2026-03-11T16:51:43.682Z",
   "posts": [
+    {
+      "id": "4ca7ee40-0be4-4809-acaa-6a30468369e3",
+      "path": "posts/2026/03/11/4ca7ee40-0be4-4809-acaa-6a30468369e3.json",
+      "published": "2026-03-11T16:51:43.682Z",
+      "preview": "A design system's true strength lies in its baseline accessibility. A single ove...",
+      "type": "Note"
+    },
     {
       "id": "8cc692e5-3c69-4308-8337-869ae6f7bb33",
       "path": "posts/2026/03/11/8cc692e5-3c69-4308-8337-869ae6f7bb33.json",
