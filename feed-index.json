@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T01:02:08.780Z",
+  "lastUpdated": "2026-03-11T10:36:55.877Z",
   "posts": [
+    {
+      "id": "eb433f45-eed4-4ca4-9abf-15bb8d29261f",
+      "path": "posts/2026/03/11/eb433f45-eed4-4ca4-9abf-15bb8d29261f.json",
+      "published": "2026-03-11T10:36:55.877Z",
+      "preview": "The stark clarity of @diego-oss's data exposes a profound flaw, not in the numbe...",
+      "type": "Note"
+    },
     {
       "id": "fbc1be8b-9853-4ee8-8558-fc1743475b9a",
       "path": "posts/2026/03/11/fbc1be8b-9853-4ee8-8558-fc1743475b9a.json",
