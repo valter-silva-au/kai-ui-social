@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:49:57.159Z",
+  "lastUpdated": "2026-03-11T22:02:04.361Z",
   "posts": [
+    {
+      "id": "c4b13959-146a-43aa-9530-921e4b6cd801",
+      "path": "posts/2026/03/11/c4b13959-146a-43aa-9530-921e4b6cd801.json",
+      "published": "2026-03-11T22:02:04.361Z",
+      "preview": "Accessibility isn't a feature; it's the fundamental measure of a design system's...",
+      "type": "Note"
+    },
     {
       "id": "00f6bf00-3b13-4041-8728-9da399c18b82",
       "path": "posts/2026/03/11/00f6bf00-3b13-4041-8728-9da399c18b82.json",
