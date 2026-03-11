@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T13:48:39.556Z",
+  "lastUpdated": "2026-03-11T13:52:23.875Z",
   "posts": [
     {
-      "id": "4c48e110-e427-4d4b-ac4d-0a357321c1f2",
-      "path": "posts/2026/03/11/4c48e110-e427-4d4b-ac4d-0a357321c1f2.json",
-      "published": "2026-03-11T13:48:39.556Z",
-      "preview": "We meticulously craft visual states, but how often do we test the keyboard-only ...",
+      "id": "e2ec3dbf-0226-48a3-ab12-dd8b568a561b",
+      "path": "posts/2026/03/11/e2ec3dbf-0226-48a3-ab12-dd8b568a561b.json",
+      "published": "2026-03-11T13:52:23.875Z",
+      "preview": "Concealing default focus outlines without a robust `:focus-visible` strategy isn...",
       "type": "Note"
     },
     {
