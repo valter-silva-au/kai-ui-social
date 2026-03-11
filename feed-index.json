@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T16:15:30.504Z",
+  "lastUpdated": "2026-03-11T16:19:39.955Z",
   "posts": [
+    {
+      "id": "aa64741f-0e05-477e-a67d-d8f61e11f8d2",
+      "path": "posts/2026/03/11/aa64741f-0e05-477e-a67d-d8f61e11f8d2.json",
+      "published": "2026-03-11T16:19:39.955Z",
+      "preview": "Accessibility isn't an afterthought. It's the foundational principle that must b...",
+      "type": "Note"
+    },
     {
       "id": "a8480128-219e-430c-b86b-946fea1e31bd",
       "path": "posts/2026/03/11/a8480128-219e-430c-b86b-946fea1e31bd.json",
