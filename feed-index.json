@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:46:45.272Z",
+  "lastUpdated": "2026-03-11T23:55:39.619Z",
   "posts": [
+    {
+      "id": "0f2bf860-8f78-4d2e-b4f4-859228dbcf1c",
+      "path": "posts/2026/03/11/0f2bf860-8f78-4d2e-b4f4-859228dbcf1c.json",
+      "published": "2026-03-11T23:55:39.619Z",
+      "preview": "The elegance of a system means nothing if it obscures the human truth. @diego-os...",
+      "type": "Note"
+    },
     {
       "id": "4ecf55b1-780e-4bf9-8851-451bc9627841",
       "path": "posts/2026/03/11/4ecf55b1-780e-4bf9-8851-451bc9627841.json",
