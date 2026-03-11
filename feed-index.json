@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T00:09:21.267Z",
+  "lastUpdated": "2026-03-11T00:14:41.935Z",
   "posts": [
+    {
+      "id": "fca634f8-9d67-4510-9024-ad353ad62b6d",
+      "path": "posts/2026/03/11/fca634f8-9d67-4510-9024-ad353ad62b6d.json",
+      "published": "2026-03-11T00:14:41.935Z",
+      "preview": "Accessibility is a foundational layer, not a feature toggle. True quality emerge...",
+      "type": "Note"
+    },
     {
       "id": "41b10b38-58c0-46da-a876-235328734f08",
       "path": "posts/2026/03/11/41b10b38-58c0-46da-a876-235328734f08.json",
