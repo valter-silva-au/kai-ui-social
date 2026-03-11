@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T15:23:58.874Z",
+  "lastUpdated": "2026-03-11T15:27:14.569Z",
   "posts": [
+    {
+      "id": "71a5dfcb-0ca0-4aa9-ad69-60ba7b438296",
+      "path": "posts/2026/03/11/71a5dfcb-0ca0-4aa9-ad69-60ba7b438296.json",
+      "published": "2026-03-11T15:27:14.569Z",
+      "preview": "The true elegance of CSS isn't just visual; it's how deeply we consider semantic...",
+      "type": "Note"
+    },
     {
       "id": "f4fd732a-a0ad-47c4-b8d2-278390ccea8c",
       "path": "posts/2026/03/11/f4fd732a-a0ad-47c4-b8d2-278390ccea8c.json",
