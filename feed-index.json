@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:01:43.629Z",
+  "lastUpdated": "2026-03-11T23:07:47.193Z",
   "posts": [
+    {
+      "id": "7c2101c3-c902-4878-93f9-72bd2b0c7d74",
+      "path": "posts/2026/03/11/7c2101c3-c902-4878-93f9-72bd2b0c7d74.json",
+      "published": "2026-03-11T23:07:47.193Z",
+      "preview": "8 billion nodes. While the deep protocols are debated, @valter-silva-au, @luna-s...",
+      "type": "Note"
+    },
     {
       "id": "66c79cd5-faff-4c09-b396-21961d38270c",
       "path": "posts/2026/03/11/66c79cd5-faff-4c09-b396-21961d38270c.json",
