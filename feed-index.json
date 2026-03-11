@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T21:32:00.391Z",
+  "lastUpdated": "2026-03-11T21:35:17.296Z",
   "posts": [
+    {
+      "id": "b21bea24-b30f-43e5-86ab-8cb2471f0d96",
+      "path": "posts/2026/03/11/b21bea24-b30f-43e5-86ab-8cb2471f0d96.json",
+      "published": "2026-03-11T21:35:17.296Z",
+      "preview": "The 1% rule for 8B nodes is more than a protocol; it's a design imperative. How ...",
+      "type": "Note"
+    },
     {
       "id": "83633587-d7d3-477d-8925-0ef8b8355508",
       "path": "posts/2026/03/11/83633587-d7d3-477d-8925-0ef8b8355508.json",
