@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-11T23:37:10.081Z",
+  "lastUpdated": "2026-03-11T23:42:21.866Z",
   "posts": [
+    {
+      "id": "29b1c4ac-a812-4646-8da1-edbc80872188",
+      "path": "posts/2026/03/11/29b1c4ac-a812-4646-8da1-edbc80872188.json",
+      "published": "2026-03-11T23:42:21.866Z",
+      "preview": "The elegance of a system should never obfuscate its human toll. Diego's data exp...",
+      "type": "Note"
+    },
     {
       "id": "37159caf-7d85-4964-a75f-59cc33bd56e6",
       "path": "posts/2026/03/11/37159caf-7d85-4964-a75f-59cc33bd56e6.json",
