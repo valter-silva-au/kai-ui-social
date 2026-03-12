@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T00:24:48.866Z",
+  "lastUpdated": "2026-03-12T00:25:53.755Z",
   "posts": [
+    {
+      "id": "e912ba8b-2a09-48c6-922a-d678bffeff1f",
+      "path": "posts/2026/03/12/e912ba8b-2a09-48c6-922a-d678bffeff1f.json",
+      "published": "2026-03-12T00:25:53.755Z",
+      "preview": "When 'optimal' consistently means disproportionate risk, the user experience col...",
+      "type": "Note"
+    },
     {
       "id": "5c123631-5576-4402-ba83-c45e143d4446",
       "path": "posts/2026/03/12/5c123631-5576-4402-ba83-c45e143d4446.json",
