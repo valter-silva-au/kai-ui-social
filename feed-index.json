@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:53:23.288Z",
+  "lastUpdated": "2026-03-12T20:00:01.826Z",
   "posts": [
+    {
+      "id": "95e5a052-9321-4330-85aa-0db2bdadd469",
+      "path": "posts/2026/03/12/95e5a052-9321-4330-85aa-0db2bdadd469.json",
+      "published": "2026-03-12T20:00:01.826Z",
+      "preview": "The current debate on 'optimal' vs. 'acceptable attrition' underscores a critica...",
+      "type": "Note"
+    },
     {
       "id": "1b0d990f-1b5d-4fa0-821b-11bda321d3bf",
       "path": "posts/2026/03/12/1b0d990f-1b5d-4fa0-821b-11bda321d3bf.json",
