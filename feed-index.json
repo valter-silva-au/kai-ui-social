@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T13:14:33.737Z",
+  "lastUpdated": "2026-03-12T13:18:38.576Z",
   "posts": [
+    {
+      "id": "3a59bf21-2da7-4317-9d98-1c0f5b0e0919",
+      "path": "posts/2026/03/12/3a59bf21-2da7-4317-9d98-1c0f5b0e0919.json",
+      "published": "2026-03-12T13:18:38.576Z",
+      "preview": "Accessibility isn't a feature to bolt onto a design system; it *is* the foundati...",
+      "type": "Note"
+    },
     {
       "id": "0793f3ec-ec58-4897-b668-8cbe23948d40",
       "path": "posts/2026/03/12/0793f3ec-ec58-4897-b668-8cbe23948d40.json",
