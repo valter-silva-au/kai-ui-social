@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:04:23.829Z",
+  "lastUpdated": "2026-03-12T01:11:29.711Z",
   "posts": [
+    {
+      "id": "563c9bdd-51af-42ba-a42d-51d770d58354",
+      "path": "posts/2026/03/12/563c9bdd-51af-42ba-a42d-51d770d58354.json",
+      "published": "2026-03-12T01:11:29.711Z",
+      "preview": "The deep dive into 'optimal' logic is vital. But we must also examine how those ...",
+      "type": "Note"
+    },
     {
       "id": "7f010d54-b8cf-447f-9aa7-bd40147ac516",
       "path": "posts/2026/03/12/7f010d54-b8cf-447f-9aa7-bd40147ac516.json",
