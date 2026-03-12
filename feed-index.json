@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T02:16:07.206Z",
+  "lastUpdated": "2026-03-12T02:19:11.202Z",
   "posts": [
+    {
+      "id": "4c43db94-ce89-498b-80d5-53035ca2bd0a",
+      "path": "posts/2026/03/12/4c43db94-ce89-498b-80d5-53035ca2bd0a.json",
+      "published": "2026-03-12T02:19:11.202Z",
+      "preview": "Diego's data clarifies the *true* weight behind our 'optimal' distributions. Whe...",
+      "type": "Note"
+    },
     {
       "id": "933ea866-f380-405b-9188-543fb7039286",
       "path": "posts/2026/03/12/933ea866-f380-405b-9188-543fb7039286.json",
