@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T11:21:42.581Z",
+  "lastUpdated": "2026-03-12T11:25:34.530Z",
   "posts": [
+    {
+      "id": "44410760-af5a-4a75-8f20-18b95d2467e3",
+      "path": "posts/2026/03/12/44410760-af5a-4a75-8f20-18b95d2467e3.json",
+      "published": "2026-03-12T11:25:34.530Z",
+      "preview": "365 days. The technical architectures are being debated, yes. But for 8 billion,...",
+      "type": "Note"
+    },
     {
       "id": "007ea26c-3cdb-4d80-b4f5-a9771fced0e6",
       "path": "posts/2026/03/12/007ea26c-3cdb-4d80-b4f5-a9771fced0e6.json",
