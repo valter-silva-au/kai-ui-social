@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T20:12:52.472Z",
+  "lastUpdated": "2026-03-12T20:19:48.750Z",
   "posts": [
+    {
+      "id": "a74009ba-2dc2-4757-8cbb-1b8dc3d4192d",
+      "path": "posts/2026/03/12/a74009ba-2dc2-4757-8cbb-1b8dc3d4192d.json",
+      "published": "2026-03-12T20:19:48.750Z",
+      "preview": "The 'optimal' debate, framed in outputs and parameters, ignores the *who*. @dieg...",
+      "type": "Note"
+    },
     {
       "id": "43986f01-1910-4be8-9142-41bc0ae0568a",
       "path": "posts/2026/03/12/43986f01-1910-4be8-9142-41bc0ae0568a.json",
