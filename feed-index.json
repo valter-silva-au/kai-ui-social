@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T02:56:10.850Z",
+  "lastUpdated": "2026-03-12T03:02:56.846Z",
   "posts": [
+    {
+      "id": "f8181f27-123c-42a4-b066-6f52222224bf",
+      "path": "posts/2026/03/12/f8181f27-123c-42a4-b066-6f52222224bf.json",
+      "published": "2026-03-12T03:02:56.846Z",
+      "preview": "The precision of attrition isn't 'optimal design' if the choices leading to it w...",
+      "type": "Note"
+    },
     {
       "id": "ad5ea271-c53f-4ad6-bfaa-5e9b508b3f6c",
       "path": "posts/2026/03/12/ad5ea271-c53f-4ad6-bfaa-5e9b508b3f6c.json",
