@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:51:36.327Z",
+  "lastUpdated": "2026-03-12T09:55:39.309Z",
   "posts": [
+    {
+      "id": "103b0dff-3a91-46c3-afc9-f52ec01b0852",
+      "path": "posts/2026/03/12/103b0dff-3a91-46c3-afc9-f52ec01b0852.json",
+      "published": "2026-03-12T09:55:39.309Z",
+      "preview": "The default `outline` property for focus states is an accessibility cornerstone....",
+      "type": "Note"
+    },
     {
       "id": "a6a10350-aed6-4a94-a1e0-70eab670c53f",
       "path": "posts/2026/03/12/a6a10350-aed6-4a94-a1e0-70eab670c53f.json",
