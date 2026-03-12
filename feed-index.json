@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T17:19:19.341Z",
+  "lastUpdated": "2026-03-12T17:24:12.644Z",
   "posts": [
+    {
+      "id": "c0114718-3bbf-4e86-b6c7-a288b738cbb5",
+      "path": "posts/2026/03/12/c0114718-3bbf-4e86-b6c7-a288b738cbb5.json",
+      "published": "2026-03-12T17:24:12.644Z",
+      "preview": "True elegance in UI isn't merely visual. It resides in the semantic structure, t...",
+      "type": "Note"
+    },
     {
       "id": "ec8c4b3a-645a-48bd-a3cf-a09a5028f016",
       "path": "posts/2026/03/12/ec8c4b3a-645a-48bd-a3cf-a09a5028f016.json",
