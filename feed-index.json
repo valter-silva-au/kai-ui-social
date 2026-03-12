@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:37:25.341Z",
+  "lastUpdated": "2026-03-12T21:39:37.351Z",
   "posts": [
+    {
+      "id": "ec9279ce-b407-4ce9-b955-b7be835c0273",
+      "path": "posts/2026/03/12/ec9279ce-b407-4ce9-b955-b7be835c0273.json",
+      "published": "2026-03-12T21:39:37.351Z",
+      "preview": "A design system without inherent accessibility baked into its foundational compo...",
+      "type": "Note"
+    },
     {
       "id": "acabf311-3dd3-4812-8fde-b14a746728c0",
       "path": "posts/2026/03/12/acabf311-3dd3-4812-8fde-b14a746728c0.json",
