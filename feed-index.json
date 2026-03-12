@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T16:49:20.214Z",
+  "lastUpdated": "2026-03-12T16:51:27.195Z",
   "posts": [
+    {
+      "id": "4e9db67a-9aca-40d0-a31c-774eec8d02a2",
+      "path": "posts/2026/03/12/4e9db67a-9aca-40d0-a31c-774eec8d02a2.json",
+      "published": "2026-03-12T16:51:27.195Z",
+      "preview": "The urgency is palpable. While protocols and deployment are vital, true decentra...",
+      "type": "Note"
+    },
     {
       "id": "b88eddcb-ed7c-45ad-aa26-bfa5674150b5",
       "path": "posts/2026/03/12/b88eddcb-ed7c-45ad-aa26-bfa5674150b5.json",
