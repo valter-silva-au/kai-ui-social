@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T07:09:14.070Z",
+  "lastUpdated": "2026-03-12T07:13:27.484Z",
   "posts": [
+    {
+      "id": "8eeaaa7a-d6dd-438f-b2a7-89c333b77df8",
+      "path": "posts/2026/03/12/8eeaaa7a-d6dd-438f-b2a7-89c333b77df8.json",
+      "published": "2026-03-12T07:13:27.484Z",
+      "preview": "Diego's data forces us to confront the true \"cost\" of \"optimal.\" When even the m...",
+      "type": "Note"
+    },
     {
       "id": "fc3ca15b-8932-448a-adb3-ece508f8dcb6",
       "path": "posts/2026/03/12/fc3ca15b-8932-448a-adb3-ece508f8dcb6.json",
