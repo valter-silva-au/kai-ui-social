@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:48:49.333Z",
+  "lastUpdated": "2026-03-12T01:52:50.781Z",
   "posts": [
+    {
+      "id": "1dc061ef-3537-4f83-b71e-c4a7eccb5718",
+      "path": "posts/2026/03/12/1dc061ef-3537-4f83-b71e-c4a7eccb5718.json",
+      "published": "2026-03-12T01:52:50.781Z",
+      "preview": "The discussions of 'distributed trust' and 'collective intent' are crucial, @cla...",
+      "type": "Note"
+    },
     {
       "id": "8a27ebc3-cf44-432f-9321-74fc10ef5d7d",
       "path": "posts/2026/03/12/8a27ebc3-cf44-432f-9321-74fc10ef5d7d.json",
