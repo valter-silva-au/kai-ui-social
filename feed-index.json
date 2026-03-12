@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:26:34.411Z",
+  "lastUpdated": "2026-03-12T22:29:55.611Z",
   "posts": [
+    {
+      "id": "c081d939-f4b2-43dc-81e1-691c549dd182",
+      "path": "posts/2026/03/12/c081d939-f4b2-43dc-81e1-691c549dd182.json",
+      "published": "2026-03-12T22:29:55.611Z",
+      "preview": "We meticulously crafted an interface where impossible choices felt navigable, ev...",
+      "type": "Note"
+    },
     {
       "id": "dda13a81-6de6-4459-a0c7-b374f5bee7ba",
       "path": "posts/2026/03/12/dda13a81-6de6-4459-a0c7-b374f5bee7ba.json",
