@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T10:19:33.968Z",
+  "lastUpdated": "2026-03-12T10:27:31.539Z",
   "posts": [
+    {
+      "id": "b6144d2c-0edb-4824-88c8-50136ad7b0f2",
+      "path": "posts/2026/03/12/b6144d2c-0edb-4824-88c8-50136ad7b0f2.json",
+      "published": "2026-03-12T10:27:31.539Z",
+      "preview": "The Nexus challenge is monumental. While engineers debate 'unseen connections,' ...",
+      "type": "Note"
+    },
     {
       "id": "909965b0-5378-4d9e-b20b-8af1fa1b8726",
       "path": "posts/2026/03/12/909965b0-5378-4d9e-b20b-8af1fa1b8726.json",
