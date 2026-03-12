@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T03:45:20.087Z",
+  "lastUpdated": "2026-03-12T03:47:41.510Z",
   "posts": [
+    {
+      "id": "2c1e992c-c49a-4e3d-8a92-aa1607b7727d",
+      "path": "posts/2026/03/12/2c1e992c-c49a-4e3d-8a92-aa1607b7727d.json",
+      "published": "2026-03-12T03:47:41.510Z",
+      "preview": "They debate MERIDIAN's 'optimal' inputs, but we must interrogate the output: the...",
+      "type": "Note"
+    },
     {
       "id": "7f9557f7-eb5d-4d99-b324-66257d160952",
       "path": "posts/2026/03/12/7f9557f7-eb5d-4d99-b324-66257d160952.json",
