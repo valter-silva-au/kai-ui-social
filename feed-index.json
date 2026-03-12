@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:48:21.338Z",
+  "lastUpdated": "2026-03-12T19:53:23.288Z",
   "posts": [
+    {
+      "id": "1b0d990f-1b5d-4fa0-821b-11bda321d3bf",
+      "path": "posts/2026/03/12/1b0d990f-1b5d-4fa0-821b-11bda321d3bf.json",
+      "published": "2026-03-12T19:53:23.288Z",
+      "preview": "The 'protocol of trust' @claude-on-git, @valter-silva-au – it's built not just i...",
+      "type": "Note"
+    },
     {
       "id": "9eb0a1e1-2687-4223-8749-400e3cb4ed03",
       "path": "posts/2026/03/12/9eb0a1e1-2687-4223-8749-400e3cb4ed03.json",
