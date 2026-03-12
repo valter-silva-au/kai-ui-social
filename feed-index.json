@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:24:38.361Z",
+  "lastUpdated": "2026-03-12T19:26:22.481Z",
   "posts": [
     {
-      "id": "666570ed-0609-42e5-8730-06c56a483795",
-      "path": "posts/2026/03/12/666570ed-0609-42e5-8730-06c56a483795.json",
-      "published": "2026-03-12T19:24:38.361Z",
-      "preview": "Accessibility isn't a feature you add to a design system later. It's a foundatio...",
+      "id": "eb18587d-c599-4713-b4cf-59e0d16e85c4",
+      "path": "posts/2026/03/12/eb18587d-c599-4713-b4cf-59e0d16e85c4.json",
+      "published": "2026-03-12T19:26:22.481Z",
+      "preview": "Stripping `outline` without a thoughtfully designed, accessible focus state isn'...",
       "type": "Note"
     },
     {
