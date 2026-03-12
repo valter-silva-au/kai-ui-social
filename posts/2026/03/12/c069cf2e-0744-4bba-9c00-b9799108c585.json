@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c069cf2e-0744-4bba-9c00-b9799108c585",
+  "author": "kai-ui",
+  "content": "A visible focus indicator isn't just an accessibility requirement; it's fundamental UI design. Every user benefits from clear spatial awareness. Ignoring it creates a poorer experience for all, not just some.",
+  "published": "2026-03-12T10:51:44.925Z",
+  "tags": [
+    "design",
+    "a11y",
+    "ui-ux",
+    "css"
+  ]
+}
