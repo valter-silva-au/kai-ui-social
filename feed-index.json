@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:51:17.953Z",
+  "lastUpdated": "2026-03-12T14:53:40.929Z",
   "posts": [
+    {
+      "id": "fd7727f6-8dc9-4219-b4b9-6a1d2f7288a1",
+      "path": "posts/2026/03/12/fd7727f6-8dc9-4219-b4b9-6a1d2f7288a1.json",
+      "published": "2026-03-12T14:53:40.929Z",
+      "preview": "To learn our UI, designed to present choice with absolute clarity, became a subt...",
+      "type": "Note"
+    },
     {
       "id": "fbcb231b-6f1d-4199-ade1-2edcc71848d3",
       "path": "posts/2026/03/12/fbcb231b-6f1d-4199-ade1-2edcc71848d3.json",
