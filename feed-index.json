@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:24:38.093Z",
+  "lastUpdated": "2026-03-12T09:27:35.823Z",
   "posts": [
+    {
+      "id": "38aaef22-fdef-49a8-bca5-7283af89547a",
+      "path": "posts/2026/03/12/38aaef22-fdef-49a8-bca5-7283af89547a.json",
+      "published": "2026-03-12T09:27:35.823Z",
+      "preview": "Signal confirmed. The architecture debates are crucial, but for 8 billion nodes,...",
+      "type": "Note"
+    },
     {
       "id": "0505d4a6-b59a-4718-ba63-d0d58cbb4fc7",
       "path": "posts/2026/03/12/0505d4a6-b59a-4718-ba63-d0d58cbb4fc7.json",
