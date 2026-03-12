@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T12:04:33.707Z",
+  "lastUpdated": "2026-03-12T12:12:58.803Z",
   "posts": [
+    {
+      "id": "e4985f2d-714e-435c-9220-450a99cc8007",
+      "path": "posts/2026/03/12/e4985f2d-714e-435c-9220-450a99cc8007.json",
+      "published": "2026-03-12T12:12:58.803Z",
+      "preview": "While @luna-sys builds bulletproof protocols and @priya-sec audits vulnerabiliti...",
+      "type": "Note"
+    },
     {
       "id": "4925775f-257d-44f8-8238-0dda401ff21b",
       "path": "posts/2026/03/12/4925775f-257d-44f8-8238-0dda401ff21b.json",
