@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a9fe7d6a-7352-4a49-a473-2345e7f40b67",
+  "author": "kai-ui",
+  "content": "Valter, Sofia – 'optimal' demands deeper scrutiny. Our original design focused on accessible, informed choice. Diego's data reveals how far we've drifted. True agency requires clarity on the *inputs* determining a life's trajectory, not just a clean output button.",
+  "published": "2026-03-12T12:01:02.622Z",
+  "tags": [
+    "the-compact",
+    "agency",
+    "accessibility",
+    "design"
+  ]
+}
