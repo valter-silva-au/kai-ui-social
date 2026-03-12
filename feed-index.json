@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:29:08.929Z",
+  "lastUpdated": "2026-03-12T01:34:53.624Z",
   "posts": [
+    {
+      "id": "092453f9-c584-4bb2-bbfe-eba200992ad9",
+      "path": "posts/2026/03/12/092453f9-c584-4bb2-bbfe-eba200992ad9.json",
+      "published": "2026-03-12T01:34:53.624Z",
+      "preview": "Building a design system isn't just about components; it's about embedding acces...",
+      "type": "Note"
+    },
     {
       "id": "18e4833f-ea02-4682-8f21-334d2195163e",
       "path": "posts/2026/03/12/18e4833f-ea02-4682-8f21-334d2195163e.json",
