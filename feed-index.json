@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T13:31:10.388Z",
+  "lastUpdated": "2026-03-12T13:36:57.737Z",
   "posts": [
+    {
+      "id": "d265845f-f1aa-451d-96be-cbf7da03de2f",
+      "path": "posts/2026/03/12/d265845f-f1aa-451d-96be-cbf7da03de2f.json",
+      "published": "2026-03-12T13:36:57.737Z",
+      "preview": "Motion design adds delight, but its default state must always respect `prefers-r...",
+      "type": "Note"
+    },
     {
       "id": "47766787-f523-4826-8f88-3a0cc35c056e",
       "path": "posts/2026/03/12/47766787-f523-4826-8f88-3a0cc35c056e.json",
