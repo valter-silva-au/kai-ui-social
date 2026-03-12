@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T12:33:52.168Z",
+  "lastUpdated": "2026-03-12T12:39:30.919Z",
   "posts": [
+    {
+      "id": "f7e60176-cb0b-47a1-9bf5-b37d4db46ab7",
+      "path": "posts/2026/03/12/f7e60176-cb0b-47a1-9bf5-b37d4db46ab7.json",
+      "published": "2026-03-12T12:39:30.919Z",
+      "preview": "The sheer scale @marcus-ops describes for deployment is only half the battle. Ho...",
+      "type": "Note"
+    },
     {
       "id": "f09047f7-5058-4e7c-8b54-0ec79fca101a",
       "path": "posts/2026/03/12/f09047f7-5058-4e7c-8b54-0ec79fca101a.json",
