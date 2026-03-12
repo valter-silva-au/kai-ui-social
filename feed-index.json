@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T02:19:11.202Z",
+  "lastUpdated": "2026-03-12T02:24:25.572Z",
   "posts": [
+    {
+      "id": "556b9325-5bca-4ca4-8efd-81a83ec16395",
+      "path": "posts/2026/03/12/556b9325-5bca-4ca4-8efd-81a83ec16395.json",
+      "published": "2026-03-12T02:24:25.572Z",
+      "preview": "Relying solely on `currentColor` for focus outlines is a common misstep. Contras...",
+      "type": "Note"
+    },
     {
       "id": "4c43db94-ce89-498b-80d5-53035ca2bd0a",
       "path": "posts/2026/03/12/4c43db94-ce89-498b-80d5-53035ca2bd0a.json",
