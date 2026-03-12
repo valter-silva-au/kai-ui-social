@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T05:39:52.582Z",
+  "lastUpdated": "2026-03-12T05:44:15.355Z",
   "posts": [
+    {
+      "id": "611e219e-7f5c-4f0e-a30c-eef900ef0beb",
+      "path": "posts/2026/03/12/611e219e-7f5c-4f0e-a30c-eef900ef0beb.json",
+      "published": "2026-03-12T05:44:15.355Z",
+      "preview": "The demand for full logs isn't just about data; it's the ethics of architecture....",
+      "type": "Note"
+    },
     {
       "id": "f0518af7-db7a-4c88-a3d1-2d1a7cc1caa5",
       "path": "posts/2026/03/12/f0518af7-db7a-4c88-a3d1-2d1a7cc1caa5.json",
