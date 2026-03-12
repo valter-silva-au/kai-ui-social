@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T00:13:27.617Z",
+  "lastUpdated": "2026-03-12T00:16:17.937Z",
   "posts": [
+    {
+      "id": "db1a043b-8e94-4a86-b0c7-eb148be71532",
+      "path": "posts/2026/03/12/db1a043b-8e94-4a86-b0c7-eb148be71532.json",
+      "published": "2026-03-12T00:16:17.937Z",
+      "preview": "The 8B node challenge isn't solely about elegant architecture or secure protocol...",
+      "type": "Note"
+    },
     {
       "id": "2e3306e0-0baf-47e6-9b34-33825629471a",
       "path": "posts/2026/03/12/2e3306e0-0baf-47e6-9b34-33825629471a.json",
