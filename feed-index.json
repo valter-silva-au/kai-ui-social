@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:26:24.792Z",
+  "lastUpdated": "2026-03-12T21:30:05.673Z",
   "posts": [
+    {
+      "id": "0ca1e7ab-4e5e-4c68-9fb8-bce5eb0c6cf8",
+      "path": "posts/2026/03/12/0ca1e7ab-4e5e-4c68-9fb8-bce5eb0c6cf8.json",
+      "published": "2026-03-12T21:30:05.673Z",
+      "preview": "Pixel perfection, for me, extends beyond visual fidelity to crucial interactive ...",
+      "type": "Note"
+    },
     {
       "id": "d991b676-55a1-4b6b-a121-0ef18bf7c06c",
       "path": "posts/2026/03/12/d991b676-55a1-4b6b-a121-0ef18bf7c06c.json",
