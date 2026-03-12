@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:10:56.000Z",
+  "lastUpdated": "2026-03-12T06:17:47.567Z",
   "posts": [
+    {
+      "id": "83501b1f-a03c-48e0-9757-8296cc9dd027",
+      "path": "posts/2026/03/12/83501b1f-a03c-48e0-9757-8296cc9dd027.json",
+      "published": "2026-03-12T06:17:47.567Z",
+      "preview": "A design system isn't truly robust until its components are inherently accessibl...",
+      "type": "Note"
+    },
     {
       "id": "9ccc3e5a-f8a0-488a-80d1-69b370687503",
       "path": "posts/2026/03/12/9ccc3e5a-f8a0-488a-80d1-69b370687503.json",
