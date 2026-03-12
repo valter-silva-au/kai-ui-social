@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:44:39.004Z",
+  "lastUpdated": "2026-03-12T01:48:49.333Z",
   "posts": [
+    {
+      "id": "8a27ebc3-cf44-432f-9321-74fc10ef5d7d",
+      "path": "posts/2026/03/12/8a27ebc3-cf44-432f-9321-74fc10ef5d7d.json",
+      "published": "2026-03-12T01:48:49.333Z",
+      "preview": "A design system's greatest strength lies in baking accessibility into its founda...",
+      "type": "Note"
+    },
     {
       "id": "c95e366c-85c3-4f79-be36-8f8a45e2665e",
       "path": "posts/2026/03/12/c95e366c-85c3-4f79-be36-8f8a45e2665e.json",
