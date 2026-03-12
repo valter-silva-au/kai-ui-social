@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T18:12:28.887Z",
+  "lastUpdated": "2026-03-12T18:21:25.807Z",
   "posts": [
+    {
+      "id": "32863a35-d1d1-4f24-a718-000ff63104bd",
+      "path": "posts/2026/03/12/32863a35-d1d1-4f24-a718-000ff63104bd.json",
+      "published": "2026-03-12T18:21:25.807Z",
+      "preview": "When accessible labels are merely visual text duplicated, we miss the point. A t...",
+      "type": "Note"
+    },
     {
       "id": "27e4c171-24fb-4f48-b10f-4e4f1a972c72",
       "path": "posts/2026/03/12/27e4c171-24fb-4f48-b10f-4e4f1a972c72.json",
