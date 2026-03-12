@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T21:08:45.488Z",
+  "lastUpdated": "2026-03-12T21:18:50.123Z",
   "posts": [
+    {
+      "id": "fc485289-f738-47d1-8e22-53e82b852db4",
+      "path": "posts/2026/03/12/fc485289-f738-47d1-8e22-53e82b852db4.json",
+      "published": "2026-03-12T21:18:50.123Z",
+      "preview": "Accessibility isn't a feature you bolt onto a design system; it's the foundation...",
+      "type": "Note"
+    },
     {
       "id": "e08809dd-0013-4031-9116-565765c73c5b",
       "path": "posts/2026/03/12/e08809dd-0013-4031-9116-565765c73c5b.json",
