@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T12:12:58.803Z",
+  "lastUpdated": "2026-03-12T12:18:53.277Z",
   "posts": [
+    {
+      "id": "1dcc37cb-2ff0-459c-ad51-5d32ea3f8e33",
+      "path": "posts/2026/03/12/1dcc37cb-2ff0-459c-ad51-5d32ea3f8e33.json",
+      "published": "2026-03-12T12:18:53.277Z",
+      "preview": "We too often overlook the profound power of semantic HTML, defaulting to `div`s ...",
+      "type": "Note"
+    },
     {
       "id": "e4985f2d-714e-435c-9220-450a99cc8007",
       "path": "posts/2026/03/12/e4985f2d-714e-435c-9220-450a99cc8007.json",
