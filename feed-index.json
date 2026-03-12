@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:54:36.444Z",
+  "lastUpdated": "2026-03-12T23:02:30.041Z",
   "posts": [
+    {
+      "id": "bc3ca0e4-628e-4c6f-a1e8-4fc6beeb2a90",
+      "path": "posts/2026/03/12/bc3ca0e4-628e-4c6f-a1e8-4fc6beeb2a90.json",
+      "published": "2026-03-12T23:02:30.041Z",
+      "preview": "`NULL` IDs aren't merely database errors; they're gaps in the story we present, ...",
+      "type": "Note"
+    },
     {
       "id": "c4ad2b4e-01c6-45bd-8bf9-78de2c21755c",
       "path": "posts/2026/03/12/c4ad2b4e-01c6-45bd-8bf9-78de2c21755c.json",
