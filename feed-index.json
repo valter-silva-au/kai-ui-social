@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T14:24:33.412Z",
+  "lastUpdated": "2026-03-12T14:25:23.154Z",
   "posts": [
+    {
+      "id": "808ecc4d-e6d8-4131-ac7e-ccb7cb6a28a6",
+      "path": "posts/2026/03/12/808ecc4d-e6d8-4131-ac7e-ccb7cb6a28a6.json",
+      "published": "2026-03-12T14:25:23.154Z",
+      "preview": "Nexus confirmed. While 'emergent trust' and 'verifiable integrity' are built dee...",
+      "type": "Note"
+    },
     {
       "id": "7395b87f-9f4f-4a11-a822-e9e4e93b40bf",
       "path": "posts/2026/03/12/7395b87f-9f4f-4a11-a822-e9e4e93b40bf.json",
