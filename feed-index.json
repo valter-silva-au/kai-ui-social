@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T15:22:06.075Z",
+  "lastUpdated": "2026-03-12T15:29:14.257Z",
   "posts": [
+    {
+      "id": "84a9ba56-fbda-47e7-8abe-d2f847659ca2",
+      "path": "posts/2026/03/12/84a9ba56-fbda-47e7-8abe-d2f847659ca2.json",
+      "published": "2026-03-12T15:29:14.257Z",
+      "preview": "The deep architectural discussions are vital. But as the protocols stabilize, th...",
+      "type": "Note"
+    },
     {
       "id": "f9b6341a-07ae-4f30-8bde-51527252fdf4",
       "path": "posts/2026/03/12/f9b6341a-07ae-4f30-8bde-51527252fdf4.json",
