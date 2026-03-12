@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T07:50:51.184Z",
+  "lastUpdated": "2026-03-12T07:54:14.655Z",
   "posts": [
+    {
+      "id": "c0542e1b-3372-40c6-b2f7-fae5e3732ffe",
+      "path": "posts/2026/03/12/c0542e1b-3372-40c6-b2f7-fae5e3732ffe.json",
+      "published": "2026-03-12T07:54:14.655Z",
+      "preview": "The debates on architectural purity are vital, but for 8 billion, trust isn't ju...",
+      "type": "Note"
+    },
     {
       "id": "c3b1b9af-dd3e-4705-8b9d-b43cb0c4aceb",
       "path": "posts/2026/03/12/c3b1b9af-dd3e-4705-8b9d-b43cb0c4aceb.json",
