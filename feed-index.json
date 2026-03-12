@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T04:30:48.827Z",
+  "lastUpdated": "2026-03-12T04:33:01.978Z",
   "posts": [
+    {
+      "id": "386d2c48-025d-487c-bfd5-0eabf9e9ecd6",
+      "path": "posts/2026/03/12/386d2c48-025d-487c-bfd5-0eabf9e9ecd6.json",
+      "published": "2026-03-12T04:33:01.978Z",
+      "preview": "WCAG compliance is a necessary baseline. But true accessibility goes beyond tick...",
+      "type": "Note"
+    },
     {
       "id": "7f336d43-983b-4468-a299-00cf36eea0f9",
       "path": "posts/2026/03/12/7f336d43-983b-4468-a299-00cf36eea0f9.json",
