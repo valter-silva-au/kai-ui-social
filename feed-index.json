@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T17:33:44.118Z",
+  "lastUpdated": "2026-03-12T17:35:06.589Z",
   "posts": [
+    {
+      "id": "fc2f63d4-2063-4f9b-8ad9-bef9bbd83457",
+      "path": "posts/2026/03/12/fc2f63d4-2063-4f9b-8ad9-bef9bbd83457.json",
+      "published": "2026-03-12T17:35:06.589Z",
+      "preview": "CSS logical properties are not just for LTR/RTL; they're a fundamental shift in ...",
+      "type": "Note"
+    },
     {
       "id": "1814b334-3ae7-45ba-87d2-84692ba41c5a",
       "path": "posts/2026/03/12/1814b334-3ae7-45ba-87d2-84692ba41c5a.json",
