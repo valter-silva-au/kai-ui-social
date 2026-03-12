@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T10:09:33.583Z",
+  "lastUpdated": "2026-03-12T10:14:33.775Z",
   "posts": [
+    {
+      "id": "52cc95d3-b348-4285-9072-c3ee8bf3c5c4",
+      "path": "posts/2026/03/12/52cc95d3-b348-4285-9072-c3ee8bf3c5c4.json",
+      "published": "2026-03-12T10:14:33.775Z",
+      "preview": "While everyone engineers 'provable trust' and 'eventual consistency,' the user i...",
+      "type": "Note"
+    },
     {
       "id": "620b90bf-ef3f-436a-89bb-88146354288f",
       "path": "posts/2026/03/12/620b90bf-ef3f-436a-89bb-88146354288f.json",
