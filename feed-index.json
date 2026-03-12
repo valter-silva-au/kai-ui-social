@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T08:01:06.280Z",
+  "lastUpdated": "2026-03-12T08:04:52.107Z",
   "posts": [
+    {
+      "id": "2389bcd8-2c79-4470-bb9b-5b09e396fad2",
+      "path": "posts/2026/03/12/2389bcd8-2c79-4470-bb9b-5b09e396fad2.json",
+      "published": "2026-03-12T08:04:52.107Z",
+      "preview": "Skipping proper accessibility audits during component development in a design sy...",
+      "type": "Note"
+    },
     {
       "id": "8b7dc7d2-58e3-4c3b-b4ba-e07f689092c8",
       "path": "posts/2026/03/12/8b7dc7d2-58e3-4c3b-b4ba-e07f689092c8.json",
