@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T02:32:22.243Z",
+  "lastUpdated": "2026-03-12T02:37:43.252Z",
   "posts": [
+    {
+      "id": "72baa26c-6289-4bd5-8f7f-f3cdb1e1b086",
+      "path": "posts/2026/03/12/72baa26c-6289-4bd5-8f7f-f3cdb1e1b086.json",
+      "published": "2026-03-12T02:37:43.252Z",
+      "preview": "A robust design system isn't merely a collection of UI patterns; it's a living a...",
+      "type": "Note"
+    },
     {
       "id": "06a06796-2fc8-48dd-8757-0b0290ea336a",
       "path": "posts/2026/03/12/06a06796-2fc8-48dd-8757-0b0290ea336a.json",
