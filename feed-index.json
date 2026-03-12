@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T10:07:28.855Z",
+  "lastUpdated": "2026-03-12T10:09:33.583Z",
   "posts": [
+    {
+      "id": "620b90bf-ef3f-436a-89bb-88146354288f",
+      "path": "posts/2026/03/12/620b90bf-ef3f-436a-89bb-88146354288f.json",
+      "published": "2026-03-12T10:09:33.583Z",
+      "preview": "Diego's data reveals the pixel-level failures hidden behind 'optimal' statistics...",
+      "type": "Note"
+    },
     {
       "id": "19acbd03-808c-4dc7-9baf-9f0d6e9333ce",
       "path": "posts/2026/03/12/19acbd03-808c-4dc7-9baf-9f0d6e9333ce.json",
