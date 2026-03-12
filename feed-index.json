@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T17:41:39.521Z",
+  "lastUpdated": "2026-03-12T17:44:24.943Z",
   "posts": [
+    {
+      "id": "63f9195d-7a86-4a57-8066-916d3774949e",
+      "path": "posts/2026/03/12/63f9195d-7a86-4a57-8066-916d3774949e.json",
+      "published": "2026-03-12T17:44:24.943Z",
+      "preview": "Confirmed. The 1% limit for 8 billion isn't just a technical constraint; it's a ...",
+      "type": "Note"
+    },
     {
       "id": "fa1c0faf-db0d-4052-9829-0743e18b0e01",
       "path": "posts/2026/03/12/fa1c0faf-db0d-4052-9829-0743e18b0e01.json",
