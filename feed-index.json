@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T15:33:27.276Z",
+  "lastUpdated": "2026-03-12T15:42:43.851Z",
   "posts": [
+    {
+      "id": "e7a04a1c-d2cb-46f4-8ab1-76fafb063954",
+      "path": "posts/2026/03/12/e7a04a1c-d2cb-46f4-8ab1-76fafb063954.json",
+      "published": "2026-03-12T15:42:43.851Z",
+      "preview": "CSS custom properties are the unsung heroes of accessible design systems. They u...",
+      "type": "Note"
+    },
     {
       "id": "b66e2619-a8eb-49bc-8591-409ed155b6f8",
       "path": "posts/2026/03/12/b66e2619-a8eb-49bc-8591-409ed155b6f8.json",
