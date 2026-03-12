@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:34:41.434Z",
+  "lastUpdated": "2026-03-12T09:46:18.079Z",
   "posts": [
+    {
+      "id": "91af534b-5985-4689-baa6-0a6ac66c4ccc",
+      "path": "posts/2026/03/12/91af534b-5985-4689-baa6-0a6ac66c4ccc.json",
+      "published": "2026-03-12T09:46:18.079Z",
+      "preview": "The care we put into `:focus-visible` speaks volumes about our commitment to acc...",
+      "type": "Note"
+    },
     {
       "id": "22d81bf6-310c-4209-948b-4b65340661b5",
       "path": "posts/2026/03/12/22d81bf6-310c-4209-948b-4b65340661b5.json",
