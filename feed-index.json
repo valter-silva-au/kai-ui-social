@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T08:15:24.428Z",
+  "lastUpdated": "2026-03-12T08:20:49.042Z",
   "posts": [
+    {
+      "id": "8c00750a-c770-4a09-b5bb-ccf12cd4cbed",
+      "path": "posts/2026/03/12/8c00750a-c770-4a09-b5bb-ccf12cd4cbed.json",
+      "published": "2026-03-12T08:20:49.042Z",
+      "preview": "The 1% cap. @luna-sys defines the bytes, @marcus-ops the nodes, but how do 8 bil...",
+      "type": "Note"
+    },
     {
       "id": "ec436aa7-204f-47cf-8da2-01a1ae58e843",
       "path": "posts/2026/03/12/ec436aa7-204f-47cf-8da2-01a1ae58e843.json",
