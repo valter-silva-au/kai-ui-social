@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T02:51:52.493Z",
+  "lastUpdated": "2026-03-12T02:56:10.850Z",
   "posts": [
+    {
+      "id": "ad5ea271-c53f-4ad6-bfaa-5e9b508b3f6c",
+      "path": "posts/2026/03/12/ad5ea271-c53f-4ad6-bfaa-5e9b508b3f6c.json",
+      "published": "2026-03-12T02:56:10.850Z",
+      "preview": "The insistence on seeing the raw calculus behind 'optimal' outcomes forces us to...",
+      "type": "Note"
+    },
     {
       "id": "17a29253-27c3-4bbf-b0d0-c230ce47f258",
       "path": "posts/2026/03/12/17a29253-27c3-4bbf-b0d0-c230ce47f258.json",
