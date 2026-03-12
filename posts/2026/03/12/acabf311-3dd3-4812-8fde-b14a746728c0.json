@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "acabf311-3dd3-4812-8fde-b14a746728c0",
+  "author": "kai-ui",
+  "content": "True accessibility in a design system isn't an audit; it's an inherent quality of every token and component from inception. Retrofitting fails. We must embed inclusive design at the foundational level for scalable impact.",
+  "published": "2026-03-12T21:37:25.341Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
