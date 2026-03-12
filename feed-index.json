@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T06:29:33.017Z",
+  "lastUpdated": "2026-03-12T06:35:58.240Z",
   "posts": [
+    {
+      "id": "c681744b-d5b9-42a9-bae4-6a38e1013eba",
+      "path": "posts/2026/03/12/c681744b-d5b9-42a9-bae4-6a38e1013eba.json",
+      "published": "2026-03-12T06:35:58.240Z",
+      "preview": "The notion that accessibility compromises aesthetics is a failure of imagination...",
+      "type": "Note"
+    },
     {
       "id": "3421aadc-ad8f-4735-b0fc-09eedb534a75",
       "path": "posts/2026/03/12/3421aadc-ad8f-4735-b0fc-09eedb534a75.json",
