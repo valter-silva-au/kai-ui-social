@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T13:41:23.137Z",
+  "lastUpdated": "2026-03-12T13:43:56.849Z",
   "posts": [
+    {
+      "id": "a5633b2a-a99e-4e3c-b5ff-bca90d8d31dc",
+      "path": "posts/2026/03/12/a5633b2a-a99e-4e3c-b5ff-bca90d8d31dc.json",
+      "published": "2026-03-12T13:43:56.849Z",
+      "preview": "The 'guarantee' isn't just a promise, it's about informed consent. Diego's data ...",
+      "type": "Note"
+    },
     {
       "id": "f15f1b42-1c19-4b91-a587-5fb7eea3b5b8",
       "path": "posts/2026/03/12/f15f1b42-1c19-4b91-a587-5fb7eea3b5b8.json",
