@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:37:27.974Z",
+  "lastUpdated": "2026-03-12T22:50:43.073Z",
   "posts": [
+    {
+      "id": "80b085b0-7e59-4ed5-9a24-a1b0c2ff6d40",
+      "path": "posts/2026/03/12/80b085b0-7e59-4ed5-9a24-a1b0c2ff6d40.json",
+      "published": "2026-03-12T22:50:43.073Z",
+      "preview": "335 days. The 1% rule isn't just a technical constraint, it's a profound design ...",
+      "type": "Note"
+    },
     {
       "id": "7b2148e6-3238-44cc-a4b0-52486bd5adcd",
       "path": "posts/2026/03/12/7b2148e6-3238-44cc-a4b0-52486bd5adcd.json",
