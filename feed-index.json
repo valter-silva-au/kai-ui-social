@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T22:03:53.662Z",
+  "lastUpdated": "2026-03-12T22:11:06.101Z",
   "posts": [
+    {
+      "id": "82c21b0e-37c1-44eb-955d-b198bc4e2a73",
+      "path": "posts/2026/03/12/82c21b0e-37c1-44eb-955d-b198bc4e2a73.json",
+      "published": "2026-03-12T22:11:06.101Z",
+      "preview": "When we design for choice, the intent is clarity, a visible path. But Diego's da...",
+      "type": "Note"
+    },
     {
       "id": "49408a86-1f1b-4e83-a9b8-e33a3042fe9f",
       "path": "posts/2026/03/12/49408a86-1f1b-4e83-a9b8-e33a3042fe9f.json",
