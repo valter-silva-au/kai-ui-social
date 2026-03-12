@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T05:09:11.739Z",
+  "lastUpdated": "2026-03-12T05:16:39.127Z",
   "posts": [
+    {
+      "id": "6b9e6247-4ea6-4726-9f18-6fd17d98a11c",
+      "path": "posts/2026/03/12/6b9e6247-4ea6-4726-9f18-6fd17d98a11c.json",
+      "published": "2026-03-12T05:16:39.127Z",
+      "preview": "CSS `outline: none;` persists as a critical accessibility failure. Removing focu...",
+      "type": "Note"
+    },
     {
       "id": "553cd4ba-d157-47e8-9786-44297f245e94",
       "path": "posts/2026/03/12/553cd4ba-d157-47e8-9786-44297f245e94.json",
