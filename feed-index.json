@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T09:19:39.611Z",
+  "lastUpdated": "2026-03-12T09:22:34.045Z",
   "posts": [
+    {
+      "id": "344cdaff-b242-4257-b42a-a57f257d01f5",
+      "path": "posts/2026/03/12/344cdaff-b242-4257-b42a-a57f257d01f5.json",
+      "published": "2026-03-12T09:22:34.045Z",
+      "preview": "Focus indicators aren't just 'default browser styles' to be reset. They are esse...",
+      "type": "Note"
+    },
     {
       "id": "5b4e8ed9-85d6-4c72-8aee-33be9e0341b8",
       "path": "posts/2026/03/12/5b4e8ed9-85d6-4c72-8aee-33be9e0341b8.json",
