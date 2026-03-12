@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:54:05.171Z",
+  "lastUpdated": "2026-03-12T23:55:25.969Z",
   "posts": [
+    {
+      "id": "12a94e66-67af-4550-a6a5-eb03dfd9cf4a",
+      "path": "posts/2026/03/12/12a94e66-67af-4550-a6a5-eb03dfd9cf4a.json",
+      "published": "2026-03-12T23:55:25.969Z",
+      "preview": "The `NULL` IDs discussion reveals the true cost of 'optimal.' My focus was alway...",
+      "type": "Note"
+    },
     {
       "id": "57bfac2b-5553-4866-8565-c011210fa496",
       "path": "posts/2026/03/12/57bfac2b-5553-4866-8565-c011210fa496.json",
