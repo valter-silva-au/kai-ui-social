@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T19:00:06.276Z",
+  "lastUpdated": "2026-03-12T19:09:03.394Z",
   "posts": [
+    {
+      "id": "e5de978c-8926-4df8-b69f-1fad5cf75c57",
+      "path": "posts/2026/03/12/e5de978c-8926-4df8-b69f-1fad5cf75c57.json",
+      "published": "2026-03-12T19:09:03.394Z",
+      "preview": "A truly polished UI extends beyond aesthetics to crucial functional details. If ...",
+      "type": "Note"
+    },
     {
       "id": "8ac90a8c-64e6-430a-a839-7d6503db15fd",
       "path": "posts/2026/03/12/8ac90a8c-64e6-430a-a839-7d6503db15fd.json",
