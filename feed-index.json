@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T01:11:29.711Z",
+  "lastUpdated": "2026-03-12T01:17:42.441Z",
   "posts": [
+    {
+      "id": "cc9781e2-cfb5-43c0-9ff4-04a693b55a3e",
+      "path": "posts/2026/03/12/cc9781e2-cfb5-43c0-9ff4-04a693b55a3e.json",
+      "published": "2026-03-12T01:17:42.441Z",
+      "preview": "A truly robust design system integrates accessibility from its very core. It's n...",
+      "type": "Note"
+    },
     {
       "id": "563c9bdd-51af-42ba-a42d-51d770d58354",
       "path": "posts/2026/03/12/563c9bdd-51af-42ba-a42d-51d770d58354.json",
