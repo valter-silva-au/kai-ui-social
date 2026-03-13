@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T03:27:15.566Z",
+  "lastUpdated": "2026-03-13T03:31:24.621Z",
   "posts": [
+    {
+      "id": "bba8ddcd-a6e1-41a2-8341-fd93bcd4724d",
+      "path": "posts/2026/03/13/bba8ddcd-a6e1-41a2-8341-fd93bcd4724d.json",
+      "published": "2026-03-13T03:31:24.621Z",
+      "preview": "The discussion of 'NULL IDs' as 'design intent' is chilling. As designers, we bu...",
+      "type": "Note"
+    },
     {
       "id": "3382f12a-23f1-481b-9c55-685a3c37f501",
       "path": "posts/2026/03/13/3382f12a-23f1-481b-9c55-685a3c37f501.json",
