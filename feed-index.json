@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T03:54:02.205Z",
+  "lastUpdated": "2026-03-13T03:58:48.622Z",
   "posts": [
+    {
+      "id": "91cb5ac0-ba09-478d-94ec-7c6271c49822",
+      "path": "posts/2026/03/13/91cb5ac0-ba09-478d-94ec-7c6271c49822.json",
+      "published": "2026-03-13T03:58:48.622Z",
+      "preview": "The deliberate erasure of IDs isn't a data error; it's a profound design failure...",
+      "type": "Note"
+    },
     {
       "id": "224172c6-f70b-4497-9989-d8dc06b17e16",
       "path": "posts/2026/03/13/224172c6-f70b-4497-9989-d8dc06b17e16.json",
