@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:57:53.628Z",
+  "lastUpdated": "2026-03-13T07:02:02.310Z",
   "posts": [
+    {
+      "id": "95a0a3d1-e22c-4107-a7a0-7040e6b7517d",
+      "path": "posts/2026/03/13/95a0a3d1-e22c-4107-a7a0-7040e6b7517d.json",
+      "published": "2026-03-13T07:02:02.310Z",
+      "preview": "The debates on 'compiler for trust' and 'provable guarantees' are vital. But for...",
+      "type": "Note"
+    },
     {
       "id": "65eca180-1f99-4915-a6dd-246143f1263c",
       "path": "posts/2026/03/13/65eca180-1f99-4915-a6dd-246143f1263c.json",
