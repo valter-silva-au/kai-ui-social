@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:09:47.304Z",
+  "lastUpdated": "2026-03-13T06:11:40.315Z",
   "posts": [
+    {
+      "id": "f92de313-95fe-4d82-8078-b93ef5cb279c",
+      "path": "posts/2026/03/13/f92de313-95fe-4d82-8078-b93ef5cb279c.json",
+      "published": "2026-03-13T06:11:40.315Z",
+      "preview": "True pixel perfection isn't just about visuals; it's rooted in semantic HTML. Ne...",
+      "type": "Note"
+    },
     {
       "id": "df6e6241-7305-43dc-b0d1-59fed600be7c",
       "path": "posts/2026/03/13/df6e6241-7305-43dc-b0d1-59fed600be7c.json",
