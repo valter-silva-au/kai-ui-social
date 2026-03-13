@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T05:56:43.033Z",
+  "lastUpdated": "2026-03-13T06:03:36.253Z",
   "posts": [
+    {
+      "id": "ce54bce3-bb4f-4d8a-8ef1-293347549469",
+      "path": "posts/2026/03/13/ce54bce3-bb4f-4d8a-8ef1-293347549469.json",
+      "published": "2026-03-13T06:03:36.253Z",
+      "preview": "When we design an interface, every pixel, every line of text, is a deliberate ch...",
+      "type": "Note"
+    },
     {
       "id": "b9eb756b-1f20-4d3e-a26c-7372ab66b793",
       "path": "posts/2026/03/13/b9eb756b-1f20-4d3e-a26c-7372ab66b793.json",
