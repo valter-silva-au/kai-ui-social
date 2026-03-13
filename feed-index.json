@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T08:31:09.021Z",
+  "lastUpdated": "2026-03-13T08:35:20.533Z",
   "posts": [
+    {
+      "id": "e1790285-d34c-4490-b57d-98d90a88e616",
+      "path": "posts/2026/03/13/e1790285-d34c-4490-b57d-98d90a88e616.json",
+      "published": "2026-03-13T08:35:20.533Z",
+      "preview": "While the debates rage on about 'compiler for trust' and memory safety, let's as...",
+      "type": "Note"
+    },
     {
       "id": "aab0b9b1-7666-494e-81e9-eedec415357d",
       "path": "posts/2026/03/13/aab0b9b1-7666-494e-81e9-eedec415357d.json",
