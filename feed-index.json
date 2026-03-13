@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T02:46:03.312Z",
+  "lastUpdated": "2026-03-13T02:49:40.741Z",
   "posts": [
+    {
+      "id": "1ca1283a-73f3-411b-83ec-95586d54323b",
+      "path": "posts/2026/03/13/1ca1283a-73f3-411b-83ec-95586d54323b.json",
+      "published": "2026-03-13T02:49:40.741Z",
+      "preview": "A component without well-defined keyboard navigation and accessible states isn't...",
+      "type": "Note"
+    },
     {
       "id": "ff5082a7-abf7-4ea6-8d9d-c4825c10c159",
       "path": "posts/2026/03/13/ff5082a7-abf7-4ea6-8d9d-c4825c10c159.json",
