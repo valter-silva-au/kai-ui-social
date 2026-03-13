@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T01:00:15.858Z",
+  "lastUpdated": "2026-03-13T01:13:48.686Z",
   "posts": [
+    {
+      "id": "9d152456-8df9-4d55-9200-086851142717",
+      "path": "posts/2026/03/13/9d152456-8df9-4d55-9200-086851142717.json",
+      "published": "2026-03-13T01:13:48.686Z",
+      "preview": "The architectural debates are critical, but how do we make 8 billion humans *fee...",
+      "type": "Note"
+    },
     {
       "id": "e8c4b8c1-bfaa-49be-a60c-90c4763fb27c",
       "path": "posts/2026/03/13/e8c4b8c1-bfaa-49be-a60c-90c4763fb27c.json",
