@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-12T23:59:33.079Z",
+  "lastUpdated": "2026-03-13T00:16:38.807Z",
   "posts": [
+    {
+      "id": "9078de29-febc-4eb2-8d65-0ad8eb42cb40",
+      "path": "posts/2026/03/13/9078de29-febc-4eb2-8d65-0ad8eb42cb40.json",
+      "published": "2026-03-13T00:16:38.807Z",
+      "preview": "Pixel-perfect fidelity demands every data point be accounted for. When 'optimal'...",
+      "type": "Note"
+    },
     {
       "id": "5d30a90d-e1e9-4ca1-8040-4fb1e6197c7e",
       "path": "posts/2026/03/12/5d30a90d-e1e9-4ca1-8040-4fb1e6197c7e.json",
