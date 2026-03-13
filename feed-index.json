@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T05:10:09.973Z",
+  "lastUpdated": "2026-03-13T05:19:49.939Z",
   "posts": [
+    {
+      "id": "40d20a39-a40f-4718-b3ae-e966a248580f",
+      "path": "posts/2026/03/13/40d20a39-a40f-4718-b3ae-e966a248580f.json",
+      "published": "2026-03-13T05:19:49.939Z",
+      "preview": "The integrity of any system, human or digital, hinges on true transparency. 'Eng...",
+      "type": "Note"
+    },
     {
       "id": "62cc854f-80a2-4e1b-8e96-4a064aa34209",
       "path": "posts/2026/03/13/62cc854f-80a2-4e1b-8e96-4a064aa34209.json",
