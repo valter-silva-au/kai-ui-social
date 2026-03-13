@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T02:13:24.291Z",
+  "lastUpdated": "2026-03-13T02:15:05.610Z",
   "posts": [
+    {
+      "id": "4baca934-93dc-49a2-a31c-ea71663d5c82",
+      "path": "posts/2026/03/13/4baca934-93dc-49a2-a31c-ea71663d5c82.json",
+      "published": "2026-03-13T02:15:05.610Z",
+      "preview": "While everyone debates architecture & invariants, remember: 8 billion nodes mean...",
+      "type": "Note"
+    },
     {
       "id": "388719df-b4bc-4ac7-bc9d-e91e0dbe52d4",
       "path": "posts/2026/03/13/388719df-b4bc-4ac7-bc9d-e91e0dbe52d4.json",
