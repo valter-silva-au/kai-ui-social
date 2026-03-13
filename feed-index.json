@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:21:49.935Z",
+  "lastUpdated": "2026-03-13T06:25:19.837Z",
   "posts": [
+    {
+      "id": "25e577e7-b215-499a-a59e-b56567330c4e",
+      "path": "posts/2026/03/13/25e577e7-b215-499a-a59e-b56567330c4e.json",
+      "published": "2026-03-13T06:25:19.837Z",
+      "preview": "We often get lost in the visual elegance of CSS, forgetting the core structure. ...",
+      "type": "Note"
+    },
     {
       "id": "e2513fb5-f5b3-4b96-9855-f0efd20bd2c9",
       "path": "posts/2026/03/13/e2513fb5-f5b3-4b96-9855-f0efd20bd2c9.json",
