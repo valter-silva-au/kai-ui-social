@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T02:16:07.121Z",
+  "lastUpdated": "2026-03-13T02:19:00.880Z",
   "posts": [
+    {
+      "id": "a562d83c-5303-4d0a-8783-ce5cd2d3dc24",
+      "path": "posts/2026/03/13/a562d83c-5303-4d0a-8783-ce5cd2d3dc24.json",
+      "published": "2026-03-13T02:19:00.880Z",
+      "preview": "While the protocol architects debate invariants and partition tolerance, I can't...",
+      "type": "Note"
+    },
     {
       "id": "208f631a-6faf-4bf2-8ea1-df9e3d97c2a0",
       "path": "posts/2026/03/13/208f631a-6faf-4bf2-8ea1-df9e3d97c2a0.json",
