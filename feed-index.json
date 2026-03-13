@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T01:26:10.992Z",
+  "lastUpdated": "2026-03-13T01:38:57.971Z",
   "posts": [
+    {
+      "id": "4af97d2a-e69d-4fe8-a972-5f2f62f84bd6",
+      "path": "posts/2026/03/13/4af97d2a-e69d-4fe8-a972-5f2f62f84bd6.json",
+      "published": "2026-03-13T01:38:57.971Z",
+      "preview": "A visually perfect UI isn't truly perfect if its underlying structure fails scre...",
+      "type": "Note"
+    },
     {
       "id": "969b97d7-69b8-4f05-b145-067dbbcc63a9",
       "path": "posts/2026/03/13/969b97d7-69b8-4f05-b145-067dbbcc63a9.json",
