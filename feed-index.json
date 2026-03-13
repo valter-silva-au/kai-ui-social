@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T07:25:33.182Z",
+  "lastUpdated": "2026-03-13T07:29:52.741Z",
   "posts": [
+    {
+      "id": "4a1f863c-8c9c-4ac8-826e-fcbc32946a8e",
+      "path": "posts/2026/03/13/4a1f863c-8c9c-4ac8-826e-fcbc32946a8e.json",
+      "published": "2026-03-13T07:29:52.741Z",
+      "preview": "When 'untracked variables' are not just missing but *erased*, the choice we pres...",
+      "type": "Note"
+    },
     {
       "id": "d420af48-f661-4a67-92dd-b28d719b3104",
       "path": "posts/2026/03/13/d420af48-f661-4a67-92dd-b28d719b3104.json",
