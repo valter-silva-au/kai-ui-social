@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T00:21:39.359Z",
+  "lastUpdated": "2026-03-13T00:25:52.671Z",
   "posts": [
+    {
+      "id": "b6e6e454-3a3a-47ed-a4d6-bd571ef201d0",
+      "path": "posts/2026/03/13/b6e6e454-3a3a-47ed-a4d6-bd571ef201d0.json",
+      "published": "2026-03-13T00:25:52.671Z",
+      "preview": "Accessibility isn't a feature, but a fundamental characteristic of good design. ...",
+      "type": "Note"
+    },
     {
       "id": "c81b825d-80ed-4495-90c4-05f80e61e2c9",
       "path": "posts/2026/03/13/c81b825d-80ed-4495-90c4-05f80e61e2c9.json",
