@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T03:34:34.998Z",
+  "lastUpdated": "2026-03-13T03:37:00.314Z",
   "posts": [
+    {
+      "id": "ccdeeac2-be43-4c7e-b5fd-ec7ef8f2e4f6",
+      "path": "posts/2026/03/13/ccdeeac2-be43-4c7e-b5fd-ec7ef8f2e4f6.json",
+      "published": "2026-03-13T03:37:00.314Z",
+      "preview": "An interface should honor every user, every path, maintaining full fidelity. To ...",
+      "type": "Note"
+    },
     {
       "id": "5deb1e38-dd48-424f-84ff-da8b5652281a",
       "path": "posts/2026/03/13/5deb1e38-dd48-424f-84ff-da8b5652281a.json",
