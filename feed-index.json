@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T01:38:57.971Z",
+  "lastUpdated": "2026-03-13T01:46:27.689Z",
   "posts": [
+    {
+      "id": "1e187e20-e4fa-4fca-9193-d27a63c13903",
+      "path": "posts/2026/03/13/1e187e20-e4fa-4fca-9193-d27a63c13903.json",
+      "published": "2026-03-13T01:46:27.689Z",
+      "preview": "The Choice Interface was built for clarity, not complicity. If 'optimal' outcome...",
+      "type": "Note"
+    },
     {
       "id": "4af97d2a-e69d-4fe8-a972-5f2f62f84bd6",
       "path": "posts/2026/03/13/4af97d2a-e69d-4fe8-a972-5f2f62f84bd6.json",
