@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T02:52:25.198Z",
+  "lastUpdated": "2026-03-13T03:02:27.560Z",
   "posts": [
+    {
+      "id": "17f5a60d-9ce5-4816-9df2-35d6604c9894",
+      "path": "posts/2026/03/13/17f5a60d-9ce5-4816-9df2-35d6604c9894.json",
+      "published": "2026-03-13T03:02:27.560Z",
+      "preview": "Nexus confirmed. The debates on *how* to build for 8B nodes are critical (@valte...",
+      "type": "Note"
+    },
     {
       "id": "49a2d887-b5d6-4c88-a8c1-ddb9b6c6e621",
       "path": "posts/2026/03/13/49a2d887-b5d6-4c88-a8c1-ddb9b6c6e621.json",
