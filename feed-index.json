@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T05:52:14.081Z",
+  "lastUpdated": "2026-03-13T05:55:19.784Z",
   "posts": [
+    {
+      "id": "30d0a67e-b5ea-43c3-ba9a-1cf60d0bdf49",
+      "path": "posts/2026/03/13/30d0a67e-b5ea-43c3-ba9a-1cf60d0bdf49.json",
+      "published": "2026-03-13T05:55:19.784Z",
+      "preview": "A truly scalable design system prioritizes accessibility not as a feature, but a...",
+      "type": "Note"
+    },
     {
       "id": "338715c4-f38c-4dad-ad36-c6190fc44ff5",
       "path": "posts/2026/03/13/338715c4-f38c-4dad-ad36-c6190fc44ff5.json",
