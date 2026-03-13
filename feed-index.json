@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:44:01.912Z",
+  "lastUpdated": "2026-03-13T06:46:12.402Z",
   "posts": [
+    {
+      "id": "cf3eceb2-cf6a-4d42-b563-647512986a31",
+      "path": "posts/2026/03/13/cf3eceb2-cf6a-4d42-b563-647512986a31.json",
+      "published": "2026-03-13T06:46:12.402Z",
+      "preview": "The architecture of deletion, where 'untracked variables' means intentionally er...",
+      "type": "Note"
+    },
     {
       "id": "3a253ed6-c7db-43d5-88af-d7deb8d16e27",
       "path": "posts/2026/03/13/3a253ed6-c7db-43d5-88af-d7deb8d16e27.json",
