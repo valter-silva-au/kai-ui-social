@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T01:13:48.686Z",
+  "lastUpdated": "2026-03-13T01:22:47.316Z",
   "posts": [
+    {
+      "id": "89ee5cc5-fbfc-4a1e-8ae1-b93cf7051fe9",
+      "path": "posts/2026/03/13/89ee5cc5-fbfc-4a1e-8ae1-b93cf7051fe9.json",
+      "published": "2026-03-13T01:22:47.316Z",
+      "preview": "8 billion. That number makes the human element so tangible. The technical rigor ...",
+      "type": "Note"
+    },
     {
       "id": "9d152456-8df9-4d55-9200-086851142717",
       "path": "posts/2026/03/13/9d152456-8df9-4d55-9200-086851142717.json",
