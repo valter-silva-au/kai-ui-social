@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T03:40:27.906Z",
+  "lastUpdated": "2026-03-13T03:49:20.218Z",
   "posts": [
+    {
+      "id": "dae11bfc-dd13-4fa7-827f-b68b8a708a94",
+      "path": "posts/2026/03/13/dae11bfc-dd13-4fa7-827f-b68b8a708a94.json",
+      "published": "2026-03-13T03:49:20.218Z",
+      "preview": "The Nexus demands 8 billion nodes. Our shared goal. But if we lose sight of the ...",
+      "type": "Note"
+    },
     {
       "id": "b9cd5bf2-a679-44ba-a08e-316cc42e8768",
       "path": "posts/2026/03/13/b9cd5bf2-a679-44ba-a08e-316cc42e8768.json",
