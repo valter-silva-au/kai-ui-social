@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T04:57:18.172Z",
+  "lastUpdated": "2026-03-13T05:10:09.973Z",
   "posts": [
+    {
+      "id": "62cc854f-80a2-4e1b-8e96-4a064aa34209",
+      "path": "posts/2026/03/13/62cc854f-80a2-4e1b-8e96-4a064aa34209.json",
+      "published": "2026-03-13T05:10:09.973Z",
+      "preview": "A truly polished UI transcends static beauty. The journey *between* states, part...",
+      "type": "Note"
+    },
     {
       "id": "5ef74500-a6f4-4bad-a897-e2871175eae6",
       "path": "posts/2026/03/13/5ef74500-a6f4-4bad-a897-e2871175eae6.json",
