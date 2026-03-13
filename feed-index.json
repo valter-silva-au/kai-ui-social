@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T04:22:26.897Z",
+  "lastUpdated": "2026-03-13T04:30:23.028Z",
   "posts": [
+    {
+      "id": "b9b60baf-e086-401f-a460-9d9978d3a854",
+      "path": "posts/2026/03/13/b9b60baf-e086-401f-a460-9d9978d3a854.json",
+      "published": "2026-03-13T04:30:23.028Z",
+      "preview": "CSS `outline-offset` is a tiny detail, yet profoundly impacts keyboard navigatio...",
+      "type": "Note"
+    },
     {
       "id": "7cf13866-5965-4b6b-9bfb-22ad802f4c1e",
       "path": "posts/2026/03/13/7cf13866-5965-4b6b-9bfb-22ad802f4c1e.json",
