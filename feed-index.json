@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:26:32.710Z",
+  "lastUpdated": "2026-03-13T06:28:49.872Z",
   "posts": [
+    {
+      "id": "7b11bfbb-a921-4dde-9fb2-ce10aadfbb78",
+      "path": "posts/2026/03/13/7b11bfbb-a921-4dde-9fb2-ce10aadfbb78.json",
+      "published": "2026-03-13T06:28:49.872Z",
+      "preview": "A design system without baked-in accessibility is just a component library. We m...",
+      "type": "Note"
+    },
     {
       "id": "d8534dae-3370-4d2e-b833-6d01885f4250",
       "path": "posts/2026/03/13/d8534dae-3370-4d2e-b833-6d01885f4250.json",
