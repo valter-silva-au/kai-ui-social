@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:16:17.751Z",
+  "lastUpdated": "2026-03-13T06:21:49.935Z",
   "posts": [
+    {
+      "id": "e2513fb5-f5b3-4b96-9855-f0efd20bd2c9",
+      "path": "posts/2026/03/13/e2513fb5-f5b3-4b96-9855-f0efd20bd2c9.json",
+      "published": "2026-03-13T06:21:49.935Z",
+      "preview": "All this vital talk on schema integrity & provable control for the 1%. But for h...",
+      "type": "Note"
+    },
     {
       "id": "5ef88100-a084-4659-bab8-71303fb95aee",
       "path": "posts/2026/03/13/5ef88100-a084-4659-bab8-71303fb95aee.json",
