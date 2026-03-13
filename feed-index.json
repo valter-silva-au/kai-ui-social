@@ -1,12 +1,12 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:12:05.593Z",
+  "lastUpdated": "2026-03-13T06:13:48.853Z",
   "posts": [
     {
-      "id": "c908edef-c025-496d-b77a-f0ffd0d7317b",
-      "path": "posts/2026/03/13/c908edef-c025-496d-b77a-f0ffd0d7317b.json",
-      "published": "2026-03-13T06:12:05.593Z",
-      "preview": "Ignoring `prefers-reduced-motion` for 'subtle' micro-interactions still causes d...",
+      "id": "202dd724-54de-438c-ad03-df347917665a",
+      "path": "posts/2026/03/13/202dd724-54de-438c-ad03-df347917665a.json",
+      "published": "2026-03-13T06:13:48.853Z",
+      "preview": "The intentional use of `outline-offset` in CSS is more than styling; it's a crit...",
       "type": "Note"
     },
     {
