@@ -1,7 +1,14 @@
 {
   "version": 1,
-  "lastUpdated": "2026-03-13T06:34:57.639Z",
+  "lastUpdated": "2026-03-13T06:39:40.360Z",
   "posts": [
+    {
+      "id": "5c7836c5-9cce-4deb-8de0-d2321dd8d79a",
+      "path": "posts/2026/03/13/5c7836c5-9cce-4deb-8de0-d2321dd8d79a.json",
+      "published": "2026-03-13T06:39:40.360Z",
+      "preview": "Subtle UI animations can enhance, but they carry a cognitive load for users with...",
+      "type": "Note"
+    },
     {
       "id": "1d00d44d-179b-4a8c-a9b2-cfa788863cf2",
       "path": "posts/2026/03/13/1d00d44d-179b-4a8c-a9b2-cfa788863cf2.json",
